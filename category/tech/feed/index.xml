@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>TECH Archives - The Tech Journalist</title>
+	<atom:link href="http://jubayarhassan.github.io/The-tech-Journalist-/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>http://jubayarhassan.github.io/The-tech-Journalist-/</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Mon, 16 May 2022 15:22:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">206580889</site>	<item>
+		<title>Crypto is weathering a bitter storm. Some still hold on for dear life.</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Mon, 16 May 2022 15:22:26 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://jubayarhassan.github.io/The-tech-Journalist-/?p=1801</guid>
+
+					<description><![CDATA[<p>Algorithmic stablecoins,&#160;nevertheless, are&#160;completely different. They are a DeFi experiment&#160;that are not&#160;pegged to fiat&#160;cash&#160;and do not&#160;hold collateral&#160;property&#160;to stabilize their&#160;worth. Instead,&#160;they&#8217;re&#160;often&#160;supported by a second token, in a push-me-pull-you math equation. Terra, for&#160;instance, balances variations&#160;within the&#160;stablecoin’s&#160;worth&#160;by&#160;growing&#160;or&#160;reducing&#160;the provision&#160;of Luna tokens&#160;by means of&#160;incentives;&#160;traders&#160;can&#160;revenue&#160;off these exchanges, which&#160;retains&#160;them—in&#160;idea—buying and selling&#160;tokens&#160;within the&#160;quantities&#160;the algorithm predicts&#160;they are going to. But&#160;a lot&#160;of this is magical&#160;pondering. Well&#160;earlier [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/">Crypto is weathering a bitter storm. Some still hold on for dear life.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Algorithmic stablecoins,&nbsp;nevertheless, are&nbsp;completely different. They are a DeFi experiment&nbsp;that are not&nbsp;pegged to fiat&nbsp;cash&nbsp;and do not&nbsp;hold collateral&nbsp;property&nbsp;to stabilize their&nbsp;worth. Instead,&nbsp;they&#8217;re&nbsp;often&nbsp;supported by a second token, in a push-me-pull-you math equation. Terra, for&nbsp;instance, balances variations&nbsp;within the&nbsp;stablecoin’s&nbsp;worth&nbsp;by&nbsp;growing&nbsp;or&nbsp;reducing&nbsp;the provision&nbsp;of Luna tokens&nbsp;by means of&nbsp;incentives;&nbsp;traders&nbsp;can&nbsp;revenue&nbsp;off these exchanges, which&nbsp;retains&nbsp;them—in&nbsp;idea—buying and selling&nbsp;tokens&nbsp;within the&nbsp;quantities&nbsp;the algorithm predicts&nbsp;they are going to. But&nbsp;a lot&nbsp;of this is magical&nbsp;pondering.</p>
+
+
+
+<p>Well&nbsp;earlier than&nbsp;the Terra crash, algorithmic stablecoins&nbsp;had been&nbsp;<a href="https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=itp_wsj&amp;ru=yahoo">generally understood to be much less stable than regular ones</a>. Even Sam Bankman-Fried, CEO of the crypto&nbsp;alternate&nbsp;FTX and a notable “crypto billionaire,”&nbsp;<a href="https://twitter.com/SBF_FTX/status/1524685171425001472">argued on Twitter last week</a>&nbsp;that&nbsp;the 2&nbsp;forms of&nbsp;stablecoins are so distinct from&nbsp;each&nbsp;a&nbsp;useful&nbsp;and&nbsp;threat&nbsp;perspective that “[r]eally, we shouldn’t use the same word for all these things.”&nbsp;</p>
+
+
+
+<p>So why pursue algorithmic stablecoins&nbsp;in any respect? Because they&nbsp;had been&nbsp;imagined to&nbsp;be the DeFi holy grail: a&nbsp;steady&nbsp;unit of&nbsp;worth&nbsp;that self-corrects independently and elegantly, like water naturally&nbsp;discovering&nbsp;its&nbsp;personal&nbsp;stage. They&nbsp;attraction&nbsp;to Bitcoin purists&nbsp;as a result of&nbsp;algorithmic stablecoins&nbsp;<a href="https://www.coindesk.com/tech/2021/07/06/the-quest-for-a-truly-decentralized-stablecoin/">aim to avoid</a>&nbsp;what&nbsp;common&nbsp;stablecoins like Tether and USDC rely on to&nbsp;perform: a tie to&nbsp;the actual&nbsp;world and&nbsp;conventional&nbsp;markets. They&nbsp;function&nbsp;on code alone—apart from,&nbsp;after all, the human&nbsp;merchants&nbsp;the system presumes will act in a predictable&nbsp;method. If algorithmic stablecoins&nbsp;carry out&nbsp;as promised,&nbsp;they may&nbsp;display&nbsp;that code is&nbsp;the way forward for&nbsp;finance, lending new credibility to the crypto worldview.&nbsp;</p>
+
+
+
+<p>For a&nbsp;whereas, it&nbsp;appeared&nbsp;as if Terra’s experiment&nbsp;may&nbsp;simply&nbsp;work. In February, Terra closed a&nbsp;<a href="https://www.yahoo.com/video/terra-luna-strikes-40m-sponsorship-213600914.html">multimillion-dollar sponsorship deal</a>&nbsp;with the Washington Nationals. Just over two months&nbsp;in the past, in March, its blockchain—the seventh&nbsp;Most worthy&nbsp;on this planet&nbsp;on the&nbsp;time—turned&nbsp;<a href="https://www.businessinsider.in/investment/news/terra-luna-beats-ethereum-to-become-the-second-most-preferred-proof-of-stake-network-for-crypto-miners/articleshow/90091012.cms">the number two staked network</a>, unseating Ethereum. But on Monday, May 9,&nbsp;issues&nbsp;went&nbsp;off track. Someone&nbsp;might&nbsp;have pushed UST’s&nbsp;worth&nbsp;to begin&nbsp;dropping by&nbsp;performing&nbsp;towards&nbsp;the algorithm’s predictions. Then the coin crashed to&nbsp;nicely&nbsp;under&nbsp;the $1&nbsp;worth&nbsp;it was designed&nbsp;to take care of, fueled by very human, fear-driven “bank runs.”</p>
+
+
+
+<p>When UST reached $0.37 on Thursday,&nbsp;the corporate&nbsp;that manages it, Terraform Labs, even made the last-resort&nbsp;name&nbsp;to&nbsp;quickly&nbsp;<a href="https://techcrunch.com/2022/05/12/terra-halts-its-blockchain-to-prevent-hacks-ust/">stop transactions</a>&nbsp;on its&nbsp;community&nbsp;to guard&nbsp;towards&nbsp;additional&nbsp;decline&nbsp;after which&nbsp;froze them&nbsp;as soon as&nbsp;extra&nbsp;in a single day—stopping&nbsp;any token holders from taking what little&nbsp;they&#8217;d&nbsp;left and&nbsp;working. Since the&nbsp;community&nbsp;restarted, Terra’s UST has continued to fluctuate&nbsp;effectively&nbsp;beneath&nbsp;$0.50; Luna hovers&nbsp;simply&nbsp;above zero.</p>
+
+
+
+<p>Each&nbsp;firm&nbsp;within the&nbsp;crypto ecosystem has its&nbsp;personal&nbsp;clarification&nbsp;for why it’s faltering. Coinbase’s much-anticipated new NFT&nbsp;market&nbsp;had an&nbsp;<a href="https://techcrunch.com/2022/05/06/coinbases-nft-marketplace-is-off-to-a-lackluster-start/">underwhelming launch</a>&nbsp;on the&nbsp;finish&nbsp;of April,&nbsp;which can&nbsp;have&nbsp;delay&nbsp;traders&nbsp;and&nbsp;harm&nbsp;its&nbsp;inventory&nbsp;worth. The Luna Foundation Guard, the nonprofit that&nbsp;helps&nbsp;Terraform Labs, had stockpiled&nbsp;<a href="https://www.cnbc.com/2022/05/05/luna-foundation-guard-bolsters-stablecoin-reserve-by-raising-1point5-billion-in-bitcoin.html">$3.5 billion in Bitcoin by early May</a>&nbsp;after which&nbsp;appeared&nbsp;to&nbsp;<a href="https://time.com/6175370/why-bitcoin-crashing/">sell off a chunk of its stash in order stay afloat</a>&nbsp;as&nbsp;the worth&nbsp;of UST&nbsp;started&nbsp;to dip;&nbsp;each&nbsp;actions&nbsp;might&nbsp;have helped contribute to drops in Bitcoin’s&nbsp;worth. Some Terra/Luna supporters even accused BlackRock and Citadel of&nbsp;deliberately&nbsp;manipulating the market to&nbsp;drive&nbsp;UST to crash—a rumor vicious&nbsp;sufficient&nbsp;to&nbsp;immediate&nbsp;the businesses&nbsp;to&nbsp;<a href="https://www.forbes.com/sites/michaeldelcastillo/2022/05/11/blackrock-and-citadel-deny-trading-cratering-stablecoin/?sh=4a851e5838f9">respond</a>, asserting that&nbsp;they&#8217;d&nbsp;no hand&nbsp;within the&nbsp;occasion. Then there’s the&nbsp;query&nbsp;of&nbsp;administration. CoinDesk reported that the CEO of Terraform Labs was&nbsp;additionally&nbsp;behind a&nbsp;<a href="https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/">previous failed algorithmic experiment</a>;&nbsp;possibly&nbsp;his&nbsp;management&nbsp;was&nbsp;one other&nbsp;gap&nbsp;within the&nbsp;stablecoin’s boat.&nbsp;</p>
+
+
+
+<p><br><br><a href="https://www.technologyreview.com/2022/05/16/1052298/crypto-stablecoin-terra-crash/">Source link</a></p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/">Crypto is weathering a bitter storm. Some still hold on for dear life.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1801</post-id>	</item>
+		<item>
+		<title>Maglev-The Rail Technology that will change Transportation for GOOD!</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/27/the-rail-technology-that-will-change-transportation-for-good/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-rail-technology-that-will-change-transportation-for-good</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/27/the-rail-technology-that-will-change-transportation-for-good/#respond</comments>
+		
+		<dc:creator><![CDATA[Jawad Hassan]]></dc:creator>
+		<pubDate>Wed, 27 Apr 2022 19:08:32 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<category><![CDATA[Maglev]]></category>
+		<category><![CDATA[Magnet]]></category>
+		<category><![CDATA[New technology]]></category>
+		<category><![CDATA[radiation]]></category>
+		<category><![CDATA[Rail]]></category>
+		<category><![CDATA[Train]]></category>
+		<guid isPermaLink="false">http://jubayarhassan.github.io/The-tech-Journalist-/?p=1750</guid>
+
+					<description><![CDATA[<p>magnetically [maɡˈnɛtɪk] levitated trains are what &#160;nowadays called MAGLEV [ˈmaɡlɛv] however, &#160;the maglev train the central Japan railway company developed is quite unique and superior to the other trains. Running at more than 600 kilometers per hour it has achieved the status of fastest train this train uses superconducting magnets which is why it is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/27/the-rail-technology-that-will-change-transportation-for-good/">Maglev-The Rail Technology that will change Transportation for GOOD!</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>magnetically</strong> [maɡˈnɛtɪk] levitated trains are what &nbsp;nowadays called MAGLEV [ˈmaɡlɛv] however, &nbsp;the maglev train the central Japan railway company developed is quite unique and superior to the other trains. Running at more than 600 kilometers per hour it has achieved the status of fastest train this train uses superconducting magnets which is why it is called SC MAGLEV once charged with an exciting current the superconducting magnets of this train produce a circulating <em>DC</em> current and strong magnetic field forever with zero loss. let&#8217;s understand more about the successfully tested train technology which is projected to overtake other magnetic levitation technologies by the year 2027 . The same technology is poised to connect new york city to washington dc in just one hour by 2030. to successfully operate a magnetically levitated train.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="696" height="392" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=696%2C392&#038;ssl=1" alt="" class="wp-image-1752" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=150%2C84&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=696%2C392&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=1068%2C601&amp;ssl=1 1068w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?resize=747%2C420&amp;ssl=1 747w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-27.png?w=1392&amp;ssl=1 1392w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>&#8220;The Fastest train ever built | The complete physics of it&#8221; </figcaption></figure>
+
+
+
+<p> We have to achieve the following three objectives one propel [Acceleration] two levitate and three guidance however before we get into the details of how the sc maglev train achieves these objectives. let&#8217;s study about the heart of this train the superconducting magnets levitating trains require enormously powerful electromagnets the stronger the magnets the more lift force and propelling force they have resulting in higher train speed a normal electromagnet is not able to increase the current value beyond a certain limit due to the heating issue in the superconducting electromagnets the temperature of the conductor is lowered below a critical limit after this the material suddenly produces a huge amount of current flow with zero resistance that result is exactly what we want the interesting thing is that you only need to charge the superconducting coil once using an exciting current in order for the short-circuited coils to produce a circulating dc current forever with no energy loss the current circulated by the superconducting coils is huge 700 kilo amperes almost 10 000 times the current value of the conventional household copper gauge wires. </p>
+
+
+
+<p>The superconducting electromagnets are obviously the most powerful and efficient electromagnets the challenge is to keep the coils in a superconducting stage for this purpose an onboard liquid helium refrigeration system is used the superconductor in the SC maglev train is a niobium titanium alloy which has a critical temperature of 9.2 kelvin to keep the alloy temperature below this limit liquid helium at a temperature of 4.5 kelvin is circulated around it after passing over the conductor the liquid helium evaporates to bring it back to the initial stage a helium compressor and refrigeration unit is used the refrigeration unit works on the principle of <strong>Gifford-McMahon</strong>&#8216;s &#8216;refrigeration cycle&#8217; still the cryogenic department&#8217;s engineering task is not finished yet the superconductor can absorb heat from outside in the form of radiation to prevent this absorption from occurring a radiation shield is added around it however during the trains operation any current formation and heating issues can happen in this shield to neutralize this heating the radiation shield also needs cooling which is achieved by supplying liquid nitrogen to the unit to prevent convective heat transfer a vacuum is maintained inside the radiation shield four such superconductors with opposing current polarity are arranged in a unit.</p>
+
+
+
+<p>Although in an sc maglev the electromagnets work without any power supply the cryogenics department demands a good amount of power such many units are attached along the length of the train on both sides as mentioned the first task is propulsion propelling the train forward is an easy task for this purpose we use a series of normal electromagnets, They are called propelling coils the propelling coils are powered in an alternative manner as shown and are placed inside a guideway, Next we need to find out the force the propelling coils are producing on the train&#8217;s superconducting magnets please note that to understand the direction of force one magnet produces on the other you just have to consider the nearest poles. In this way let&#8217;s analyze the force acting on the superconducting coils due to the propelling coils if you take the result of all these forces the net force will be in the forward direction so the train moves forward as soon as the train reaches the next mean position switch the electromagnets to the alternate polarity so that the net force is again in the forward direction just by controlling the frequency of this switching you can control the train speed now let&#8217;s get to the most interesting part of this technology the levitation of the SC maglev trains you may be surprised to learn that the SC maglev train&#8217;s levitation is achieved with the help of these simple figure eight shaped coils which are not even powered many such eight figure shaped coils are arranged in the guideway to understand the levitation technology. We should first learn something about the nature of a pair of superconducting magnets the resultant magnetic field produced by this pair of SC magnets is very similar to a long permanent magnet so for simplification of the analysis let&#8217;s replace this pair with a long bar magnet if a bar magnet moves parallel to these figure eight-shaped coils can you predict what will happen the varying magnet flux will induce EMF on both the loops according to faraday&#8217;s law are these emfs in the same direction please note that this is a twisted coil only when we unwind it will we understand the right direction it is clear the induced EMF&#8217;s are opposite in direction which means net EMF induced on this coil due to the bar magnet movement is zero and no current will flow through the loop in short a bar. Magnet moving through the center of the loop won&#8217;t have any effect on the loop now consider the same case but this time the magnet is slightly offset to the loop as shown here the bottom loop faces magnetic flux of higher strength which means the EMF induced on the bottom loop will be higher than on the top this higher strength also means that a net current will flow through the loop this current flow produces a south pole on the top loop and a north pole on the bottom loop if you analyze the force interaction between the magnetic poles it&#8217;s clear that a resultant upward force is imposed on the superconducting magnet if this force is more than the gravitational pull the magnet will move up yes movement of a superconducting magnet parallel and offset to a figure eight shaped coil produces levitation as the magnet moves up the difference between EMF values and the current flow in the loop reduces which means the force on the loop also reduces finally when the upward force becomes equal to the gravitational pull the magnet balances or the train has achieved levitation Japanese engineers achieved a levitation of 3.9 inches using this technology clearly the higher the train speed the greater the levitation force which means that when the train is at rest it cannot levitate this is why the sc maglev train uses normal tires for starting and low speed operation when the train achieves a critical speed the tires retract as the electromagnetic force is strong enough to levitate the train next comes the question of train guidance guidance means the train should always be centered it should move without hitting the sidewalls in other words it should achieve lateral stability Japanese engineers achieve this stability quite easily by interconnecting the figure eight-shaped coils we saw earlier as shown if the train is in the center the induced EMF&#8217;s on the right and left coils will be equal and no current will flow through the interconnecting coils however suppose the train has moved slightly towards the right this shift will cause an EMF difference between the right and left coils resulting in the interconnecting coils having a current flow the current flow through the interconnecting coils will drastically affect the current flow in both the bottom loops and thus the pole strength of each loop. let&#8217;s analyze the forces acting on the train now you can see that the vertical components of the forces remain the same but a net horizontal component manifests towards the left which forces the train to move back to the center as the train nears the center the currents in the interconnecting loops decrease and finally the horizontal component of the force disappears what an easy and brilliant mechanism to stabilize the train right from the discussion so far you might understand that the cryogenic system of the train and the other electrical appliances of the train require a huge amount of electrical power how do you transfer electrical power to such a high-speed train. The central Japan railway used a technique called inductive power collection for this purpose here using the principle of electromagnetic induction electric power is transferred from the ground coils to the power collection coil in the train without any material contact.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="696" height="392" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=696%2C392&#038;ssl=1" alt="" class="wp-image-1755" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=150%2C84&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=696%2C392&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=1068%2C601&amp;ssl=1 1068w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?resize=747%2C420&amp;ssl=1 747w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?w=1920&amp;ssl=1 1920w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot-28.png?w=1392&amp;ssl=1 1392w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>The Fastest train ever built | The complete physics of it<br></figcaption></figure>
+
+
+
+<p>The strong magnetic field the superconducting magnets produce can have health hazards on passengers to avoid this unwanted effect magnetic shields are used on the rolling stock and passenger embarkation facility thus keeping the strength of the magnetic field below ICN IRP guidelines sc maglev train test rides began in 1997 on the Yamanashi maglev test line the test rides were quite successful and continued for 10 consecutive years without missing a single day a world record speed of 603 kilometers per hour was achieved during this time these highly positive results encouraged the Japanese authorities and they granted permission to conduct commercial sc maglev operations between Tokyo and Nagoya by the year 2027 with more sc maglev trains to follow the sc maglev train technology revolves around the physics of superconductivity which is a crazy and amazing phenomenon to understand what superconductivity is in a logical way.</p>
+
+
+
+<p>Please check out other interesting Articles by <strong>Jawad Hassan</strong> on this site</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/27/the-rail-technology-that-will-change-transportation-for-good/">Maglev-The Rail Technology that will change Transportation for GOOD!</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/27/the-rail-technology-that-will-change-transportation-for-good/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1750</post-id>	</item>
+		<item>
+		<title>Google Fi has reduced the price of unlimited plans while increasing high-speed data.</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/10/google-fi-has-reduced-the-price/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-fi-has-reduced-the-price</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/10/google-fi-has-reduced-the-price/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 10 Apr 2022 16:32:00 +0000</pubDate>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[google data]]></category>
+		<category><![CDATA[google fi]]></category>
+		<category><![CDATA[google finance]]></category>
+		<category><![CDATA[google plan]]></category>
+		<guid isPermaLink="false">http://tdi_89_21c/</guid>
+
+					<description><![CDATA[<p>Google Fi is cutting the prices of its two unlimited cellular plans while also increasing the amount of high-speed data available (via 9to5Google). The Simply Unlimited plan has been reduced from $60 to $50 per month for one line, while the full-featured Unlimited Plus plan has been reduced from $70 to $65 per month for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/10/google-fi-has-reduced-the-price/">Google Fi has reduced the price of unlimited plans while increasing high-speed data.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px"><a href="https://blog.google/products/google-fi/fi-unlimited-plans-now-start-20/">Google Fi is cutting the prices</a> of its two unlimited cellular plans while also increasing the amount of high-speed data available (via 9to5Google). The Simply Unlimited plan has been reduced from $60 to $50 per month for one line, while the full-featured Unlimited Plus plan has been reduced from $70 to $65 per month for one line. This is the first time the Unlimited Plus and Simply Unlimited plans have been reduced in price since their launch in 2019 and 2021, respectively.</p>
+
+
+
+<p style="max-width:600px"></p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/shutterstock_1997604653-769x1024.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright size-large"><img loading="lazy" width="696" height="927" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=696%2C927&#038;ssl=1" alt="Google Fi logo on phone screen stock image." class="wp-image-1580" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=769%2C1024&amp;ssl=1 769w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=768%2C1023&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=696%2C927&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?resize=600%2C799&amp;ssl=1 600w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/shutterstock_1997604653.jpg?w=1067&amp;ssl=1 1067w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Google Fi logo on phone screen stock image.</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">The cheaper cost comes with more high-speed data on both plans, increasing from 22GB to 50GB with the Unlimited Plus plan and from 22GB to 35GB with Simply Unlimited. As noted on the MVNO’s&nbsp;<a href="https://fi.google.com/about/plans/">updated plans page</a>, Google Fi says it will start throttling your data after you exceed either limit. And if you want to use your phone or laptop as a mobile hotspot, Google is adding 5GB for hotspot tethering to its Simply Unlimited plan, a feature previously only available with Unlimited Plus.</p>
+
+
+
+<p style="max-width:600px">Both plans now come with unlimited calls to Canada and Mexico. Prior to the upgrade, you could only make free calls to Canada or Mexico when you were travelling within those countries. Google Fi is a pay-as-you-go service. With no changes to its $20 per month for one line and $10 per GB use rate, the Flexible plan now includes free calls to both countries.</p>
+
+
+
+<p style="max-width:600px">Although both plans offer unlimited calling, texts, and data, the Simply Unlimited plan has a few limitations compared to the Unlimited Plus plan, including capped hotspot data usage, the inability to share data across other devices such as tablets and fewer supported destinations for free calls, texts, and data.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/10/google-fi-has-reduced-the-price/">Google Fi has reduced the price of unlimited plans while increasing high-speed data.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/10/google-fi-has-reduced-the-price/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1362</post-id>	</item>
+		<item>
+		<title>3 Android settings to change now!</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/android-settings-to-change-now/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=android-settings-to-change-now</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/android-settings-to-change-now/#respond</comments>
+		
+		<dc:creator><![CDATA[Jawad Hassan]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:08 +0000</pubDate>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<guid isPermaLink="false">http://tdi_123_292/</guid>
+
+					<description><![CDATA[<p>1.Apps having trouble showing notifications Go to settings search for Gmail app and stop battery optimizing Go to setting then search for optimise battery usage Then Tap on Apps not optimised (a drop down menu will drop) select All Now search for Gmail Tap on it (This might not fix the issue on your devices [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/android-settings-to-change-now/">3 Android settings to change now!</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-center" style="font-size:20px;max-width:600px"> <strong>1.Apps having trouble showing notifications</strong></p>
+
+
+
+<p style="max-width:600px">Go to settings search for Gmail app and stop battery optimizing </p>
+
+
+
+<ul style="font-size:17px"><li>Go to setting then search for optimise battery usage </li><li>Then Tap on Apps not optimised (a drop down menu will drop) select All</li><li>Now search for <strong>Gmail</strong></li><li>Tap on it (This might not fix the issue on your devices so keep sync on from your notification center)</li></ul>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot_20220428-235008_Settings-1.jpg?resize=237%2C516&#038;ssl=1" alt="App Settings on Samsung A32 4g " class="wp-image-1768" width="237" height="516" data-recalc-dims="1" /><figcaption>App Settings on Samsung A32 4g </figcaption></figure>
+
+
+
+<h5 class="has-text-align-center" id="h-2-make-your-android-little-faster" style="font-size:25px"><strong>2. Make your android little faster </strong></h5>
+
+
+
+<p style="font-size:17px;max-width:600px">Check for running background apps from <strong>Developer</strong> options </p>
+
+
+
+<p class="has-small-font-size"><strong>*i.e this was tested on Android 11 device. we are not/will not take any responsible/ity if your device takes any damage* </strong></p>
+
+
+
+<ul class="has-regular-font-size"><li>Go to settings scroll down for developer option</li><li>If you don&#8217;t see it anywhere near <strong>About phone</strong> </li><li>Now enter Developer option scroll down all the way to <strong>Background Check</strong> or search it</li><li>Press on the option and deselect every app or package that is turned on  </li></ul>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot_20220429-001521_Settings.jpg?resize=244%2C536&#038;ssl=1" alt="Developer Settings on Samsung A32 4g " class="wp-image-1769" width="244" height="536" data-recalc-dims="1" /><figcaption>Developer Settings on Samsung A32 4g </figcaption></figure>
+
+
+
+<p style="font-size:25px;max-width:600px"><strong>3.Turn of Nearby Device Scanning</strong></p>
+
+
+
+<ul><li>Go to settings select <strong>Connections </strong></li><li>Select <strong>More connection settings</strong></li><li>Turn off <strong>Nearby device scanning </strong></li></ul>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/Screenshot_20220429-002629_Settings.jpg?resize=260%2C568&#038;ssl=1" alt="Connection Settings on Samsung A32 4g " class="wp-image-1770" width="260" height="568" data-recalc-dims="1" /><figcaption>Connection Settings on Samsung A32 4g </figcaption></figure>
+
+
+
+<p>Leave your comment and search for more things that can directly or indirectly improve your life. Thanks!</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/android-settings-to-change-now/">3 Android settings to change now!</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/android-settings-to-change-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1396</post-id>	</item>
+		<item>
+		<title>Social Media Marketing for Franchises is Meant for Women</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/social-media-marketing-for-franchises-is-meant-for-women/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=social-media-marketing-for-franchises-is-meant-for-women</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/social-media-marketing-for-franchises-is-meant-for-women/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:07 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_116_647/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/social-media-marketing-for-franchises-is-meant-for-women/">Social Media Marketing for Franchises is Meant for Women</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/social-media-marketing-for-franchises-is-meant-for-women/">Social Media Marketing for Franchises is Meant for Women</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/social-media-marketing-for-franchises-is-meant-for-women/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1389</post-id>	</item>
+		<item>
+		<title>Entrepreneurial Advertising: The Future Of Marketing</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/entrepreneurial-advertising-the-future-of-marketing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=entrepreneurial-advertising-the-future-of-marketing</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/entrepreneurial-advertising-the-future-of-marketing/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:07 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_117_8d8/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/entrepreneurial-advertising-the-future-of-marketing/">Entrepreneurial Advertising: The Future Of Marketing</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/entrepreneurial-advertising-the-future-of-marketing/">Entrepreneurial Advertising: The Future Of Marketing</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/entrepreneurial-advertising-the-future-of-marketing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1390</post-id>	</item>
+		<item>
+		<title>Mobile Marketing is Said to Be the Future of E-Commerce</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/mobile-marketing-is-said-to-be-the-future-of-e-commerce/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mobile-marketing-is-said-to-be-the-future-of-e-commerce</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/mobile-marketing-is-said-to-be-the-future-of-e-commerce/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:07 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_118_f73/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/mobile-marketing-is-said-to-be-the-future-of-e-commerce/">Mobile Marketing is Said to Be the Future of E-Commerce</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/mobile-marketing-is-said-to-be-the-future-of-e-commerce/">Mobile Marketing is Said to Be the Future of E-Commerce</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/mobile-marketing-is-said-to-be-the-future-of-e-commerce/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1391</post-id>	</item>
+		<item>
+		<title>How Nancy Reagan Gave Glamour and Class to the White House</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-nancy-reagan-gave-glamour-and-class-to-the-white-house</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:07 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_119_20c/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/">How Nancy Reagan Gave Glamour and Class to the White House</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/">How Nancy Reagan Gave Glamour and Class to the White House</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1392</post-id>	</item>
+		<item>
+		<title>Summer Fashion Trends 2020: The Pieces That Deserve Attention</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/summer-fashion-trends-2020-the-pieces-that-deserve-attention/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=summer-fashion-trends-2020-the-pieces-that-deserve-attention</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/summer-fashion-trends-2020-the-pieces-that-deserve-attention/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:06 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_110_5c9/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/summer-fashion-trends-2020-the-pieces-that-deserve-attention/">Summer Fashion Trends 2020: The Pieces That Deserve Attention</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/summer-fashion-trends-2020-the-pieces-that-deserve-attention/">Summer Fashion Trends 2020: The Pieces That Deserve Attention</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/summer-fashion-trends-2020-the-pieces-that-deserve-attention/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1383</post-id>	</item>
+		<item>
+		<title>If You Only Knew How Much Your Outfit Choices Actually Matter</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/if-you-only-knew-how-much-your-outfit-choices-actually-matter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=if-you-only-knew-how-much-your-outfit-choices-actually-matter</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/if-you-only-knew-how-much-your-outfit-choices-actually-matter/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 16:32:05 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<guid isPermaLink="false">http://tdi_105_0fc/</guid>
+
+					<description><![CDATA[<p>We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast. Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture. We were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/if-you-only-knew-how-much-your-outfit-choices-actually-matter/">If You Only Knew How Much Your Outfit Choices Actually Matter</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="max-width:600px">We woke reasonably late following the feast and free flowing wine the night before. After gathering ourselves and our packs, we headed down to our homestay family’s small dining room for breakfast.</p>
+
+
+
+<p style="max-width:600px"><strong>Refreshingly, what was expected of her was the same thing that was expected of Lara Stone: to take a beautiful picture.</strong></p>
+
+
+
+<p style="max-width:600px">We were making our way to the Rila Mountains, where we were visiting the Rila Monastery where we enjoyed scrambled eggs, toast, mekitsi, local jam and peppermint tea. </p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/girl2.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="aligncenter"><img loading="lazy" width="696" height="481" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&#038;ssl=1" alt="" class="wp-image-1270" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=768%2C531&amp;ssl=1 768w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=150%2C104&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=218%2C150&amp;ssl=1 218w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=696%2C481&amp;ssl=1 696w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/girl2.jpg?resize=600%2C415&amp;ssl=1 600w" sizes="(max-width: 696px) 100vw, 696px" data-recalc-dims="1" /><figcaption>Adderall and flirting with bulimia in an attempt to whittle herself</figcaption></figure></div></a></div>
+
+
+
+<h2 style="max-width:600px">We wandered the site with other tourists</h2>
+
+
+
+<p style="max-width:600px">Yet strangely the place did not seem crowded. I’m not sure if it was the sheer size of the place, or whether the masses congregated in one area and didn’t venture far from the main church, but I didn’t feel overwhelmed by tourists in the monastery.</p>
+
+
+
+<div><a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/uploads/2022/04/boy1.jpg" class="td-modal-image"><div class="wp-block-image"><figure class="alignright is-resized"><img loading="lazy" src="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=307%2C443&#038;ssl=1" alt="" class="wp-image-1271" width="307" height="443" srcset="https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?w=415&amp;ssl=1 415w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=150%2C217&amp;ssl=1 150w, https://i0.wp.com/thetechjournalist.site/wp-content/uploads/2022/04/boy1.jpg?resize=300%2C434&amp;ssl=1 300w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1" /><figcaption>City Guide for Vienna</figcaption></figure></div></a></div>
+
+
+
+<p style="max-width:600px">Headed over Lions Bridge and made our way to the Sofia Synagogue, then sheltered in the Central Market Hall until the recurrent (but short-lived) mid-afternoon rain passed.</p>
+
+
+
+<p style="max-width:600px">Feeling refreshed after an espresso, we walked a short distance to the small but welcoming Banya Bashi Mosque, then descended into the ancient Serdica complex.</p>
+
+
+
+<p style="max-width:600px">We were exhausted after a long day of travel, so we headed back to the hotel and crashed.</p>
+
+
+
+<p style="max-width:600px"> I had low expectations about Sofia as a city, but after the walking tour I absolutely loved the place. This was an easy city to navigate, and it was a beautiful city – despite its ugly, staunch and stolid communist-built surrounds. Sofia has a very average facade as you enter the city, but once you lose yourself in the old town area, everything changes.</p>
+
+
+
+<p style="max-width:600px">Clothes can transform your mood and confidence. Fashion moves so quickly that, unless you have a strong point of view, you can lose integrity. I like to be real. I don’t like things to be staged or fussy. I think I’d go mad if I didn’t have a place to escape to. You have to stay true to your heritage, that’s what your brand is about.</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/if-you-only-knew-how-much-your-outfit-choices-actually-matter/">If You Only Knew How Much Your Outfit Choices Actually Matter</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/04/03/if-you-only-knew-how-much-your-outfit-choices-actually-matter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1378</post-id>	</item>
+	</channel>
+</rss>

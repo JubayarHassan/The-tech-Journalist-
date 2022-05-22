@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Crypto Archives - The Tech Journalist</title>
+	<atom:link href="http://jubayarhassan.github.io/The-tech-Journalist-/tag/crypto/feed/" rel="self" type="application/rss+xml" />
+	<link>http://jubayarhassan.github.io/The-tech-Journalist-/</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Mon, 16 May 2022 15:22:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+<site xmlns="com-wordpress:feed-additions:1">206580889</site>	<item>
+		<title>Crypto is weathering a bitter storm. Some still hold on for dear life.</title>
+		<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life</link>
+					<comments>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/#respond</comments>
+		
+		<dc:creator><![CDATA[Jubayar]]></dc:creator>
+		<pubDate>Mon, 16 May 2022 15:22:26 +0000</pubDate>
+				<category><![CDATA[TECH]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[tech]]></category>
+		<guid isPermaLink="false">http://jubayarhassan.github.io/The-tech-Journalist-/?p=1801</guid>
+
+					<description><![CDATA[<p>Algorithmic stablecoins,&#160;nevertheless, are&#160;completely different. They are a DeFi experiment&#160;that are not&#160;pegged to fiat&#160;cash&#160;and do not&#160;hold collateral&#160;property&#160;to stabilize their&#160;worth. Instead,&#160;they&#8217;re&#160;often&#160;supported by a second token, in a push-me-pull-you math equation. Terra, for&#160;instance, balances variations&#160;within the&#160;stablecoin’s&#160;worth&#160;by&#160;growing&#160;or&#160;reducing&#160;the provision&#160;of Luna tokens&#160;by means of&#160;incentives;&#160;traders&#160;can&#160;revenue&#160;off these exchanges, which&#160;retains&#160;them—in&#160;idea—buying and selling&#160;tokens&#160;within the&#160;quantities&#160;the algorithm predicts&#160;they are going to. But&#160;a lot&#160;of this is magical&#160;pondering. Well&#160;earlier [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/">Crypto is weathering a bitter storm. Some still hold on for dear life.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Algorithmic stablecoins,&nbsp;nevertheless, are&nbsp;completely different. They are a DeFi experiment&nbsp;that are not&nbsp;pegged to fiat&nbsp;cash&nbsp;and do not&nbsp;hold collateral&nbsp;property&nbsp;to stabilize their&nbsp;worth. Instead,&nbsp;they&#8217;re&nbsp;often&nbsp;supported by a second token, in a push-me-pull-you math equation. Terra, for&nbsp;instance, balances variations&nbsp;within the&nbsp;stablecoin’s&nbsp;worth&nbsp;by&nbsp;growing&nbsp;or&nbsp;reducing&nbsp;the provision&nbsp;of Luna tokens&nbsp;by means of&nbsp;incentives;&nbsp;traders&nbsp;can&nbsp;revenue&nbsp;off these exchanges, which&nbsp;retains&nbsp;them—in&nbsp;idea—buying and selling&nbsp;tokens&nbsp;within the&nbsp;quantities&nbsp;the algorithm predicts&nbsp;they are going to. But&nbsp;a lot&nbsp;of this is magical&nbsp;pondering.</p>
+
+
+
+<p>Well&nbsp;earlier than&nbsp;the Terra crash, algorithmic stablecoins&nbsp;had been&nbsp;<a href="https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=itp_wsj&amp;ru=yahoo">generally understood to be much less stable than regular ones</a>. Even Sam Bankman-Fried, CEO of the crypto&nbsp;alternate&nbsp;FTX and a notable “crypto billionaire,”&nbsp;<a href="https://twitter.com/SBF_FTX/status/1524685171425001472">argued on Twitter last week</a>&nbsp;that&nbsp;the 2&nbsp;forms of&nbsp;stablecoins are so distinct from&nbsp;each&nbsp;a&nbsp;useful&nbsp;and&nbsp;threat&nbsp;perspective that “[r]eally, we shouldn’t use the same word for all these things.”&nbsp;</p>
+
+
+
+<p>So why pursue algorithmic stablecoins&nbsp;in any respect? Because they&nbsp;had been&nbsp;imagined to&nbsp;be the DeFi holy grail: a&nbsp;steady&nbsp;unit of&nbsp;worth&nbsp;that self-corrects independently and elegantly, like water naturally&nbsp;discovering&nbsp;its&nbsp;personal&nbsp;stage. They&nbsp;attraction&nbsp;to Bitcoin purists&nbsp;as a result of&nbsp;algorithmic stablecoins&nbsp;<a href="https://www.coindesk.com/tech/2021/07/06/the-quest-for-a-truly-decentralized-stablecoin/">aim to avoid</a>&nbsp;what&nbsp;common&nbsp;stablecoins like Tether and USDC rely on to&nbsp;perform: a tie to&nbsp;the actual&nbsp;world and&nbsp;conventional&nbsp;markets. They&nbsp;function&nbsp;on code alone—apart from,&nbsp;after all, the human&nbsp;merchants&nbsp;the system presumes will act in a predictable&nbsp;method. If algorithmic stablecoins&nbsp;carry out&nbsp;as promised,&nbsp;they may&nbsp;display&nbsp;that code is&nbsp;the way forward for&nbsp;finance, lending new credibility to the crypto worldview.&nbsp;</p>
+
+
+
+<p>For a&nbsp;whereas, it&nbsp;appeared&nbsp;as if Terra’s experiment&nbsp;may&nbsp;simply&nbsp;work. In February, Terra closed a&nbsp;<a href="https://www.yahoo.com/video/terra-luna-strikes-40m-sponsorship-213600914.html">multimillion-dollar sponsorship deal</a>&nbsp;with the Washington Nationals. Just over two months&nbsp;in the past, in March, its blockchain—the seventh&nbsp;Most worthy&nbsp;on this planet&nbsp;on the&nbsp;time—turned&nbsp;<a href="https://www.businessinsider.in/investment/news/terra-luna-beats-ethereum-to-become-the-second-most-preferred-proof-of-stake-network-for-crypto-miners/articleshow/90091012.cms">the number two staked network</a>, unseating Ethereum. But on Monday, May 9,&nbsp;issues&nbsp;went&nbsp;off track. Someone&nbsp;might&nbsp;have pushed UST’s&nbsp;worth&nbsp;to begin&nbsp;dropping by&nbsp;performing&nbsp;towards&nbsp;the algorithm’s predictions. Then the coin crashed to&nbsp;nicely&nbsp;under&nbsp;the $1&nbsp;worth&nbsp;it was designed&nbsp;to take care of, fueled by very human, fear-driven “bank runs.”</p>
+
+
+
+<p>When UST reached $0.37 on Thursday,&nbsp;the corporate&nbsp;that manages it, Terraform Labs, even made the last-resort&nbsp;name&nbsp;to&nbsp;quickly&nbsp;<a href="https://techcrunch.com/2022/05/12/terra-halts-its-blockchain-to-prevent-hacks-ust/">stop transactions</a>&nbsp;on its&nbsp;community&nbsp;to guard&nbsp;towards&nbsp;additional&nbsp;decline&nbsp;after which&nbsp;froze them&nbsp;as soon as&nbsp;extra&nbsp;in a single day—stopping&nbsp;any token holders from taking what little&nbsp;they&#8217;d&nbsp;left and&nbsp;working. Since the&nbsp;community&nbsp;restarted, Terra’s UST has continued to fluctuate&nbsp;effectively&nbsp;beneath&nbsp;$0.50; Luna hovers&nbsp;simply&nbsp;above zero.</p>
+
+
+
+<p>Each&nbsp;firm&nbsp;within the&nbsp;crypto ecosystem has its&nbsp;personal&nbsp;clarification&nbsp;for why it’s faltering. Coinbase’s much-anticipated new NFT&nbsp;market&nbsp;had an&nbsp;<a href="https://techcrunch.com/2022/05/06/coinbases-nft-marketplace-is-off-to-a-lackluster-start/">underwhelming launch</a>&nbsp;on the&nbsp;finish&nbsp;of April,&nbsp;which can&nbsp;have&nbsp;delay&nbsp;traders&nbsp;and&nbsp;harm&nbsp;its&nbsp;inventory&nbsp;worth. The Luna Foundation Guard, the nonprofit that&nbsp;helps&nbsp;Terraform Labs, had stockpiled&nbsp;<a href="https://www.cnbc.com/2022/05/05/luna-foundation-guard-bolsters-stablecoin-reserve-by-raising-1point5-billion-in-bitcoin.html">$3.5 billion in Bitcoin by early May</a>&nbsp;after which&nbsp;appeared&nbsp;to&nbsp;<a href="https://time.com/6175370/why-bitcoin-crashing/">sell off a chunk of its stash in order stay afloat</a>&nbsp;as&nbsp;the worth&nbsp;of UST&nbsp;started&nbsp;to dip;&nbsp;each&nbsp;actions&nbsp;might&nbsp;have helped contribute to drops in Bitcoin’s&nbsp;worth. Some Terra/Luna supporters even accused BlackRock and Citadel of&nbsp;deliberately&nbsp;manipulating the market to&nbsp;drive&nbsp;UST to crash—a rumor vicious&nbsp;sufficient&nbsp;to&nbsp;immediate&nbsp;the businesses&nbsp;to&nbsp;<a href="https://www.forbes.com/sites/michaeldelcastillo/2022/05/11/blackrock-and-citadel-deny-trading-cratering-stablecoin/?sh=4a851e5838f9">respond</a>, asserting that&nbsp;they&#8217;d&nbsp;no hand&nbsp;within the&nbsp;occasion. Then there’s the&nbsp;query&nbsp;of&nbsp;administration. CoinDesk reported that the CEO of Terraform Labs was&nbsp;additionally&nbsp;behind a&nbsp;<a href="https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/">previous failed algorithmic experiment</a>;&nbsp;possibly&nbsp;his&nbsp;management&nbsp;was&nbsp;one other&nbsp;gap&nbsp;within the&nbsp;stablecoin’s boat.&nbsp;</p>
+
+
+
+<p><br><br><a href="https://www.technologyreview.com/2022/05/16/1052298/crypto-stablecoin-terra-crash/">Source link</a></p>
+<p>The post <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/">Crypto is weathering a bitter storm. Some still hold on for dear life.</a> appeared first on <a rel="nofollow" href="http://jubayarhassan.github.io/The-tech-Journalist-/">The Tech Journalist</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1801</post-id>	</item>
+	</channel>
+</rss>

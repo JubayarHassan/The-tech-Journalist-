@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Crypto is weathering a bitter storm. Some still hold on for dear life.	</title>
+	<atom:link href="http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/feed/" rel="self" type="application/rss+xml" />
+	<link>http://jubayarhassan.github.io/The-tech-Journalist-/2022/05/16/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Mon, 16 May 2022 15:22:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+</channel>
+</rss>
