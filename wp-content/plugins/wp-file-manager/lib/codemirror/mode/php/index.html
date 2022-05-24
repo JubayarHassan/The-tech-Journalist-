@@ -1,0 +1,74 @@
+<title>CodeMirror: PHP mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/addon/edit/matchbrackets.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/xml/xml.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/javascript/javascript.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/css/css.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/clike/clike.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/php/php.js"></script>
+<style type="text/css">.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">PHP</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>PHP mode</h2>
+<form><textarea id="code" name="code">
+<?php $a = array('a' => 1, 'b' => 2, 3 => 'c');
+
+echo "$a[a] ${a[3] /* } comment */} {$a[b]} \$a[a]";
+
+function hello($who) {
+	return "Hello $who!";
+}
+?>
+<p>The program says = hello("World") ?>.</p>
+<script>
+	alert("And here is some JS code"); // also colored
+</script>
+</textarea></form>
+
+    <script>
+      var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+        lineNumbers: true,
+        matchBrackets: true,
+        mode: "application/x-httpd-php",
+        indentUnit: 4,
+        indentWithTabs: true
+      });
+    </script>
+
+    <p>Simple HTML/PHP mode based on
+    the <a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/clike/">C-like</a> mode. Depends on XML,
+    JavaScript, CSS, HTMLMixed, and C-like modes.</p>
+
+    <p><strong>MIME types defined:</strong> <code>application/x-httpd-php</code> (HTML with PHP code), <code>text/x-php</code> (plain, non-wrapped PHP code).</p>
+  </article>

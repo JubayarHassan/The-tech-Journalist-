@@ -1,0 +1,32 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Zodiac
+*/
+.td-zodiac-pro .td-equal-heights,
+.td-zodiac-pro .td-equal-heights .tdc-columns {
+  display: flex;
+  flex: 1;
+}
+@media (max-width: 767px) {
+  .td-zodiac-pro .td-equal-heights,
+  .td-zodiac-pro .td-equal-heights .tdc-columns {
+    flex-direction: column;
+  }
+}
+.td-zodiac-pro .td-equal-heights .wpb_column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.td-zodiac-pro .td-category-left .td-ct-wrap a {
+  display: table!important;
+}
+.td-zodiac-pro .td-category-right .td-ct-wrap a {
+  display: table!important;
+  margin-left: auto;
+}

@@ -1,0 +1,20 @@
+div.fifu-pro-out {
+    width: 54px;
+}
+
+a.fifu-pro-link {
+    text-decoration: none;
+}
+
+.fifu-pro-text {
+    background-color:#aa1919;
+    color:white;
+    font-size:13px;
+    border-radius:4px;
+    padding-top:2px;
+    padding-left:2px;
+}
+
+span.fifu-pro-icon {
+    font-size:15px;
+}

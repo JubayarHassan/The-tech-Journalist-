@@ -1,0 +1,46 @@
+// --------
+// -- NOTIFICATIONS
+// --------
+// General
+.td-s-notif {
+  padding: 25px;
+  font-size: 1em;
+  line-height: 1.4;
+  border-radius: 3px;
+
+  b {
+    font-weight: 600;
+  }
+}
+
+
+// Info notification
+.td-s-notif-info {
+  background-color: rgba(89, 98, 107, .08);
+  color: #59626B;
+}
+
+
+// Warning notification
+.td-s-notif-warn {
+  background-color: rgba(215, 133, 0, 0.12);
+  color: #d78500;
+
+  .tds-s-notif-descr {
+    a {
+      color: inherit !important;
+
+      &:not(:hover) {
+        text-decoration: underline !important;
+      }
+    }
+  }
+}
+
+
+// Extra small size
+.td-s-notif-xsm {
+  padding: 10px 15px;
+  font-size: .929em;
+  line-height: 1.4;
+}

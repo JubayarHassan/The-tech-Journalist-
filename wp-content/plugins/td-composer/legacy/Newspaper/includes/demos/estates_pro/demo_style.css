@@ -1,0 +1,18 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Estates Pro Demo
+*/
+.td-estates-pro .td-post-sharing-visible .td-social-share-text .td-social-but-text {
+  display: none;
+}
+@media (min-width: 1140px) {
+  .td-estates-pro .td-estates-post-content img {
+    position: relative;
+    left: -100px;
+  }
+}

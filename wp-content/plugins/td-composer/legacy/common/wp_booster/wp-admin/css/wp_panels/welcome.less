@@ -1,0 +1,141 @@
+// Auto-update style
+.td-white-box {
+  padding: 15px 50px 40px;
+  background-color: #fff;
+  margin: 15px 0 0;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+}
+.td-version-wrap {
+  white-space: nowrap;
+  margin-bottom: 20px;
+
+  .td-version {
+    width: 180px;
+    display: inline-block;
+    vertical-align: middle;
+
+    span {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    p {
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+  }
+  .td-current-version {
+    opacity: 0.6;
+  }
+  .td-version-arrow {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px 20px 0;
+  }
+}
+.td-update-page {
+  text-align: center;
+
+  .about-text {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+
+  .td-select-style-overwrite {
+    margin: 0;
+
+    select {
+      color: #000;
+    }
+  }
+
+  h1 {
+    margin: .67em 0;
+  }
+  h2 {
+    text-align: center;
+  }
+
+  .td-box-description {
+    float: none;
+    display: inline-block;
+  }
+
+  .td-panel-check-updates {
+    margin: 0 5px;
+  }
+
+  .td-panel-update-theme-to-latest {
+    margin: 0 5px;
+    background: #14b764;;
+    border-color: #14b764;
+
+    &:hover,
+    &:focus {
+      background: #12a55a;
+      border-color: #12a55a;
+    }
+  }
+
+  .td-button-updated {
+    margin-top: 20px;
+  }
+}
+
+// theme update available
+.td-theme-update {
+  .toplevel_page_td_theme_welcome .wp-menu-name:after {
+    content: '1';
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 0 0 0 6px;
+    padding: 0 5px;
+    min-width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    background-color: #ca4a1f;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1.6;
+    text-align: center;
+  }
+  .td-wp-admin-header a[href*="td_theme_updates"]:after {
+    content: '1';
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 0 0 0 6px;
+    padding: 0 5px;
+    min-width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    background-color: #0489fc;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1.6;
+    text-align: center;
+  }
+}
+
+// plugin update available
+.td-subscription-plugin-update {
+  .td-wp-admin-header a[href*="td_theme_plugins"]:after {
+    content: '1';
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 0 0 0 6px;
+    padding: 0 5px;
+    min-width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    background-color: #0489fc;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1.6;
+    text-align: center;
+  }
+}

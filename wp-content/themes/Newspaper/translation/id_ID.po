@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+
+
+msgid "View all results"
+msgstr "Lihat semua hasil"
+
+
+msgid "No results"
+msgstr "Tidak ada hasil"
+
+
+msgid "Home"
+msgstr "Beranda"
+
+
+msgid "CLOSE"
+msgstr "TUTUP"
+
+
+msgid "Page"
+msgstr "Halaman"
+
+
+msgid "All"
+msgstr "Semua"
+
+
+msgid "By"
+msgstr "Penulis"
+
+
+msgid "Load more"
+msgstr "Muat lebih banyak"
+
+
+msgid "View all posts in"
+msgstr "Lihat semua kiriman dalam"
+
+
+msgid "Tags"
+msgstr "Topik"
+
+
+msgid "Previous article"
+msgstr "Artikulli paraprak"
+
+
+msgid "Next article"
+msgstr "Artikulli tjetër"
+
+
+msgid "Authors"
+msgstr "Penulis"
+
+
+msgid "Author"
+msgstr "Penulis"
+
+
+msgid "RELATED ARTICLES"
+msgstr "ARTIKEL TERKAIT"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "DARI PENULIS"
+
+
+msgid "VIA"
+msgstr "VIA"
+
+
+msgid "SOURCE"
+msgstr "SUMBER"
+
+
+msgid "TAGS"
+msgstr "TOPIK"
+
+
+msgid "SHARE"
+msgstr "BAGIKAN"
+
+
+msgid "Continue"
+msgstr "Lanjutkan"
+
+
+msgid "Read more"
+msgstr "Baca Selengkapnya"
+
+
+msgid "Name:"
+msgstr "Nama:"
+
+
+msgid "Email:"
+msgstr "Email:"
+
+
+msgid "Website:"
+msgstr "Website:"
+
+
+msgid "Comment:"
+msgstr "Komentar:"
+
+
+msgid "LEAVE A REPLY"
+msgstr "TINGGALKAN KOMENTAR"
+
+
+msgid "Post Comment"
+msgstr "Kirim Komentar"
+
+
+msgid "Cancel reply"
+msgstr "Batal membalas"
+
+
+msgid "Reply"
+msgstr "Balas"
+
+
+msgid "Log in to leave a comment"
+msgstr "Login untuk meninggalkan komentar"
+
+
+msgid "NO COMMENTS"
+msgstr "TIDAK ADA KOMENTAR"
+
+
+msgid "1 COMMENT"
+msgstr "1 KOMENTAR"
+
+
+msgid "COMMENTS"
+msgstr "KOMENTAR"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "TINJAUAN IKHTISAR"
+
+
+msgid "SUMMARY"
+msgstr "RINGKASAN"
+
+
+msgid "OVERALL SCORE"
+msgstr "NILAI KESELURUHAN"
+
+
+msgid "Ooops... Error 404"
+msgstr "Ooops ... Kesalahan 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "Maaf, halaman yang Anda cari tidak ada."
+
+
+msgid "You can go to the"
+msgstr "Anda dapat pergi ke"
+
+
+msgid "HOMEPAGE"
+msgstr "HALAMAN AWAL"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "KIRIMAN TERBARU KAMI"
+
+
+msgid "Posts by"
+msgstr "Dikirim oleh"
+
+
+msgid "POSTS"
+msgstr "KIRIMAN"
+
+
+msgid "Posts tagged with"
+msgstr "Kiriman ditandai dengan"
+
+
+msgid "Tag"
+msgstr "Topik"
+
+
+msgid "Daily Archives:"
+msgstr "Arsip Harian:"
+
+
+msgid "Monthly Archives:"
+msgstr "Arsip Bulanan:"
+
+
+msgid "Yearly Archives:"
+msgstr "Arsip Tahunan:"
+
+
+msgid "Archives"
+msgstr "Arsip"
+
+
+msgid "LATEST ARTICLES"
+msgstr "ARTIKUJT E FUNDIT"
+
+
+msgid "search results"
+msgstr "hasil pencarian"
+
+
+msgid "Search"
+msgstr "Cari"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "Jika Anda tidak puas dengan hasilnya, silakan melakukan pencarian lain"
+
+
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Halaman %CURRENT_PAGE% dari %TOTAL_PAGES%"
+
+
+msgid "Next"
+msgstr "Berikutnya"
+
+
+msgid "Prev"
+msgstr "Sebelumnya"
+
+
+msgid "No results for your search"
+msgstr "Tidak ada hasil untuk pencarian Anda"
+
+
+msgid "No posts to display"
+msgstr "Tidak ada kiriman yang ditampilkan"
+
+
+msgid "LOG IN"
+msgstr "MASUK"
+
+
+msgid "Sign in / Join"
+msgstr "Masuk / Bergabung"
+
+
+msgid "Log In"
+msgstr "Masuk"
+
+
+msgid "REGISTER"
+msgstr "DAFTAR"
+
+
+msgid "Send My Pass"
+msgstr "Kirim Kata Sandi Saya"
+
+
+msgid "Forgot your password?"
+msgstr "Lupa kata sandi Anda?"
+
+
+msgid "Please wait..."
+msgstr "Mohon tunggu…"
+
+
+msgid "User or password incorrect!"
+msgstr "Pengguna dan password salah!"
+
+
+msgid "Email or username incorrect!"
+msgstr "Email atau nama pengguna salah!"
+
+
+msgid "Email incorrect!"
+msgstr "Email tidak benar!"
+
+
+msgid "User or email already exists!"
+msgstr "Pengguna atau email sudah ada!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "Silakan cek email (indeks atau folder spam), password dikirim ke sana."
+
+
+msgid "Email address not found!"
+msgstr "Alamat email tidak ditemukan!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "Kata sandi Anda diatur ulang, cek email Anda."
+
+
+msgid "Welcome! Log into your account"
+msgstr "Selamat Datang! Masuk ke akun Anda"
+
+
+msgid "Register for an account"
+msgstr "Mendaftar membuat akun"
+
+
+msgid "Recover your password"
+msgstr "Memulihkan kata sandi anda"
+
+
+msgid "your username"
+msgstr "nama pengguna"
+
+
+msgid "your password"
+msgstr "kata sandi Anda"
+
+
+msgid "your email"
+msgstr "email Anda"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "Sebuah kata sandi akan dikirimkan ke email Anda."
+
+
+msgid "Logout"
+msgstr "Keluar"
+
+
+msgid "Like"
+msgstr "Suka"
+
+
+msgid "Fans"
+msgstr "Fans"
+
+
+msgid "Follow"
+msgstr "Mengikuti"
+
+
+msgid "Followers"
+msgstr "Pengikut"
+
+
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+
+msgid "Subscribers"
+msgstr "Pelanggan"
+
+
+msgid "MORE STORIES"
+msgstr "ARTIKEL LEBIH"
+
+
+msgid "Latest"
+msgstr "Terbaru"
+
+
+msgid "Featured posts"
+msgstr "Kiriman menarik"
+
+
+msgid "Most popular"
+msgstr "Terpopuler"
+
+
+msgid "7 days popular"
+msgstr "7 hari populer"
+
+
+msgid "By review score"
+msgstr "Dengan nilai peninjauan"
+
+
+msgid "Random"
+msgstr "Acak"
+
+
+msgid "Trending Now"
+msgstr "News"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "KATEGORI E POPULLARIZUAR"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "ARTIKEL LAINNYA"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "Sebelumnya (tombol panah kiri)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "Berikutnya (tombol panah kanan)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr% dari %total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "Isi dari %url% tidak dapat dimuat."
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "Gambar #%curr% tidak dapat dimuat."
+
+
+msgid "Blog"
+msgstr "blog"
+
+
+msgid "Share on Facebook"
+msgstr "Share ke Facebook"
+
+
+msgid "Tweet on Twitter"
+msgstr "Tweet on Twitter"
+
+
+msgid "EDITOR PICKS"
+msgstr "PILIHAN EDITOR"
+
+
+msgid "POPULAR POSTS"
+msgstr "POSTING POPULER"
+
+
+msgid "FOLLOW US"
+msgstr "IKUTI KAMI"
+
+
+msgid "ABOUT US"
+msgstr "TENTANG KAMI"
+
+
+msgid "More"
+msgstr "Lainnya"
+
+
+msgid "Featured"
+msgstr "Fitur"
+
+
+msgid "All time popular"
+msgstr "Populer"
+
+
+msgid "Likes"
+msgstr "Seperti"
+
+
+msgid "Register"
+msgstr "Regjistrohu"
+
+
+msgid "of"
+msgstr "dari"
+
+
+msgid "Euro Member Countries"
+msgstr "Negara anggota euro"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "Komentar dari anda sedang menunggu moderasi"
+
+
+msgid "Follow us on Instagram"
+msgstr "Ikuti kami di instagram"
+
+
+msgid "Back"
+msgstr "Kembali"
+
+
+msgid "Sign in"
+msgstr "Masuk"
+
+
+msgid "Sign up"
+msgstr "Daftar"
+
+
+msgid "Join"
+msgstr "Ikut"
+
+
+msgid "Welcome!"
+msgstr "SELAMAT DATANG!"
+
+
+msgid "Log into your account"
+msgstr "Masuk ke akun Anda"
+
+
+msgid "Password recovery"
+msgstr "Pemulihan password"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "Silahkan cek email Anda (indeks atau spam folder), password dikirim ke sana."
+
+
+msgid "Australian Dollar"
+msgstr "Dollar Australia"
+
+
+msgid "Bulgarian Lev"
+msgstr "Lev Bulgaria"
+
+
+msgid "Brazilian Real"
+msgstr "Nyata brazilian"
+
+
+msgid "Canadian Dollar"
+msgstr "Dolar Kanada"
+
+
+msgid "Swiss Franc"
+msgstr "Swiss franc"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "Cina yuan renminbi"
+
+
+msgid "Czech Republic Koruna"
+msgstr "Ceko Republik koruna"
+
+
+msgid "Danish Krone"
+msgstr "Krone Denmark"
+
+
+msgid "British Pound"
+msgstr "Pound Inggris"
+
+
+msgid "Hong Kong Dollar"
+msgstr "Dolar hong kong"
+
+
+msgid "Croatian Kuna"
+msgstr "Kuna Kroasia"
+
+
+msgid "Hungarian Forint"
+msgstr "Forint Hongaria"
+
+
+msgid "Indonesian Rupiah"
+msgstr "Rupiah indonesia"
+
+
+msgid "Israeli Shekel"
+msgstr "Shekel Israel"
+
+
+msgid "Indian Rupee"
+msgstr "Rupee India"
+
+
+msgid "Japanese Yen"
+msgstr "Yen Jepang"
+
+
+msgid "Korean (South) Won"
+msgstr "Korea (selatan) won"
+
+
+msgid "Mexican Peso"
+msgstr "Meksiko peso"
+
+
+msgid "Malaysian Ringgit"
+msgstr "Ringgit Malaysia"
+
+
+msgid "Norwegian Krone"
+msgstr "Krone Norwegia"
+
+
+msgid "New Zealand Dollar"
+msgstr "Dolar Selandia baru"
+
+
+msgid "Philippine Peso"
+msgstr "Peso Filipina"
+
+
+msgid "Polish Zloty"
+msgstr "Zloty Polandia"
+
+
+msgid "Romanian (New) Leu"
+msgstr "Rumania (baru) leu"
+
+
+msgid "Russian Ruble"
+msgstr "Rubel Rusia"
+
+
+msgid "Swedish Krona"
+msgstr "Krona Swedia"
+
+
+msgid "Singapore Dollar"
+msgstr "Dollar singapore"
+
+
+msgid "Thai Baht"
+msgstr "Thai baht"
+
+
+msgid "Turkish Lira"
+msgstr "Lira Turki"
+
+
+msgid "United States Dollar"
+msgstr "United states dollar"
+
+
+msgid "South African Rand"
+msgstr "Selatan rand Afrika"
+
+
+msgid "Privacy Policy"
+msgstr "Rahasia pribadi"
+
+
+msgid "views"
+msgstr "dilihat"
+
+
+msgid "Modified date:"
+msgstr "Tanggal yang diubah:"
+
+
+msgid "Please enter your name here"
+msgstr "Silakan masukkan nama Anda di sini"
+
+
+msgid "Please enter your email address here"
+msgstr "Silakan masukkan alamat email Anda di sini"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "Anda telah memasukkan alamat email yang salah!"
+
+
+msgid "Please enter your comment!"
+msgstr "Silakan masukkan komentar anda!"
+
+
+msgid "Logged in as"
+msgstr "Masuk sebagai"
+
+
+msgid "Log out?"
+msgstr "Keluar?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "Masuk sebagai% s. sunting profilmu."
+
+
+msgid "Edit"
+msgstr "Sunting"
+
+
+msgid "Login"
+msgstr "Masuk"
+
+
+msgid "Send My Password"
+msgstr "Kirim kata sandi saya"
+
+
+msgid "Create an account"
+msgstr "Buat sebuah akun"
+
+
+msgid "Welcome! Register for an account"
+msgstr "Selamat datang! daftar untuk akun"
+
+
+msgid "About me"
+msgstr "Tentang saya"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Simpan nama, email, dan situs web saya di browser ini untuk lain kali saya berkomentar."
+
+
+msgid "Orders"
+msgstr "Pesanan"
+
+
+msgid "Addresses"
+msgstr "Alamat"
+
+
+msgid "Account settings"
+msgstr "Pengaturan akun"
+
+
+msgid "Hello"
+msgstr "Halo"
+
+
+msgid "No products in the cart."
+msgstr "Tidak ada produk di keranjang."
+
+
+msgid "Product categories"
+msgstr "Kategori Produk"
+
+
+msgid "Product tags"
+msgstr "Tag produk"
+
+
+msgid "Success"
+msgstr "Kesuksesan"
+
+
+msgid "Acknowledgment is required!"
+msgstr "Pengakuan diperlukan!"
+
+
+msgid "Please fill in a valid email."
+msgstr "Silahkan isi email yang valid."
+
+
+msgid "Please fill in an email address."
+msgstr "Silahkan isi alamat email."
+
+
+msgid "Get into your account."
+msgstr "Masuk ke akun Anda."
+
+
+msgid "My subscription account"
+msgstr "Akun langganan saya"
+
+
+msgid "Account details"
+msgstr "Detail akun"
+
+
+msgid "Subscriptions"
+msgstr "Langganan"
+
+
+msgid "My woo account"
+msgstr "Akun woo saya"
+
+
+msgid "Log out"
+msgstr "Keluar"
+
+
+msgid "Email address"
+msgstr "Alamat email"
+
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+
+msgid "Password"
+msgstr "Kata sandi"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "harus mengandung setidaknya satu huruf kecil (a..z)"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "harus mengandung setidaknya satu huruf besar (a..z)"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "harus berisi minimal 6 karakter"
+
+
+msgid "Repeat password"
+msgstr "Masukkan kata kunci kembali"
+
+
+msgid "Already have an account?"
+msgstr "Sudah memiliki akun?"
+
+
+msgid "Recover password"
+msgstr "Pulihkan kata sandi"
+
+
+msgid "Username or Email address"
+msgstr "Nama pengguna atau alamat email"
+
+
+msgid "Forgot password?"
+msgstr "Tidak ingat kata sandi?"
+
+
+msgid "Don't have an account?"
+msgstr "Tidak punya akun?"
+
+
+msgid "Dashboard"
+msgstr "Dasbor"
+
+
+msgid "Welcome to your account!"
+msgstr "Selamat datang di akun Anda!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "Halo %1$s (bukan %2$s? %3$s)! dari dasbor akun Anda, Anda dapat melihat langganan dan mengelola detail akun Anda."
+
+
+msgid "Lost Password"
+msgstr "Kehilangan Kata sandi"
+
+
+msgid "Manage your account details."
+msgstr "Mengelola detail akun Anda."
+
+
+msgid "First name"
+msgstr "Nama depan"
+
+
+msgid "Last name"
+msgstr "Nama keluarga"
+
+
+msgid "Display name"
+msgstr "Nama tampilan"
+
+
+msgid "Current password"
+msgstr "Kata sandi saat ini"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(kosongkan agar tidak berubah)"
+
+
+msgid "New password"
+msgstr "Kata sandi baru"
+
+
+msgid "Confirm new password"
+msgstr "Konfirmasi password baru"
+
+
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+
+msgid "All your subscriptions."
+msgstr "Semua langganan Anda."
+
+
+msgid "Plan"
+msgstr "Rencana"
+
+
+msgid "Payment type"
+msgstr "Tipe pembayaran"
+
+
+msgid "Status"
+msgstr "Status"
+
+
+msgid "Months"
+msgstr "Bulan"
+
+
+msgid "Start date"
+msgstr "Mulai tanggal"
+
+
+msgid "End date"
+msgstr "Tanggal akhir"
+
+
+msgid "missing plan"
+msgstr "rencana yang hilang"
+
+
+msgid "Free"
+msgstr "Gratis"
+
+
+msgid "Active"
+msgstr "Aktif"
+
+
+msgid "Trial"
+msgstr "Uji coba"
+
+
+msgid "Blocked"
+msgstr "Diblokir"
+
+
+msgid "Closed"
+msgstr "Tertutup"
+
+
+msgid "Not paid"
+msgstr "Tidak dibayarkan"
+
+
+msgid "Awaiting payment"
+msgstr "Menunggu Pembayaran"
+
+
+msgid "Subscription info"
+msgstr "Info berlangganan"
+
+
+msgid "ID"
+msgstr "INDO"
+
+
+msgid "Name"
+msgstr "Nama"
+
+
+msgid "Company name"
+msgstr "Nama Perusahaan"
+
+
+msgid "VAT"
+msgstr "TONG"
+
+
+msgid "Address"
+msgstr "Alamat"
+
+
+msgid "City"
+msgstr "Kota"
+
+
+msgid "Country/State"
+msgstr "Negara Bagian"
+
+
+msgid "Email"
+msgstr "Surel"
+
+
+msgid "Postal code"
+msgstr "Kode Pos"
+
+
+msgid "Direct bank transfer details"
+msgstr "Detail transfer bank langsung"
+
+
+msgid "Account name"
+msgstr "Nama akun"
+
+
+msgid "Account number"
+msgstr "Nomor akun"
+
+
+msgid "Bank name"
+msgstr "Nama Bank"
+
+
+msgid "Routing number"
+msgstr "Nomor perutean"
+
+
+msgid "IBAN"
+msgstr "IBAN"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/cepat"
+
+
+msgid "Instructions"
+msgstr "Instruksi"
+
+
+msgid "No subscription created."
+msgstr "Tidak ada langganan yang dibuat."
+
+
+msgid "Choose plan"
+msgstr "Pilih paket"
+
+
+msgid "Payment methods"
+msgstr "Cara Pembayaran"
+
+
+msgid "Total"
+msgstr "Total"
+
+
+msgid "Period"
+msgstr "Titik"
+
+
+msgid "Subscription summary"
+msgstr "Ringkasan berlangganan"
+
+
+msgid "Phone"
+msgstr "Telepon"
+
+
+msgid "Postcode"
+msgstr "Kode Pos"
+
+
+msgid "County"
+msgstr "Daerah"
+
+
+msgid "Town/City"
+msgstr "Kota/kota"
+
+
+msgid "Street address"
+msgstr "Alamat jalan"
+
+
+msgid "Country/Region"
+msgstr "Negara/wilayah"
+
+
+msgid "VAT Number"
+msgstr "Nomor PPN"
+
+
+msgid "(optional)"
+msgstr "(pilihan)"
+
+
+msgid "Billing details"
+msgstr "Rincian tagihan"
+
+
+msgid "User information"
+msgstr "Informasi pengguna"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "Tampaknya tidak ada metode pembayaran yang tersedia yang telah dikonfigurasi."
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "Terima kasih! kami senang melihat Anda di sini. langganan Anda akan segera diaktifkan!"
+
+
+msgid "Our bank details"
+msgstr "Rincian bank kami"
+
+
+msgid "Your subscription details"
+msgstr "Detail langganan Anda"
+
+
+msgid "View subscription"
+msgstr "Lihat langganan"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "Anda belum memilih paket berlangganan yang valid."
+
+
+msgid "Field empty"
+msgstr "Lapangan kosong"
+
+
+msgid "Empty first name"
+msgstr "Nama depan kosong"
+
+
+msgid "Empty last name"
+msgstr "Nama belakang kosong"
+
+
+msgid "Empty country"
+msgstr "Negara kosong"
+
+
+msgid "Empty address"
+msgstr "Alamat kosong"
+
+
+msgid "Empty city"
+msgstr "Kota kosong"
+
+
+msgid "Empty county"
+msgstr "Kabupaten kosong"
+
+
+msgid "Empty postcode"
+msgstr "Kode pos kosong"
+
+
+msgid "Empty phone"
+msgstr "Telepon kosong"
+
+
+msgid "Empty email"
+msgstr "Email kosong"
+
+
+msgid "Email or username empty!"
+msgstr "Email atau nama pengguna kosong!"
+
+
+msgid "Pass empty!"
+msgstr "Lulus kosong!"
+
+
+msgid "Username incorrect!"
+msgstr "Nama pengguna salah!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "Pola lulus tidak valid!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "Silahkan aktifkan akun anda dengan mengikuti link yang dikirimkan ke alamat email anda."
+
+
+msgid "Resend activation link"
+msgstr "Kirim ulang tautan aktivasi"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "Untuk memiliki akses ke bagian ini, Anda harus mengaktifkan akun Anda."
+
+
+msgid "Email empty!"
+msgstr "Email kosong!"
+
+
+msgid "Username empty!"
+msgstr "Nama pengguna kosong!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "Pola lulus salah!"
+
+
+msgid "Retyped pass empty!"
+msgstr "Ketik ulang pass kosong!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "Mengetik ulang lulus persis!"
+
+
+msgid "User already exists!"
+msgstr "Pengguna sudah ada!"
+
+
+msgid "Email already exists!"
+msgstr "Email sudah ada!"
+
+
+msgid "Your account could not be created."
+msgstr "Akun Anda tidak dapat dibuat."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "Silakan periksa email Anda (kotak masuk atau folder spam) untuk memvalidasi akun Anda."
+
+
+msgid "User empty!"
+msgstr "Pengguna kosong!"
+
+
+msgid "User does not exists!"
+msgstr "Pengguna tidak ada!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "Tautan aktivasi baru telah dibuat. silakan periksa email Anda (kotak masuk atau folder spam) untuk memvalidasi akun Anda."
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "Verifikasi captcha gagal!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "Skor pengguna captcha gagal. silahkan hubungi kami!"
+
+
+msgid "Loading"
+msgstr "Memuat"
+
+
+msgid "Here are the results for the search:"
+msgstr "Berikut hasil pencariannya :"
+
+
+msgid "Price"
+msgstr "Harga"
+
+
+msgid "EXCLUSIVE"
+msgstr "EKSKLUSIF"
+
+
+msgid "Tel:"
+msgstr "Telp:"
+
+
+msgid "Share"
+msgstr "Bagikan"
+
+
+msgid "Print"
+msgstr "Mencetak"
+
+
+msgid "At"
+msgstr "Pada"
+
+
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+
+msgid "My account"
+msgstr "Akun saya"
+
+
+msgid "Payment method"
+msgstr "Cara Pembayaran"
+

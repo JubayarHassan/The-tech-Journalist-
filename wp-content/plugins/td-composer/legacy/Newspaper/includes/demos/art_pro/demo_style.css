@@ -1,0 +1,42 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Art Pro Demo
+*/
+.td_art_pro a:hover {
+  text-decoration: underline !important;
+}
+.td_art_pro .td-no-underline .tdb-head-search-btn:hover {
+  text-decoration: none !important;
+}
+.td_art_pro .tdb_header_mega_menu .td-next-prev-wrap {
+  background-color: #b7c8ad;
+  text-align: center;
+}
+.td_art_pro .tdb_header_search .tdb-drop-down-search {
+  right: -1px;
+}
+.td_art_pro .tdb_loop .td-next-prev-wrap {
+  text-align: center;
+}
+.td_art_pro .td-vertical-text .tdm-descr {
+  writing-mode: vertical-lr;
+}
+.td_art_pro .tds-newsletter .tdn-input-wrap input {
+  border-top: 0px;
+  border-left: 0px;
+}
+.td_art_pro .wp-caption .wp-caption-text {
+  text-align: center;
+  margin: 15px 0;
+}
+.td_art_pro .td-single-post-arrow .td-next-prev-wrap {
+  text-align: center;
+}
+.td_art_pro #td-theme-settings .td-skin-buy a {
+  background-color: #b7c8ad;
+}

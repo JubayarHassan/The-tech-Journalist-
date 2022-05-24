@@ -1,0 +1,212 @@
+.td-license-page {
+  font-size: 14px;
+
+  .td-white-box {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  h1 {
+    margin: 0.67em 0;
+  }
+
+  @-webkit-keyframes fullrotate {
+    0% {
+      -webkit-transform: rotate(0);
+      transform: rotate(0)
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg)
+    }
+  }
+
+  @keyframes fullrotate {
+    0% {
+      -webkit-transform: rotate(0);
+      transform: rotate(0)
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg)
+    }
+  }
+
+
+  // Content loading
+  .td-s-content {
+    position: relative;
+    min-height: 50px;
+
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      opacity: 0;
+      transition: opacity .2s ease-in-out;
+      pointer-events: none;
+    }
+
+    &:before {
+      top: 0;
+      left: 0;
+      width: calc(~'100% + 6px');
+      height: calc(~'100% + 6px');
+      background-color: rgba(255, 255, 255, .8);
+      z-index: 1;
+    }
+
+    &:after {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      margin-top: -23px;
+      margin-left: -23px;
+      width: 40px;
+      height: 40px;
+      border: 3px solid #888;
+      border-left-color: transparent;
+      border-right-color: transparent;
+      border-radius: 50%;
+      -webkit-animation: fullspin 1s infinite ease-out;
+      animation: fullspin 1s infinite ease-out;
+      z-index: 2;
+    }
+  }
+
+  .td-s-content-loading {
+    &:before,
+    &:after {
+      opacity: 1;
+      pointer-events: auto;
+    }
+  }
+
+
+  // Page content
+  .td-license-page-content {
+    margin-top: 28px;
+  }
+
+
+  // License table
+  .td-s-table-license {
+    margin-top: 28px;
+
+    // Table body
+    .td-s-table-body {
+      // Table row
+      .td-s-table-row {
+        &:not(:last-child) {
+          border-bottom: none;
+        }
+
+        &:hover {
+          background-color: transparent;
+        }
+
+        @media (max-width: 1018px) {
+          padding-top: 10px;
+          padding-bottom: 10px;
+        }
+      }
+    }
+
+    .td-license-unassign-notif + .td-s-table-license {
+      margin-top: 23px;
+    }
+
+    // Table columns
+    .td-s-table-col {
+      @media (min-width: 1019px) {
+        padding-top: 7px;
+        padding-bottom: 10px;
+      }
+    }
+
+    @media (min-width: 1019px) {
+      .td-s-table-col-domain {
+        width: 33%;
+      }
+
+      .td-s-table-col-status,
+      .td-s-table-col-actions {
+        width: 12%;
+      }
+    }
+    @media (max-width: 1018px) {
+      .td-s-table-body {
+        .td-s-table-row:not(:first-child) {
+          .td-s-table-col-key {
+            display: none;
+          }
+        }
+      }
+    }
+
+    // Table status
+    .td-s-table-status-active {
+      background-color: #E2F3DF;
+      color: #317A25;
+    }
+
+    // Table actions
+    .td-s-table-col-actions {
+      text-align: right;
+    }
+  }
+
+  .td-license-domain-action {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    background-color: transparent;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    -webkit-appearance: none;
+    cursor: pointer;
+
+    @media (min-width: 1019px) {
+      margin-left: auto;
+    }
+
+    &:disabled {
+      opacity: .4;
+      pointer-events: none;
+    }
+  }
+
+  .td-lda-saving {
+    opacity: .6;
+    pointer-events: none;
+
+    &:before {
+      content: '';
+      position: relative;
+      top: 1px;
+      width: 9px;
+      height: 9px;
+      margin-right: 7px;
+      border: 1px solid #333;
+      border-left-color: transparent;
+      border-right-color: transparent;
+      border-radius: 50%;
+      -webkit-animation: fullspin 1s infinite ease-out;
+      animation: fullspin 1s infinite ease-out;
+      z-index: 2;
+      transition: border-top-color .2s ease-in-out, border-bottom-color .2s ease-in-out;
+    }
+  }
+
+  .td-lda-assign {
+    color: #69bb5c;
+  }
+  .td-lda-unassign {
+    color: #FF3838;
+
+    &:disabled {
+      opacity: .35;
+    }
+  }
+}

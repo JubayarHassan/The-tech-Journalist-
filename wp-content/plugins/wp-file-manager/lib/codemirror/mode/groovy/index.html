@@ -1,0 +1,65 @@
+<title>CodeMirror: Groovy mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/addon/edit/matchbrackets.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/groovy/groovy.js"></script>
+<style>.CodeMirror {border-top: 1px solid #500; border-bottom: 1px solid #500;}</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">Groovy</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>Groovy mode</h2>
+<form><textarea id="code" name="code">
+//Pattern for groovy script
+def p = ~/.*\.groovy/
+new File( 'd:\\scripts' ).eachFileMatch(p) {f ->
+  // imports list
+  def imports = []
+  f.eachLine {
+    // condition to detect an import instruction
+    ln -> if ( ln =~ '^import .*' ) {
+      imports 
+     int count = amount / coin.value
+     amount = amount % coin.value
+     list += "$count ${plural(coin.toString(), count)}"
+  }
+}
+</textarea></form>
+
+    <script>
+      var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+        lineNumbers: true,
+        matchBrackets: true,
+        mode: "text/x-groovy"
+      });
+    </script>
+
+    <p><strong>MIME types defined:</strong> <code>text/x-groovy</code></p>
+  </article>

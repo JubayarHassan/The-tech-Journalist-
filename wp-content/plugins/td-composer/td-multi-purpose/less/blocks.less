@@ -1,0 +1,343 @@
+/* ------------------------------- */
+//   General blocks multi-purpose
+/* ------------------------------- */
+
+// layout
+.tdm_block {
+  // used to align the content vertical and horizontal
+  .tdm-row {
+    .tdm-col {
+      float: none;
+      display: inline-block;
+      vertical-align: top;
+
+      /* responsive portrait phone */
+      @media (max-width: @responsive_p_phone_max) {
+        float: left;
+        width: 100%;
+      }
+    }
+  }
+
+  .td-block-width {
+    margin: 0 auto;
+  }
+}
+
+.tdm_white_text {
+  .tdm-title,
+  .tdm-descr {
+    color: #fff;
+  }
+}
+
+.tdm-width-1068 {
+  .td-block-width {
+    max-width: 1068px;
+  }
+}
+.tdm-width-1200 {
+  .td-block-width {
+    max-width: 1200px;
+  }
+}
+.tdm-width-1400 {
+  .td-block-width {
+    max-width: 1400px;
+  }
+}
+.tdm-width-1600 {
+  .td-block-width {
+    max-width: 1600px;
+  }
+}
+.tdm-width-1800 {
+  .td-block-width {
+    max-width: 1800px;
+  }
+}
+.tdm-width-full {
+  .td-block-width {
+    max-width: 100%;
+  }
+}
+
+.tdm-full-height {
+  .td-block-width {
+    height: 100vh !important;
+  }
+}
+
+.tdm-layout-12-12 {
+  .tdm-col {
+    width: 50%;
+  }
+}
+
+
+// rows full height
+.tdm-row-height {
+  display: flex;
+  /* responsive portrait phone */
+  @media (max-width: @responsive_p_phone_max) {
+    flex-direction: column;
+  }
+}
+[class*="tdc-theme-"] {
+  .tdm-row-height {
+    display: inherit;
+    flex-direction: inherit;
+
+    .tdc-columns {
+      display: flex;
+
+      /* responsive portrait phone */
+      @media (max-width: @responsive_p_phone_max) {
+        flex-direction: column;
+      }
+    }
+  }
+}
+
+
+
+/* tablet + desktop */
+@media (min-width: @responsive_p_phone_max) {
+  // Layouts
+  .tdm-layout-13-23 {
+    .tdm-col {
+      &:first-child {
+        width: 33.33333333%;
+        /* responsive portrait tablet */
+        @media (min-width: @responsive_p_tablet_min) and (max-width: @responsive_p_tablet_max) {
+          width: 41.66666667%;
+        }
+      }
+      &:last-child {
+        width: 66.66666667%;
+        /* responsive portrait tablet */
+        @media (min-width: @responsive_p_tablet_min) and (max-width: @responsive_p_tablet_max) {
+          width: 58.33333333%;
+        }
+      }
+    }
+  }
+  .tdm-layout-23-13 {
+    .tdm-col {
+      &:first-child {
+        width: 66.66666667%;
+        /* responsive portrait tablet */
+        @media (min-width: @responsive_p_tablet_min) and (max-width: @responsive_p_tablet_max) {
+          width: 58.33333333%;
+        }
+      }
+      &:last-child {
+        width: 33.33333333%;
+        /* responsive portrait tablet */
+        @media (min-width: @responsive_p_tablet_min) and (max-width: @responsive_p_tablet_max) {
+          width: 41.66666667%;
+        }
+      }
+    }
+  }
+}
+
+// inline block
+.tdm-inline-block {
+  display: inline-block;
+}
+
+// text align horizontal
+.tdm-content-horiz-center {
+  text-align: center !important;
+  margin-right: auto; // used for display: table
+  margin-left: auto; // used for display: table
+}
+.tdm-content-horiz-right {
+  text-align: right !important;
+  margin-left: auto; // used for display: table
+}
+
+// text align vertical
+.tdm-content-vert-center {
+  .td-block-row .tdm-col {
+    vertical-align: middle !important;
+  }
+}
+.tdm-content-vert-bottom {
+  .td-block-row .tdm-col {
+    vertical-align: bottom !important;
+  }
+}
+
+
+// padding text + 40px
+@media (min-width: @responsive_p_tablet_min) and (max-width: 1108px) {
+  .tdm-width-1068,
+  .stretch_row_1068 {
+    .tdm-col:first-child .tdm-text-padding {
+      padding-left: 20px;
+    }
+    .tdm-col:last-child .tdm-text-padding {
+      padding-right: 20px;
+    }
+
+    .tdm-fix-full {
+      margin-left: -20px;
+      margin-right: -20px;
+    }
+  }
+}
+@media (min-width: @responsive_p_tablet_min) and (max-width: 1240px) {
+  .tdm-width-1200,
+  .stretch_row_1200 {
+    .tdm-col:first-child .tdm-text-padding {
+      padding-left: 20px;
+    }
+    .tdm-col:last-child .tdm-text-padding {
+      padding-right: 20px;
+    }
+
+    .tdm-fix-full {
+      margin-left: -20px;
+      margin-right: -20px;
+    }
+  }
+}
+@media (min-width: @responsive_p_tablet_min) and (max-width: 1440px) {
+  .tdm-width-1400,
+  .stretch_row_1400 {
+    .tdm-col:first-child .tdm-text-padding {
+      padding-left: 20px;
+    }
+    .tdm-col:last-child .tdm-text-padding {
+      padding-right: 20px;
+    }
+
+    .tdm-fix-full {
+      margin-left: -20px;
+      margin-right: -20px;
+    }
+  }
+}
+@media (min-width: @responsive_p_tablet_min) and (max-width: 1640px) {
+  .tdm-width-1600,
+  .stretch_row_1600 {
+    .tdm-col:first-child .tdm-text-padding {
+      padding-left: 20px;
+    }
+    .tdm-col:last-child .tdm-text-padding {
+      padding-right: 20px;
+    }
+
+    .tdm-fix-full {
+      margin-left: -20px;
+      margin-right: -20px;
+    }
+  }
+}
+@media (min-width: @responsive_p_tablet_min) and (max-width: 1840px) {
+  .tdm-width-1800,
+  .stretch_row_1800 {
+    .tdm-col:first-child .tdm-text-padding {
+      padding-left: 20px;
+    }
+    .tdm-col:last-child .tdm-text-padding {
+      padding-right: 20px;
+    }
+
+    .tdm-fix-full {
+      margin-left: -20px;
+      margin-right: -20px;
+    }
+  }
+}
+
+/* responsive portrait phone */
+@media (max-width: @responsive_p_phone_max) {
+  .td_block_wrap {
+    .tdm-text-padding {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+}
+
+// fix full width shortcodes
+.td-pb-row .tdm-fix-full {
+  /* responsive portrait phone */
+  @media (max-width: @responsive_p_phone_max) {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
+
+// fix not full shortcodes to be full only on mobile for stretch content
+.td-stretch-content .tdm-mobile-full {
+  /* responsive portrait phone */
+  @media (max-width: @responsive_p_phone_max) {
+    margin-left: -20px;
+    margin-right: -20px;
+    width: auto;
+  }
+}
+
+// this fix the image bottom space
+.tdm-col-img {
+  line-height: 0;
+}
+
+
+// Scroll to class | Video popup
+[data-mfp-src] {
+  cursor: pointer;
+}
+[data-scroll-to-class] {
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

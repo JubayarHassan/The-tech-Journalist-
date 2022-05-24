@@ -1,0 +1,27 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Classic Pro Demo
+*/
+.td-classic-pro.td-boxed-layout .td-container-wrap {
+  width: auto;
+}
+.td-classic-pro .td-scroll-up {
+  background-color: #888;
+}
+.td-classic-pro .td-scroll-up:hover {
+  background-color: #000;
+}
+.td-classic-pro #td-theme-demos-button {
+  top: 184px;
+}
+.td-classic-pro #td-theme-services-button {
+  top: 220px;
+}
+.td-classic-pro #td-theme-buy-button {
+  top: 256px;
+}

@@ -1,0 +1,7 @@
+.td-covid-stats-pro .tdc-covid-stats-pro-header .tdb-menu > li.current-menu-item > a:after,
+.td-covid-stats-pro .tdc-covid-stats-pro-header .tdb-menu > li.current-menu-ancestor > a:after,
+.td-covid-stats-pro .tdc-covid-stats-pro-header .tdb-menu > li.current-category-ancestor > a:after,
+.td-covid-stats-pro .tdc-covid-stats-pro-header .tdb-menu > li:hover > a:after,
+.td-covid-stats-pro .tdc-covid-stats-pro-header .tdb-menu > li.tdb-hover > a:after {
+  z-index: -1;
+}

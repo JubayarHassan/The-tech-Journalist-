@@ -1,0 +1,27 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Amberlight PRO
+*/
+.td-amberlight-pro .td-news-ticker-edit {
+  padding: 0!important;
+}
+.td-amberlight-pro .td-news-ticker-edit .td-trending-now-wrapper {
+  background-color: #004446;
+  border-radius: 2px;
+  padding: 4px 0;
+}
+.td-amberlight-pro .td-news-ticker-edit .td-trending-now-post {
+  padding: 5px 0 3px;
+}
+.td-amberlight-pro .td-news-ticker-edit .td-next-prev-wrap a {
+  border: 0px!important;
+  padding: 0 10px 0 0;
+}
+.td-amberlight-pro .td-tags-mobile .tdb-tags li {
+  margin-bottom: 25px!important;
+}

@@ -1,0 +1,1 @@
+<span class="butterbean-description description">{{{ data.description }}}</span>

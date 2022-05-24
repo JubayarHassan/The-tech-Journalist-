@@ -1,0 +1,19 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Animals Pro Demo
+*/
+.td-animals-pro .td-post-content img {
+  display: block;
+  border-bottom: 5px solid #edcb21;
+}
+.td-animals-pro .td-is-on-sidebar .td-load-more-wrap {
+  text-align: left;
+}
+.td-animals-pro #td-theme-settings .td-skin-buy a {
+  background-color: #edcb21;
+}

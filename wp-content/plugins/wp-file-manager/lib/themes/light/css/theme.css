@@ -1,0 +1,46 @@
+/**
+ * elFinder Theme Template
+ * @author lokothodida
+ */
+
+/* Reset */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/reset.css');
+
+/* Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Open+Sans:300');
+
+/* Main features of the whole UI */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/main.css');
+
+/* Icons */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/icons.css');
+
+/* Toolbar (top panel) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/toolbar.css');
+
+/* Navbar (left panel) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/navbar.css');
+
+/* Views (List and Thumbnail) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-list.css');
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/view-thumbnail.css');
+
+/* Context menu */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/contextmenu.css');
+
+/* (Modal) Dialogs */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/dialog.css');
+
+/* Status Bar */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/light/css/statusbar.css');
+
+.ui-widget-content.elfinder-edit-editor{
+	width:auto;
+}
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button.elfinder-titlebar-button-right .ui-icon.ui-icon-closethick {
+	display: none;
+}
+.elfinder-toolbar .elfinder-button-search .ui-icon-close {
+    margin: -10px 4px 0 4px;
+    width: 17px;
+}

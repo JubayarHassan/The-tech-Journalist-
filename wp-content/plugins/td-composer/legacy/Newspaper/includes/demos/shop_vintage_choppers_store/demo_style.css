@@ -1,0 +1,325 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+.mx_image_background {
+  background-color: #f2f2f2;
+}
+.td-visibility-hidden {
+  visibility: hidden;
+}
+/*  ----------------------------------------------------------------------------
+    from bootstrap
+*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+usage:
+.td-block-row {
+  .mx-row(td-block-span);
+}
+
+@all_span_selector - is the begining of the span selector
+ */
+.td-shop-vintage-choppers-store {
+  /* -----------
+  /* --- CART PAGE
+   */
+  /* -----------
+  /* --- CHECKOUT PAGE
+   */
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-main-content-wrap > .td-container {
+  width: auto !important;
+  max-width: 1440px;
+}
+@media (min-width: 1141px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-main-content-wrap > .td-container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-main-content-wrap > .td-container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-main-content-wrap > .td-container {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container {
+  position: relative;
+  margin-bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: auto;
+  border-width: 1px 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
+@media (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs {
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+  /* responsive portrait phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 14px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 13px;
+  }
+}
+@media (max-width: 767px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 14px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs,
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs a {
+  color: #9b9b9b;
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs a:hover {
+  color: #f4911d;
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs .td-bread-sep {
+  margin: 0 18px;
+  font-size: 12px;
+  color: #757575;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+  /* responsive portrait phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs .td-bread-sep {
+    margin: 0 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs .td-bread-sep {
+    margin: 0 11px;
+  }
+}
+@media (max-width: 767px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-crumb-container .entry-crumbs .td-bread-sep {
+    font-size: 10px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-page-header {
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 100px;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* responsive landscape tablet */
+  /* responsive portrait tablet + mobile phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-header {
+    padding-top: 70px;
+    padding-bottom: 80px;
+  }
+}
+@media (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-header {
+    padding-top: 50px;
+    padding-bottom: 60px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-page-header .td-page-title {
+  margin-bottom: 0;
+  font-family: Oswald;
+  font-size: 60px;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 1.3;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-header .td-page-title {
+    font-size: 46px;
+    line-height: 1.3;
+  }
+}
+@media (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-header .td-page-title {
+    font-size: 40px;
+    line-height: 1.2;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-page .td-page-content {
+  margin-bottom: 10px;
+  padding-bottom: 110px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-content {
+    padding-bottom: 90px;
+  }
+}
+@media (max-width: 1018px) {
+  .td-shop-vintage-choppers-store.woocommerce-page .td-page-content {
+    padding-bottom: 70px;
+  }
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item {
+  margin-bottom: 20px;
+  font-family: Roboto;
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item .product-name a {
+  font-family: Oswald;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item .product-name a:hover {
+  color: #f4911d;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item .product-name .variation {
+  color: #adadad;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item .product-quantity input {
+  -webkit-appearance: none;
+  background-color: rgba(255, 255, 255, 0.08);
+  height: 2.5em;
+  border: none;
+  outline: none;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default table.shop_table .td-cart-actions {
+  background-color: transparent;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default table.shop_table td.actions {
+  padding: 20px 0;
+  border-width: 1px 0;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default table.shop_table td.actions .coupon .input-text {
+  margin-right: 0;
+  -webkit-appearance: none;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default table.shop_table button {
+  background-color: #f4911d;
+  font-family: Oswald;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #000;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default table.shop_table button:hover {
+  background-color: #f4a74e;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals {
+  background-color: rgba(255, 255, 255, 0.08);
+  font-family: Roboto;
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals h2 {
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals a {
+  background-color: #f4911d;
+  font-family: Oswald;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #000;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+.td-shop-vintage-choppers-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals a:hover {
+  background-color: #f4a74e;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default,
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default h3 {
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default .td-woo-billing {
+  background-color: transparent;
+  padding: 0;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default .td-woo-coupon-wrap {
+  color: #000;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default form .form-row input.input-text,
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default form .form-row textarea {
+  -webkit-appearance: none;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default form .form-row .select2-selection {
+  border: none;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default form .form-row .select2-container--default .select2-selection--single {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default form .form-row .select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #fff;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default .woocommerce-checkout button {
+  background-color: #f4911d;
+  font-family: Oswald;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #000;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+.td-shop-vintage-choppers-store.woocommerce-checkout .td-woo-default .woocommerce-checkout button:hover {
+  background-color: #f4a74e;
+}

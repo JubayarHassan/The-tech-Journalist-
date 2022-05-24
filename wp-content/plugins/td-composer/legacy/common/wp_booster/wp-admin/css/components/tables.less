@@ -1,0 +1,144 @@
+// --------
+// -- TABLES
+// --------
+.td-s-table {
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  @media (max-width: 1018px) {
+    display: block;
+  }
+}
+
+
+// Table row general
+.td-s-table-row {
+  @media (max-width: 1018px) {
+    display: block;
+  }
+}
+
+// Table columns general
+.td-s-table-col {
+  position: relative;
+  padding: 0;
+  border: none;
+
+  /* responsive tablet + desktop */
+  @media (min-width: 1019px) {
+    &:first-child {
+      padding-left: 10px;
+    }
+
+    &:not(:last-child) {
+      padding-right: 15px;
+    }
+
+    &:last-child {
+      padding-right: 10px;
+    }
+  }
+  @media (max-width: 1018px) {
+    display: flex;
+    align-items: baseline;
+    width: 100%;
+  }
+}
+
+.td-s-table-col-label {
+  width: 35%;
+  margin-right: 10px;
+  padding-right: 10px;
+  color: #555D66;
+
+  /* responsive tablet + desktop */
+  @media (min-width: 1019px) {
+    display: none;
+  }
+}
+
+
+// Table header
+.td-s-table-header {
+  font-size: .857em;
+  line-height: 1;
+  font-weight: 600;
+  text-align: left;
+  color: #555D66;
+  border-bottom: 2px solid #D7D8DE;
+
+  @media (max-width: 1018px) {
+    display: none;
+  }
+
+
+  // Table columns
+  .td-s-table-col {
+    padding-bottom: 15px;
+  }
+}
+
+
+// Table body
+.td-s-table-body {
+  font-size: .929em;
+  line-height: 1;
+  font-weight: 600;
+  color: #1D2327;
+
+  @media (max-width: 1018px) {
+    display: block;
+  }
+
+
+  // Table row
+  .td-s-table-row {
+    &:not(:last-child) {
+      border-bottom: 1px solid #EBEBEB;
+    }
+
+    &:hover {
+      background-color: #F8F8F8;
+    }
+
+    @media (max-width: 1018px) {
+      padding: 15px 10px;
+    }
+  }
+
+
+  // Table columns
+  .td-s-table-col {
+    @media (min-width: 1019px) {
+      padding-top: 12px;
+      padding-bottom: 15px;
+    }
+
+    @media (max-width: 1018px) {
+      padding-top: 7px;
+      padding-bottom: 7px;
+    }
+  }
+}
+
+
+// Table status
+.td-s-table-status {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  padding: 3px 5px 4px;
+  font-size: .786em;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: .2px;
+  text-transform: uppercase;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+
+.td-s-table-status-generic {
+  background-color: #ededed;
+}

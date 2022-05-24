@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta_LK\n"
+
+
+msgid "View all results"
+msgstr "எல்லா முடிவுகளையும் காண்க"
+
+
+msgid "No results"
+msgstr "முடிவுகள் இல்லை"
+
+
+msgid "Home"
+msgstr "முகப்பு"
+
+
+msgid "CLOSE"
+msgstr "வெளியேறு"
+
+
+msgid "Page"
+msgstr "பக்கம்"
+
+
+msgid "All"
+msgstr "அனைத்தும்"
+
+
+msgid "By"
+msgstr "மூலம்"
+
+
+msgid "Load more"
+msgstr "மேலும் ஏற்றுக"
+
+
+msgid "View all posts in"
+msgstr "உள்ள அனைத்துச் செய்திகளையும் பார்க்க"
+
+
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+
+msgid "Previous article"
+msgstr "முந்தைய கட்டுரை"
+
+
+msgid "Next article"
+msgstr "அடுத்த கட்டுரை"
+
+
+msgid "Authors"
+msgstr "எழுத்தாளர்கள்"
+
+
+msgid "Author"
+msgstr "எழுத்தாளர்"
+
+
+msgid "RELATED ARTICLES"
+msgstr "தொடர்புடைய கட்டுரைகள்"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "ஆசிரியரிடமிருந்து மிகவும்"
+
+
+msgid "VIA"
+msgstr "மூலமாக"
+
+
+msgid "SOURCE"
+msgstr "மற்ற ஆதாரங்கள்"
+
+
+msgid "TAGS"
+msgstr "குறிகள்"
+
+
+msgid "SHARE"
+msgstr "பகிர்ந்து"
+
+
+msgid "Continue"
+msgstr "தொடர்க"
+
+
+msgid "Read more"
+msgstr "மேலும் வாசிக்க"
+
+
+msgid "Name:"
+msgstr "பெயர்:"
+
+
+msgid "Email:"
+msgstr "மின்னஞ்சல்:"
+
+
+msgid "Website:"
+msgstr "வலைத்தளம்:"
+
+
+msgid "Comment:"
+msgstr "கருத்து:"
+
+
+msgid "LEAVE A REPLY"
+msgstr "ஒரு பதிலை விடவும்"
+
+
+msgid "Post Comment"
+msgstr "கருத்து தெரிவிக்க"
+
+
+msgid "Cancel reply"
+msgstr "பதில் ரத்து"
+
+
+msgid "Reply"
+msgstr "பதிலளிக்க"
+
+
+msgid "Log in to leave a comment"
+msgstr "ஒரு கருத்தை விட உள் நுழையவும்"
+
+
+msgid "NO COMMENTS"
+msgstr "கருத்துகள் இல்லை"
+
+
+msgid "1 COMMENT"
+msgstr "1 கருத்து"
+
+
+msgid "COMMENTS"
+msgstr "கருத்துக்கள்"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "சி.ஆர்.டி. கண்ணோட்டம்"
+
+
+msgid "SUMMARY"
+msgstr "சுருக்கமான விபரம்"
+
+
+msgid "OVERALL SCORE"
+msgstr "ஒட்டுமொத்த ஸ்கோர்"
+
+
+msgid "Ooops... Error 404"
+msgstr "அச்சச்சோ ... 404 பிழை"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "மன்னிக்கவும், நீங்கள் தேடும் பக்கம் இல்லை."
+
+
+msgid "You can go to the"
+msgstr "நீங்கள் செல்லலாம்"
+
+
+msgid "HOMEPAGE"
+msgstr "முகப்பு பக்கம்"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "எங்கள் சமீபத்திய இடுகைகள்"
+
+
+msgid "Posts by"
+msgstr "இடுகைகள் மூலம்"
+
+
+msgid "POSTS"
+msgstr "இடுகைகள்"
+
+
+msgid "Posts tagged with"
+msgstr "இடுகைகளுடன் குறியிடபட்டுவிட்டது"
+
+
+msgid "Tag"
+msgstr "குறிச்சொல்"
+
+
+msgid "Daily Archives:"
+msgstr "தினசரி தொகுப்புகள்:"
+
+
+msgid "Monthly Archives:"
+msgstr "மாதாந்திர தொகுப்புகள்:"
+
+
+msgid "Yearly Archives:"
+msgstr "வருடாந்திர தொகுப்புகள்:"
+
+
+msgid "Archives"
+msgstr "தொகுப்புகள்"
+
+
+msgid "LATEST ARTICLES"
+msgstr "சமீபத்திய கட்டுரைகள்"
+
+
+msgid "search results"
+msgstr "தேடல் முடிவுகள்"
+
+
+msgid "Search"
+msgstr "தேடல்"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "நீங்கள் முடிவுகளள் மகிழ்ச்சியாக இல்லை என்றால், தயவுசெய்த  மற்றொரு தேடலை செய்யவும்"
+
+
+msgid "Contact us"
+msgstr "எங்களை தொடர்பு கொள்ளுங்கள்"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "பக்கம்%தற்போதைய பக்கம்% இன் மொத்த பக்கங்கள்%"
+
+
+msgid "Next"
+msgstr "அடுத்த"
+
+
+msgid "Prev"
+msgstr "முன்"
+
+
+msgid "No results for your search"
+msgstr "உங்கள் தேடல் க்கான முடிவுகள் ஏதுமில்லை"
+
+
+msgid "No posts to display"
+msgstr "பதிவுகள் காண்பிக்க இல்லை"
+
+
+msgid "LOG IN"
+msgstr "உள்நுழைக"
+
+
+msgid "Sign in / Join"
+msgstr "உள்நுழையவும் / சேரவும்"
+
+
+msgid "Log In"
+msgstr "உள்நுழைய"
+
+
+msgid "REGISTER"
+msgstr "பதிவு"
+
+
+msgid "Send My Pass"
+msgstr "என் பாஸ் அனுப்பவும்"
+
+
+msgid "Forgot your password?"
+msgstr "உங்கள் கடவுச்சொல்லை மறந்து விட்டீர்களா?"
+
+
+msgid "Please wait..."
+msgstr "தயவு செய்து காத்திருக்கவும் …"
+
+
+msgid "User or password incorrect!"
+msgstr "பயனர் அல்லது கடவுச்சொல் தவறானது!"
+
+
+msgid "Email or username incorrect!"
+msgstr "மின்னஞ்சல் அல்லது பயனர் பெயர் தவறானது!"
+
+
+msgid "Email incorrect!"
+msgstr "மின்னஞ்சல் தவறானது!"
+
+
+msgid "User or email already exists!"
+msgstr "பயனர் அல்லது மின்னஞ்சல் ஏற்கனவே உள்ளது!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "உங்கள் மின்னஞ்சல் சரிபார்க்கவும்(குறியீடு அல்லது ஸ்பேம் கோப்புறை) கடவுச்சொல் அனுப்பப்பட்டது."
+
+
+msgid "Email address not found!"
+msgstr "மின்னஞ்சல் முகவரி காணப்படவில்லை!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "உங்கள் கடவுச்சொல் மீட்டமைக்கப்பட்டது, உங்கள் மின்னஞ்சல் சரிபார்க்கவும்."
+
+
+msgid "Welcome! Log into your account"
+msgstr "வரவேற்கிறோம்! உங்கள் கணக்கில் உள்நுழைவு"
+
+
+msgid "Register for an account"
+msgstr "ஒரு கணக்கை பதிவு செய்யவும்"
+
+
+msgid "Recover your password"
+msgstr "உங்கள் கடவுச்சொல்லை மீட்டெடுக்கவும்"
+
+
+msgid "your username"
+msgstr "உங்கள் பயனர் பெயர்"
+
+
+msgid "your password"
+msgstr "உங்கள் கடவுச்சொல்"
+
+
+msgid "your email"
+msgstr "உங்கள் மின்னஞ்சல்"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "ஒரு கடவுச்சொல்லை உங்களுக்கு மின்னஞ்சல் மூலம் அனுப்பப்படும்."
+
+
+msgid "Logout"
+msgstr "வெளியேறு"
+
+
+msgid "Like"
+msgstr "லைக்"
+
+
+msgid "Fans"
+msgstr "ரசிகர்கள்"
+
+
+msgid "Follow"
+msgstr "பின்பற்றவும்"
+
+
+msgid "Followers"
+msgstr "பின்பற்றுபவர்கள்"
+
+
+msgid "Subscribe"
+msgstr "குழுசேர்"
+
+
+msgid "Subscribers"
+msgstr "சந்தாதாரர்கள்"
+
+
+msgid "MORE STORIES"
+msgstr "இன்னும் கதைகள்"
+
+
+msgid "Latest"
+msgstr "சமீபத்திய"
+
+
+msgid "Featured posts"
+msgstr "சிறப்பு பதிவுகள்"
+
+
+msgid "Most popular"
+msgstr "மிகவும் பிரபலமான"
+
+
+msgid "7 days popular"
+msgstr "7 நாட்கள் பிரபலமான"
+
+
+msgid "By review score"
+msgstr "விமர்சனம் ஸ்கோர் மூலம்"
+
+
+msgid "Random"
+msgstr "ராண்டம்"
+
+
+msgid "Trending Now"
+msgstr "இப்போது பிரபலமாகும்"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "பிரபலமான வகை"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "இன்னும் அதிக செய்திகள்"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "முந்தைய (இடது அம்புக்குறி விசையை)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "அடுத்து (வலது அம்பு விசை)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr% இன் %total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "உள்ளடக்கத்தை இருந்து %url%  இருந்து ஏற்ற முடியவில்லை."
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "படம் #%curr% ஏற்ற முடியவில்லை."
+
+
+msgid "Blog"
+msgstr "வலைப்பதிவு"
+
+
+msgid "Share on Facebook"
+msgstr "Facebook இல் பகிர்ந்துகொல்லவும்"
+
+
+msgid "Tweet on Twitter"
+msgstr "Twitter இல் ட்வீட் செய்யவும்"
+
+
+msgid "EDITOR PICKS"
+msgstr "ஆசிரியர் தேர்வு"
+
+
+msgid "POPULAR POSTS"
+msgstr "பிரபலமான பதிவுகள்"
+
+
+msgid "FOLLOW US"
+msgstr "நம்மை பின்பற்ற"
+
+
+msgid "ABOUT US"
+msgstr "எங்களை பற்றி"
+
+
+msgid "More"
+msgstr "மேலும்"
+
+
+msgid "Featured"
+msgstr "சிறப்பு"
+
+
+msgid "All time popular"
+msgstr "பிரபலமான அனைத்து நேரம்"
+
+
+msgid "Likes"
+msgstr "விருப்பு"
+
+
+msgid "Register"
+msgstr "பதிவு"
+
+
+msgid "of"
+msgstr "என்ற"
+
+
+msgid "Euro Member Countries"
+msgstr "யூரோ உறுப்பு நாடுகள்"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "உங்கள் கருத்துரை காத்திருக்கிறது உள்ளது"
+
+
+msgid "Follow us on Instagram"
+msgstr "Instagram நம்மை பின்பற்ற"
+
+
+msgid "Back"
+msgstr "மீண்டும்"
+
+
+msgid "Sign in"
+msgstr "உள்நுழைய"
+
+
+msgid "Sign up"
+msgstr "பதிவு"
+
+
+msgid "Join"
+msgstr "சேர"
+
+
+msgid "Welcome!"
+msgstr "வரவேற்பு!"
+
+
+msgid "Log into your account"
+msgstr "உங்கள் கணக்கில் உள்நுழைய"
+
+
+msgid "Password recovery"
+msgstr "கடவுச்சொல் மீட்பு"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "உங்கள் மின்னஞ்சல் (குறியீட்டு அல்லது ஸ்பேம் கோப்புறை) சரிபார்க்கவும், கடவுச்சொல்லை அங்கு அனுப்பப்பட்டான்."
+
+
+msgid "Australian Dollar"
+msgstr "ஆஸ்திரேலிய டாலர்"
+
+
+msgid "Bulgarian Lev"
+msgstr "பல்கேரியன் லெவ்"
+
+
+msgid "Brazilian Real"
+msgstr "பிரேசிலிய உண்மையான"
+
+
+msgid "Canadian Dollar"
+msgstr "கனடா டாலர்"
+
+
+msgid "Swiss Franc"
+msgstr "சுவிஸ் பிராங்க்"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "சீன யுவான் ரென்மின்பி"
+
+
+msgid "Czech Republic Koruna"
+msgstr "செக் குடியரசு கொருனா"
+
+
+msgid "Danish Krone"
+msgstr "டானிஷ் க்ரோன்"
+
+
+msgid "British Pound"
+msgstr "பிரிட்டிஷ் பவுண்ட்"
+
+
+msgid "Hong Kong Dollar"
+msgstr "ஹாங்காங் டாலர்"
+
+
+msgid "Croatian Kuna"
+msgstr "குரோஷியன் குனா"
+
+
+msgid "Hungarian Forint"
+msgstr "ஹங்கேரியன் ஃபோரின்ட்"
+
+
+msgid "Indonesian Rupiah"
+msgstr "இந்தோனேசிய ரூபாவின்"
+
+
+msgid "Israeli Shekel"
+msgstr "இஸ்ரேல் சேக்கல்"
+
+
+msgid "Indian Rupee"
+msgstr "இந்திய ரூபாயின் மதிப்பு"
+
+
+msgid "Japanese Yen"
+msgstr "ஜப்பனீஸ் யென்"
+
+
+msgid "Korean (South) Won"
+msgstr "கொரியன் (தென்) வெற்றி"
+
+
+msgid "Mexican Peso"
+msgstr "மெக்சிகன் பெசோ"
+
+
+msgid "Malaysian Ringgit"
+msgstr "மலேசிய ரிங்கிட்"
+
+
+msgid "Norwegian Krone"
+msgstr "நார்வேஜியன் க்ரோன்"
+
+
+msgid "New Zealand Dollar"
+msgstr "நியூசிலாந்து டாலர்"
+
+
+msgid "Philippine Peso"
+msgstr "பிலிப்பைன்ஸ் பேசோ"
+
+
+msgid "Polish Zloty"
+msgstr "போலந்து ஜூலுட்டி"
+
+
+msgid "Romanian (New) Leu"
+msgstr "ரோமானியம் (புதிய) Leu"
+
+
+msgid "Russian Ruble"
+msgstr "ரஷியன் ரூபிள்"
+
+
+msgid "Swedish Krona"
+msgstr "ஸ்வீடிஷ் குரோனா"
+
+
+msgid "Singapore Dollar"
+msgstr "சிங்கப்பூர் டாலர்"
+
+
+msgid "Thai Baht"
+msgstr "தாய் பட்"
+
+
+msgid "Turkish Lira"
+msgstr "துருக்கிய லிரா"
+
+
+msgid "United States Dollar"
+msgstr "ஐக்கிய அமெரிக்க டாலர்"
+
+
+msgid "South African Rand"
+msgstr "தென்னாப்பிரிக்க ராண்ட்"
+
+
+msgid "Privacy Policy"
+msgstr "தனியுரிமை கொள்கை"
+
+
+msgid "views"
+msgstr "காட்சிகள்"
+
+
+msgid "Modified date:"
+msgstr "திருத்தப்பட்ட தேதி:"
+
+
+msgid "Please enter your name here"
+msgstr "இங்கே உங்கள் பெயரை உள்ளிடவும்"
+
+
+msgid "Please enter your email address here"
+msgstr "இங்கே உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "நீங்கள் தவறான மின்னஞ்சல் முகவரியை உள்ளிட்டுள்ளீர்கள்!"
+
+
+msgid "Please enter your comment!"
+msgstr "தயவு செய்து உங்கள் கருத்தை உள்ளிடவும்!"
+
+
+msgid "Logged in as"
+msgstr "உள்நுழைந்துள்ளீர்"
+
+
+msgid "Log out?"
+msgstr "வெளியேறு?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "% s ஆக உள்நுழைந்துள்ளீர்கள். உங்கள் சுயவிவரத்தை திருத்தவும்."
+
+
+msgid "Edit"
+msgstr "தொகு"
+
+
+msgid "Login"
+msgstr "உள் நுழை"
+
+
+msgid "Send My Password"
+msgstr "என் கடவுச்சொல்லை அனுப்பவும்"
+
+
+msgid "Create an account"
+msgstr "ஒரு கணக்கை உருவாக்க"
+
+
+msgid "Welcome! Register for an account"
+msgstr "வரவேற்பு! ஒரு கணக்கு பதிவு"
+
+
+msgid "About me"
+msgstr "என்னை பற்றி"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "அடுத்த முறை நான் கருத்து தெரிவிக்க இந்த உலாவியில் எனது பெயர், மின்னஞ்சல் மற்றும் வலைத்தளத்தை சேமிக்கவும்."
+
+
+msgid "Orders"
+msgstr "உத்தரவு"
+
+
+msgid "Addresses"
+msgstr "முகவரிகள்"
+
+
+msgid "Account settings"
+msgstr "கணக்கு அமைப்புகள்"
+
+
+msgid "Hello"
+msgstr "வணக்கம்"
+
+
+msgid "No products in the cart."
+msgstr "வண்டியில் பொருட்கள் இல்லை."
+
+
+msgid "Product categories"
+msgstr "தயாரிப்பு வகைகள்"
+
+
+msgid "Product tags"
+msgstr "தயாரிப்பு குறிச்சொற்கள்"
+
+
+msgid "Success"
+msgstr "வெற்றி"
+
+
+msgid "Acknowledgment is required!"
+msgstr "அங்கீகாரம் தேவை!"
+
+
+msgid "Please fill in a valid email."
+msgstr "சரியான மின்னஞ்சலை நிரப்பவும்."
+
+
+msgid "Please fill in an email address."
+msgstr "மின்னஞ்சல் முகவரியை நிரப்பவும்."
+
+
+msgid "Get into your account."
+msgstr "உங்கள் கணக்கில் நுழையுங்கள்."
+
+
+msgid "My subscription account"
+msgstr "எனது சந்தா கணக்கு"
+
+
+msgid "Account details"
+msgstr "கணக்கு விவரங்கள்"
+
+
+msgid "Subscriptions"
+msgstr "சந்தாக்கள்"
+
+
+msgid "My woo account"
+msgstr "என் வூ கணக்கு"
+
+
+msgid "Log out"
+msgstr "வெளியேறு"
+
+
+msgid "Email address"
+msgstr "மின்னஞ்சல் முகவரி"
+
+
+msgid "Username"
+msgstr "பயனர் பெயர்"
+
+
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "குறைந்தபட்சம் ஒரு சிறிய எழுத்து (a..z) இருக்க வேண்டும்"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "குறைந்தபட்சம் ஒரு பெரிய எழுத்து (a..z) இருக்க வேண்டும்"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "குறைந்தபட்சம் 6 எழுத்துகள் நீளம் இருக்க வேண்டும்"
+
+
+msgid "Repeat password"
+msgstr "ரகசிய குறியீட்டை திரும்பச்சொல்"
+
+
+msgid "Already have an account?"
+msgstr "ஏற்கனவே ஒரு கணக்கு உள்ளதா?"
+
+
+msgid "Recover password"
+msgstr "கடவுச்சொல்லை மீட்டெடுக்கவும்"
+
+
+msgid "Username or Email address"
+msgstr "பயனர்பெயர் அல்லது மின்னஞ்சல் முகவரி"
+
+
+msgid "Forgot password?"
+msgstr "கடவுச்சொல்லை மறந்துவிட்டீர்களா?"
+
+
+msgid "Don't have an account?"
+msgstr "கணக்கு இல்லையா?"
+
+
+msgid "Dashboard"
+msgstr "டாஷ்போர்டு"
+
+
+msgid "Welcome to your account!"
+msgstr "உங்கள் கணக்கிற்கு வரவேற்கிறோம்!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "வணக்கம் %1$s (%2$s அல்லவா? %3$s)! உங்கள் கணக்கு டாஷ்போர்டில் இருந்து உங்கள் சந்தாக்களைப் பார்க்கலாம் மற்றும் உங்கள் கணக்கு விவரங்களை நிர்வகிக்கலாம்."
+
+
+msgid "Lost Password"
+msgstr "கடவுச்சொல்லை இழந்தது"
+
+
+msgid "Manage your account details."
+msgstr "உங்கள் கணக்கு விவரங்களை நிர்வகிக்கவும்."
+
+
+msgid "First name"
+msgstr "முதல் பெயர்"
+
+
+msgid "Last name"
+msgstr "கடைசி பெயர்"
+
+
+msgid "Display name"
+msgstr "காட்சி பெயர்"
+
+
+msgid "Current password"
+msgstr "தற்போதைய கடவுச்சொல்"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(மாறாமல் இருக்க வெறுமையாக விடவும்)"
+
+
+msgid "New password"
+msgstr "புதிய கடவுச்சொல்"
+
+
+msgid "Confirm new password"
+msgstr "புதிய கடவு சொல்லை உறுதி செய்"
+
+
+msgid "Save changes"
+msgstr "மாற்றங்களை சேமியுங்கள்"
+
+
+msgid "All your subscriptions."
+msgstr "உங்கள் சந்தாக்கள் அனைத்தும்."
+
+
+msgid "Plan"
+msgstr "திட்டம்"
+
+
+msgid "Payment type"
+msgstr "கட்டணம் வகை"
+
+
+msgid "Status"
+msgstr "நிலை"
+
+
+msgid "Months"
+msgstr "மாதங்கள்"
+
+
+msgid "Start date"
+msgstr "தொடக்க தேதி"
+
+
+msgid "End date"
+msgstr "கடைசி தேதி"
+
+
+msgid "missing plan"
+msgstr "காணாமல் போன திட்டம்"
+
+
+msgid "Free"
+msgstr "இலவசம்"
+
+
+msgid "Active"
+msgstr "செயலில்"
+
+
+msgid "Trial"
+msgstr "விசாரணை"
+
+
+msgid "Blocked"
+msgstr "தடுக்கப்பட்டது"
+
+
+msgid "Closed"
+msgstr "மூடப்பட்டது"
+
+
+msgid "Not paid"
+msgstr "செலுத்தப்படவில்லை"
+
+
+msgid "Awaiting payment"
+msgstr "பணம் காத்திருக்கிறது"
+
+
+msgid "Subscription info"
+msgstr "சந்தா தகவல்"
+
+
+msgid "ID"
+msgstr "ஐடி"
+
+
+msgid "Name"
+msgstr "பெயர்"
+
+
+msgid "Company name"
+msgstr "நிறுவனத்தின் பெயர்"
+
+
+msgid "VAT"
+msgstr "வாட்"
+
+
+msgid "Address"
+msgstr "முகவரி"
+
+
+msgid "City"
+msgstr "நகரம்"
+
+
+msgid "Country/State"
+msgstr "நாடு/மாநிலம்"
+
+
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+
+msgid "Postal code"
+msgstr "அஞ்சல் குறியீடு"
+
+
+msgid "Direct bank transfer details"
+msgstr "நேரடி வங்கி பரிமாற்ற விவரங்கள்"
+
+
+msgid "Account name"
+msgstr "கணக்கின் பெயர்"
+
+
+msgid "Account number"
+msgstr "கணக்கு எண்"
+
+
+msgid "Bank name"
+msgstr "வங்கி பெயர்"
+
+
+msgid "Routing number"
+msgstr "வழித்தட எண்"
+
+
+msgid "IBAN"
+msgstr "ஐபான்"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/swift"
+
+
+msgid "Instructions"
+msgstr "அறிவுறுத்தல்கள்"
+
+
+msgid "No subscription created."
+msgstr "சந்தா எதுவும் உருவாக்கப்படவில்லை."
+
+
+msgid "Choose plan"
+msgstr "திட்டத்தை தேர்வு செய்யவும்"
+
+
+msgid "Payment methods"
+msgstr "பணம் செலுத்தும் முறைகள்"
+
+
+msgid "Total"
+msgstr "மொத்தம்"
+
+
+msgid "Period"
+msgstr "காலம்"
+
+
+msgid "Subscription summary"
+msgstr "சந்தா சுருக்கம்"
+
+
+msgid "Phone"
+msgstr "தொலைபேசி"
+
+
+msgid "Postcode"
+msgstr "அஞ்சல் குறியீடு"
+
+
+msgid "County"
+msgstr "மாவட்டம்"
+
+
+msgid "Town/City"
+msgstr "நகரம்/நகரம்"
+
+
+msgid "Street address"
+msgstr "தெரு முகவரி"
+
+
+msgid "Country/Region"
+msgstr "நாடு/பகுதி"
+
+
+msgid "VAT Number"
+msgstr "வாட் எண்"
+
+
+msgid "(optional)"
+msgstr "(விரும்பினால்)"
+
+
+msgid "Billing details"
+msgstr "பில்லிங் விவரங்கள்"
+
+
+msgid "User information"
+msgstr "பயனர் தகவல்"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "கிடைக்கக்கூடிய கட்டண முறைகள் எதுவும் கட்டமைக்கப்படவில்லை என்று தெரிகிறது."
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "நன்றி! உங்களை இங்கு காண்பதில் நாங்கள் மகிழ்ச்சியடைகிறோம். உங்கள் சந்தா விரைவில் செயல்படுத்தப்படும்!"
+
+
+msgid "Our bank details"
+msgstr "எங்கள் வங்கி விவரங்கள்"
+
+
+msgid "Your subscription details"
+msgstr "உங்கள் சந்தா விவரங்கள்"
+
+
+msgid "View subscription"
+msgstr "சந்தாவைப் பார்க்கவும்"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "சரியான சந்தா திட்டத்தை நீங்கள் தேர்ந்தெடுக்கவில்லை."
+
+
+msgid "Field empty"
+msgstr "வயல் காலி"
+
+
+msgid "Empty first name"
+msgstr "வெற்று முதல் பெயர்"
+
+
+msgid "Empty last name"
+msgstr "வெற்று கடைசி பெயர்"
+
+
+msgid "Empty country"
+msgstr "வெற்று நாடு"
+
+
+msgid "Empty address"
+msgstr "வெற்று முகவரி"
+
+
+msgid "Empty city"
+msgstr "வெற்று நகரம்"
+
+
+msgid "Empty county"
+msgstr "காலி மாவட்டம்"
+
+
+msgid "Empty postcode"
+msgstr "வெற்று அஞ்சல் குறியீடு"
+
+
+msgid "Empty phone"
+msgstr "காலி தொலைபேசி"
+
+
+msgid "Empty email"
+msgstr "வெற்று மின்னஞ்சல்"
+
+
+msgid "Email or username empty!"
+msgstr "மின்னஞ்சல் அல்லது பயனர் பெயர் காலியாக உள்ளது!"
+
+
+msgid "Pass empty!"
+msgstr "காலியாக கடந்து செல்லுங்கள்!"
+
+
+msgid "Username incorrect!"
+msgstr "பயனர் பெயர் தவறானது!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "தவறான பாஸ் முறை!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "உங்கள் மின்னஞ்சல் முகவரிக்கு அனுப்பப்பட்ட இணைப்பைப் பின்தொடர்ந்து உங்கள் கணக்கைச் செயல்படுத்தவும்."
+
+
+msgid "Resend activation link"
+msgstr "செயல்படுத்தும் இணைப்பை மீண்டும் அனுப்பவும்"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "இந்த பிரிவை அணுக, உங்கள் கணக்கை நீங்கள் செயல்படுத்த வேண்டும்."
+
+
+msgid "Email empty!"
+msgstr "மின்னஞ்சல் காலி!"
+
+
+msgid "Username empty!"
+msgstr "பயனர் பெயர் காலியாக உள்ளது!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "கடந்து செல்லும் முறை தவறானது!"
+
+
+msgid "Retyped pass empty!"
+msgstr "மீண்டும் தட்டச்சு செய்த பாஸ் காலியாக உள்ளது!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "சரியாக மீண்டும் தட்டச்சு செய்த பாஸ்!"
+
+
+msgid "User already exists!"
+msgstr "பயனர் ஏற்கனவே இருக்கிறார்!"
+
+
+msgid "Email already exists!"
+msgstr "மின்னஞ்சல் முன்பே பதிவில் இருக்கிறது!"
+
+
+msgid "Your account could not be created."
+msgstr "உங்கள் கணக்கை உருவாக்க முடியவில்லை."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "உங்கள் கணக்கைச் சரிபார்க்க உங்கள் மின்னஞ்சலை (இன்பாக்ஸ் அல்லது ஸ்பேம் கோப்புறை) சரிபார்க்கவும்."
+
+
+msgid "User empty!"
+msgstr "பயனர் காலி!"
+
+
+msgid "User does not exists!"
+msgstr "பயனர் இல்லை!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "புதிய செயல்படுத்தும் இணைப்பு உருவாக்கப்பட்டது. உங்கள் கணக்கைச் சரிபார்க்க உங்கள் மின்னஞ்சலை (இன்பாக்ஸ் அல்லது ஸ்பேம் கோப்புறை) சரிபார்க்கவும்."
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "கேப்ட்சா சரிபார்ப்பு தோல்வியடைந்தது!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "கேப்ட்சா பயனர் மதிப்பெண் தோல்வியடைந்தது. தயவு செய்து எங்களை தொடர்பு கொள்ளவும்!"
+
+
+msgid "Loading"
+msgstr "ஏற்றுகிறது"
+
+
+msgid "Here are the results for the search:"
+msgstr "தேடலுக்கான முடிவுகள் இதோ:"
+
+
+msgid "Price"
+msgstr "விலை"
+
+
+msgid "EXCLUSIVE"
+msgstr "பிரத்தியேகமானது"
+
+
+msgid "Tel:"
+msgstr "தொலைபேசி:"
+
+
+msgid "Share"
+msgstr "பகிர்"
+
+
+msgid "Print"
+msgstr "அச்சு"
+
+
+msgid "At"
+msgstr "மணிக்கு"
+
+
+msgid "Comments are closed."
+msgstr "கருத்துகள் மூடப்பட்டுள்ளன."
+
+
+msgid "My account"
+msgstr "என் கணக்கு"
+
+
+msgid "Payment method"
+msgstr "கட்டணம் செலுத்தும் முறை"
+

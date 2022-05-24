@@ -1,0 +1,61 @@
+/* theme activation */
+.td-activate-wrap input {
+  font-size: 16px;
+}
+.td-activate-wrap .td-err input,
+.td-activate-wrap .td-err input:focus {
+  border-color: #ff7c7c !important;
+}
+.td-activate-wrap .td-activate-input-wrap {
+  position: relative;
+  margin-bottom: 22px;
+}
+.td-activate-wrap .td-activate-err {
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  font-size: 13px;
+  color: #ff7c7c;
+}
+.td-activate-wrap .td-activate-info {
+  margin-top: 10px;
+}
+.td-activate-wrap .td-registration-info {
+  width: 378px;
+  color: green;
+  margin-bottom: 15px;
+  padding: 5px 10px;
+  border: 1px solid green;
+}
+.td-activate-wrap .td-registration-err {
+  width: 378px;
+  color: #ff7c7c;
+  margin-bottom: 15px;
+  padding: 5px 10px;
+  border: 1px solid #ff7c7c;
+}
+.td-activate-wrap .td-activate-subtitle {
+  font-size: 28px;
+  margin-bottom: 18px;
+  line-height: 30px;
+}
+/* manual activation */
+.td-manual-activation-btn,
+.td-auto-activation-btn {
+  margin-left: 15px;
+}
+.td-manual-info {
+  font-size: 14px;
+  border: 1px solid green;
+  display: inline-block;
+  margin-bottom: 22px;
+  width: 400px;
+}
+.td-manual-info ol {
+  padding-right: 15px;
+}
+.td-input-title {
+  font-weight: 600;
+  text-transform: uppercase;
+}

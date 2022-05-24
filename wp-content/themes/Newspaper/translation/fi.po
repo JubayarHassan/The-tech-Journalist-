@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+
+
+msgid "View all results"
+msgstr "Katso kaikki tulokset"
+
+
+msgid "No results"
+msgstr "Ei tuloksia"
+
+
+msgid "Home"
+msgstr "Koti"
+
+
+msgid "CLOSE"
+msgstr "SULJE"
+
+
+msgid "Page"
+msgstr "Sivu"
+
+
+msgid "All"
+msgstr "Kaikki"
+
+
+msgid "By"
+msgstr "Tekijä"
+
+
+msgid "Load more"
+msgstr "Lataa lisää"
+
+
+msgid "View all posts in"
+msgstr "Katso kaikki viestit"
+
+
+msgid "Tags"
+msgstr "Tagit"
+
+
+msgid "Previous article"
+msgstr "Edellinen artikkeli"
+
+
+msgid "Next article"
+msgstr "Seuraava artikkeli"
+
+
+msgid "Authors"
+msgstr "Tekijät"
+
+
+msgid "Author"
+msgstr "Tekijä"
+
+
+msgid "RELATED ARTICLES"
+msgstr "LIITTYVÄT ARTIKKELIT"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "LISÄÄ TEKIJÄLTÄ"
+
+
+msgid "VIA"
+msgstr "KAUTTA"
+
+
+msgid "SOURCE"
+msgstr "LÄHDE"
+
+
+msgid "TAGS"
+msgstr "TAGIT"
+
+
+msgid "SHARE"
+msgstr "JAA"
+
+
+msgid "Continue"
+msgstr "Jatka"
+
+
+msgid "Read more"
+msgstr "Lue lisää"
+
+
+msgid "Name:"
+msgstr "Nimi:"
+
+
+msgid "Email:"
+msgstr "Sähköposti:"
+
+
+msgid "Website:"
+msgstr "Verkkosivu:"
+
+
+msgid "Comment:"
+msgstr "Kommentti:"
+
+
+msgid "LEAVE A REPLY"
+msgstr "JÄTÄ VASTAUS"
+
+
+msgid "Post Comment"
+msgstr "Lähetä Kommentti"
+
+
+msgid "Cancel reply"
+msgstr "Peruuta vastaus"
+
+
+msgid "Reply"
+msgstr "Vastaus"
+
+
+msgid "Log in to leave a comment"
+msgstr "Kirjaudu sisään jättääksesi kommentin"
+
+
+msgid "NO COMMENTS"
+msgstr "EI KOMMENTTEJA"
+
+
+msgid "1 COMMENT"
+msgstr "1 KOMMENTTI"
+
+
+msgid "COMMENTS"
+msgstr "KOMMENTIT"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "ARVOSTELUN YLEISNÄKYMÄ"
+
+
+msgid "SUMMARY"
+msgstr "TIIVISTELMÄ"
+
+
+msgid "OVERALL SCORE"
+msgstr "KOKONAISPISTEET"
+
+
+msgid "Ooops... Error 404"
+msgstr "Hups… Error 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "Pahoittelut, mutta etsimääsi sivustoa ei ole olemassa."
+
+
+msgid "You can go to the"
+msgstr "Voit mennä kotisivulle"
+
+
+msgid "HOMEPAGE"
+msgstr "KOTISIVU"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "VIIMEISIMMÄT VIESTIT"
+
+
+msgid "Posts by"
+msgstr "Viestit"
+
+
+msgid "POSTS"
+msgstr "VIESTIT"
+
+
+msgid "Posts tagged with"
+msgstr "Viestit, jotka on tagattu"
+
+
+msgid "Tag"
+msgstr "Tagi"
+
+
+msgid "Daily Archives:"
+msgstr "Päivittäiset Arkistot:"
+
+
+msgid "Monthly Archives:"
+msgstr "Kuukausittaiset Arkistot:"
+
+
+msgid "Yearly Archives:"
+msgstr "Vuosittaiset Arkistot:"
+
+
+msgid "Archives"
+msgstr "Arkistot"
+
+
+msgid "LATEST ARTICLES"
+msgstr "VIIMEISIMMÄT ARTIKKELIT"
+
+
+msgid "search results"
+msgstr "hakutulokset"
+
+
+msgid "Search"
+msgstr "Haku"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "Jos et ole tyytyväinen tuloksiin, hae uudelleen"
+
+
+msgid "Contact us"
+msgstr "Ota meihin yhteyttä"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Sivu %CURRENT_PAGE% / %TOTAL_PAGES%"
+
+
+msgid "Next"
+msgstr "Seuraava"
+
+
+msgid "Prev"
+msgstr "Edellinen"
+
+
+msgid "No results for your search"
+msgstr "Hakusi ei tuottanut tuloksia"
+
+
+msgid "No posts to display"
+msgstr "Ei näytettäviä viestejä"
+
+
+msgid "LOG IN"
+msgstr "KIRJAUDU SISÄÄN"
+
+
+msgid "Sign in / Join"
+msgstr "Kirjaudu sisään / Liity"
+
+
+msgid "Log In"
+msgstr "Kirjaudu sisään"
+
+
+msgid "REGISTER"
+msgstr "REKISTERÖIDY"
+
+
+msgid "Send My Pass"
+msgstr "Lähetä Salasanani"
+
+
+msgid "Forgot your password?"
+msgstr "Unohditko salasanasi?"
+
+
+msgid "Please wait..."
+msgstr "Odota…"
+
+
+msgid "User or password incorrect!"
+msgstr "Käyttäjänimi tai salasana oli väärä!"
+
+
+msgid "Email or username incorrect!"
+msgstr "Sähköposti tai käyttäjänimi oli väärä!"
+
+
+msgid "Email incorrect!"
+msgstr "Sähköposti oli väärä!"
+
+
+msgid "User or email already exists!"
+msgstr "Käyttäjänimi tai sähköpostiosoite on jo käytössä!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "Tarkista sähköpostisi (saapuvat tai roskapostikansio), salasana lähetettiin sinne."
+
+
+msgid "Email address not found!"
+msgstr "Sähköpostiosoitetta ei löytynyt!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "Salasanasi nollattiin, tarkista sähköpostisi."
+
+
+msgid "Welcome! Log into your account"
+msgstr "Tervetuloa! Kirjaudu sisään käyttäjätilillesi"
+
+
+msgid "Register for an account"
+msgstr "Rekisteröi käyttäjätili"
+
+
+msgid "Recover your password"
+msgstr "Palauta salasanasi"
+
+
+msgid "your username"
+msgstr "käyttäjänimesi"
+
+
+msgid "your password"
+msgstr "salasanasi"
+
+
+msgid "your email"
+msgstr "sähköpostisi"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "Salasana lähetetään sinulla sähköpostitse."
+
+
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+
+msgid "Like"
+msgstr "Tykkää"
+
+
+msgid "Fans"
+msgstr "Fanit"
+
+
+msgid "Follow"
+msgstr "Seuraa"
+
+
+msgid "Followers"
+msgstr "Seuraajat"
+
+
+msgid "Subscribe"
+msgstr "Tilaa"
+
+
+msgid "Subscribers"
+msgstr "Tilaajat"
+
+
+msgid "MORE STORIES"
+msgstr "LISÄÄ TARINOITA"
+
+
+msgid "Latest"
+msgstr "Viimeisin"
+
+
+msgid "Featured posts"
+msgstr "Pääviestit"
+
+
+msgid "Most popular"
+msgstr "Suosituin"
+
+
+msgid "7 days popular"
+msgstr "7 päivän suosituin"
+
+
+msgid "By review score"
+msgstr "Arvostelupisteiden mukaan"
+
+
+msgid "Random"
+msgstr "Satunnainen"
+
+
+msgid "Trending Now"
+msgstr "Nouseva Nyt"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "SUOSITTU KATEGORIA"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "LISÄÄ UUTISIA"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "Edellinen (Vasen nuolinäppäin)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "Seuraava (Oikea nuolinäppäin)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr% / %total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "Sisältöä osoitteesta %url% ei voitu ladata."
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "Kuvaa #%curr% ei voitu ladata."
+
+
+msgid "Blog"
+msgstr "Blogi"
+
+
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+
+msgid "Tweet on Twitter"
+msgstr "Tweettaa Twitterissä"
+
+
+msgid "EDITOR PICKS"
+msgstr "POIMINTOJA"
+
+
+msgid "POPULAR POSTS"
+msgstr "SUOSITUIMMAT VIESTIT"
+
+
+msgid "FOLLOW US"
+msgstr "SEURAA MEITÄ"
+
+
+msgid "ABOUT US"
+msgstr "MEISTÄ"
+
+
+msgid "More"
+msgstr "Lisää"
+
+
+msgid "Featured"
+msgstr "Varustellun"
+
+
+msgid "All time popular"
+msgstr "Kaikkien aikojen suosituimpia"
+
+
+msgid "Likes"
+msgstr "Tykkää"
+
+
+msgid "Register"
+msgstr "Rekisteri"
+
+
+msgid "of"
+msgstr "of"
+
+
+msgid "Euro Member Countries"
+msgstr "Euro- maissa"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "Kommenttisi odottaa moderointia"
+
+
+msgid "Follow us on Instagram"
+msgstr "Seuraa meitä instagram"
+
+
+msgid "Back"
+msgstr "Takaisin"
+
+
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+
+
+msgid "Sign up"
+msgstr "Kirjaudu"
+
+
+msgid "Join"
+msgstr "Liittyä seuraan"
+
+
+msgid "Welcome!"
+msgstr "Tervetuloa!"
+
+
+msgid "Log into your account"
+msgstr "Kirjaudu tilillesi"
+
+
+msgid "Password recovery"
+msgstr "Salasanan palautus"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "Tarkista sähköpostisi (indeksi tai roskapostikansio), salasana lähetettiin sinne."
+
+
+msgid "Australian Dollar"
+msgstr "Australian dollari"
+
+
+msgid "Bulgarian Lev"
+msgstr "Bulgarian lev"
+
+
+msgid "Brazilian Real"
+msgstr "Brasilian real"
+
+
+msgid "Canadian Dollar"
+msgstr "Kanadan dollari"
+
+
+msgid "Swiss Franc"
+msgstr "Sveitsin frangi"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "Kiinan yuan renminbi"
+
+
+msgid "Czech Republic Koruna"
+msgstr "Tšekki koruna"
+
+
+msgid "Danish Krone"
+msgstr "Tanskan kruunu"
+
+
+msgid "British Pound"
+msgstr "Englannin punta"
+
+
+msgid "Hong Kong Dollar"
+msgstr "Hongkongin dollari"
+
+
+msgid "Croatian Kuna"
+msgstr "Kroatian kuna"
+
+
+msgid "Hungarian Forint"
+msgstr "Unkarin forintti"
+
+
+msgid "Indonesian Rupiah"
+msgstr "Indonesian rupia"
+
+
+msgid "Israeli Shekel"
+msgstr "Israelin shekel"
+
+
+msgid "Indian Rupee"
+msgstr "Intian rupia"
+
+
+msgid "Japanese Yen"
+msgstr "Japanin jeniä"
+
+
+msgid "Korean (South) Won"
+msgstr "Korean (etelä) wonia"
+
+
+msgid "Mexican Peso"
+msgstr "Meksikon peso"
+
+
+msgid "Malaysian Ringgit"
+msgstr "Malesian ringgit"
+
+
+msgid "Norwegian Krone"
+msgstr "Norja kruunu"
+
+
+msgid "New Zealand Dollar"
+msgstr "Uuden-Seelannin dollari"
+
+
+msgid "Philippine Peso"
+msgstr "Filippiinien peso"
+
+
+msgid "Polish Zloty"
+msgstr "Puolan zloty"
+
+
+msgid "Romanian (New) Leu"
+msgstr "Romania (uusi) leu"
+
+
+msgid "Russian Ruble"
+msgstr "Venäjän rupla"
+
+
+msgid "Swedish Krona"
+msgstr "Ruotsin kruunu"
+
+
+msgid "Singapore Dollar"
+msgstr "Singaporen dollari"
+
+
+msgid "Thai Baht"
+msgstr "Thaimaan baht"
+
+
+msgid "Turkish Lira"
+msgstr "Turkin liira"
+
+
+msgid "United States Dollar"
+msgstr "Yhdysvaltain dollari"
+
+
+msgid "South African Rand"
+msgstr "Etelä-afrikkalainen rand"
+
+
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+
+msgid "views"
+msgstr "näkymät"
+
+
+msgid "Modified date:"
+msgstr "Muokattu päivämäärä:"
+
+
+msgid "Please enter your name here"
+msgstr "Kirjoita nimesi tähän"
+
+
+msgid "Please enter your email address here"
+msgstr "Kirjoita sähköpostiosoitteesi tähän"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "Olet antanut väärän sähköpostiosoitteen!"
+
+
+msgid "Please enter your comment!"
+msgstr "Kirjoita kommenttisi!"
+
+
+msgid "Logged in as"
+msgstr "Kirjautuneena sisään nimellä"
+
+
+msgid "Log out?"
+msgstr "Kirjautua ulos?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "Kirjautunut sisään nimellä% s. Muokkaa profiiliasi."
+
+
+msgid "Edit"
+msgstr "Muokata"
+
+
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+
+msgid "Send My Password"
+msgstr "Lähetä salasanani"
+
+
+msgid "Create an account"
+msgstr "Luo tili"
+
+
+msgid "Welcome! Register for an account"
+msgstr "Tervetuloa! rekisteröidy tilille"
+
+
+msgid "About me"
+msgstr "Minusta"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Tallenna nimi, sähköpostiosoite ja verkkosivusto tällä selaimella seuraavan kerran kommentoidessani."
+
+
+msgid "Orders"
+msgstr "Tilauksia"
+
+
+msgid "Addresses"
+msgstr "Osoitteita"
+
+
+msgid "Account settings"
+msgstr "Tilin asetukset"
+
+
+msgid "Hello"
+msgstr "Hei"
+
+
+msgid "No products in the cart."
+msgstr "Ei tuotteita ostoskorissa."
+
+
+msgid "Product categories"
+msgstr "Tuoteryhmät"
+
+
+msgid "Product tags"
+msgstr "Tuotetunnisteet"
+
+
+msgid "Success"
+msgstr "Menestys"
+
+
+msgid "Acknowledgment is required!"
+msgstr "Tunnustus vaaditaan!"
+
+
+msgid "Please fill in a valid email."
+msgstr "Täytä kelvollinen sähköposti."
+
+
+msgid "Please fill in an email address."
+msgstr "Täytä sähköpostiosoite."
+
+
+msgid "Get into your account."
+msgstr "Päästä tilillesi."
+
+
+msgid "My subscription account"
+msgstr "Tilaustilini"
+
+
+msgid "Account details"
+msgstr "Tilin tiedot"
+
+
+msgid "Subscriptions"
+msgstr "Tilauksia"
+
+
+msgid "My woo account"
+msgstr "Minun woo tilini"
+
+
+msgid "Log out"
+msgstr "Kirjautua ulos"
+
+
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+
+msgid "Password"
+msgstr "Salasana"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "tulee sisältää vähintään yksi pieni kirjain (a..z)"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "tulee sisältää vähintään yksi iso kirjain (a..z)"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "tulee sisältää vähintään 6 merkkiä"
+
+
+msgid "Repeat password"
+msgstr "Toista salasana"
+
+
+msgid "Already have an account?"
+msgstr "Onko sinulla jo tili?"
+
+
+msgid "Recover password"
+msgstr "Palauta salasana"
+
+
+msgid "Username or Email address"
+msgstr "Käyttäjänimi tai Sähköpostiosoite"
+
+
+msgid "Forgot password?"
+msgstr "Unohtuiko salasana?"
+
+
+msgid "Don't have an account?"
+msgstr "Eikö sinulla ole tiliä?"
+
+
+msgid "Dashboard"
+msgstr "Kojelauta"
+
+
+msgid "Welcome to your account!"
+msgstr "Tervetuloa tilillesi!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "Hei %1$s (ei %2$s? %3$s)! tilisi hallintapaneelista voit tarkastella tilauksiasi ja hallita tilitietojasi."
+
+
+msgid "Lost Password"
+msgstr "Kadonnut Salasana"
+
+
+msgid "Manage your account details."
+msgstr "Hallita tilitietojasi."
+
+
+msgid "First name"
+msgstr "Etunimi"
+
+
+msgid "Last name"
+msgstr "Sukunimi"
+
+
+msgid "Display name"
+msgstr "Näyttönimi"
+
+
+msgid "Current password"
+msgstr "Nykyinen salasana"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(jätä tyhjäksi jättääksesi ennalleen)"
+
+
+msgid "New password"
+msgstr "Uusi salasana"
+
+
+msgid "Confirm new password"
+msgstr "Vahvista uusi salasana"
+
+
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+
+msgid "All your subscriptions."
+msgstr "Kaikki tilauksesi."
+
+
+msgid "Plan"
+msgstr "Suunnitelma"
+
+
+msgid "Payment type"
+msgstr "Maksutapa"
+
+
+msgid "Status"
+msgstr "Tila"
+
+
+msgid "Months"
+msgstr "Kuukaudet"
+
+
+msgid "Start date"
+msgstr "Aloituspäivämäärä"
+
+
+msgid "End date"
+msgstr "Päättymispäivä"
+
+
+msgid "missing plan"
+msgstr "suunnitelma puuttuu"
+
+
+msgid "Free"
+msgstr "Vapaa"
+
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+
+msgid "Trial"
+msgstr "Oikeudenkäyntiä"
+
+
+msgid "Blocked"
+msgstr "Tukossa"
+
+
+msgid "Closed"
+msgstr "Suljettu"
+
+
+msgid "Not paid"
+msgstr "Ei maksettu"
+
+
+msgid "Awaiting payment"
+msgstr "Odotetaan maksua"
+
+
+msgid "Subscription info"
+msgstr "Tilaustiedot"
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "Name"
+msgstr "Nimi"
+
+
+msgid "Company name"
+msgstr "Yrityksen nimi"
+
+
+msgid "VAT"
+msgstr "ARVONLISÄVERO"
+
+
+msgid "Address"
+msgstr "Osoite"
+
+
+msgid "City"
+msgstr "Kaupunki"
+
+
+msgid "Country/State"
+msgstr "Maa/osavaltio"
+
+
+msgid "Email"
+msgstr "Sähköposti"
+
+
+msgid "Postal code"
+msgstr "Postinumero"
+
+
+msgid "Direct bank transfer details"
+msgstr "Suoran pankkisiirron tiedot"
+
+
+msgid "Account name"
+msgstr "Tilin nimi"
+
+
+msgid "Account number"
+msgstr "Tilinumero"
+
+
+msgid "Bank name"
+msgstr "Pankin nimi"
+
+
+msgid "Routing number"
+msgstr "Reititysnumero"
+
+
+msgid "IBAN"
+msgstr "IBAN"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/swift"
+
+
+msgid "Instructions"
+msgstr "Ohjeet"
+
+
+msgid "No subscription created."
+msgstr "Tilausta ei luotu."
+
+
+msgid "Choose plan"
+msgstr "Valitse suunnitelma"
+
+
+msgid "Payment methods"
+msgstr "Maksutavat"
+
+
+msgid "Total"
+msgstr "Kaikki yhteensä"
+
+
+msgid "Period"
+msgstr "Ajanjaksoa"
+
+
+msgid "Subscription summary"
+msgstr "Tilausten yhteenveto"
+
+
+msgid "Phone"
+msgstr "Puhelin"
+
+
+msgid "Postcode"
+msgstr "Postinumero"
+
+
+msgid "County"
+msgstr "Lääni"
+
+
+msgid "Town/City"
+msgstr "Kaupunki kaupunki"
+
+
+msgid "Street address"
+msgstr "Katuosoite"
+
+
+msgid "Country/Region"
+msgstr "Maa/alue"
+
+
+msgid "VAT Number"
+msgstr "Alv numero"
+
+
+msgid "(optional)"
+msgstr "(valinnainen)"
+
+
+msgid "Billing details"
+msgstr "Laskutustiedot"
+
+
+msgid "User information"
+msgstr "Käyttäjän tiedot"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "Näyttää siltä, että käytettävissä olevia maksutapoja ei ole määritetty."
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "Kiitos! olemme iloisia nähdessämme sinut täällä. tilauksesi aktivoidaan pian!"
+
+
+msgid "Our bank details"
+msgstr "Pankkitietomme"
+
+
+msgid "Your subscription details"
+msgstr "Tilauksesi tiedot"
+
+
+msgid "View subscription"
+msgstr "Katso tilaus"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "Et ole valinnut kelvollista tilaussuunnitelmaa."
+
+
+msgid "Field empty"
+msgstr "Kenttä tyhjä"
+
+
+msgid "Empty first name"
+msgstr "Tyhjä etunimi"
+
+
+msgid "Empty last name"
+msgstr "Tyhjä sukunimi"
+
+
+msgid "Empty country"
+msgstr "Tyhjä maa"
+
+
+msgid "Empty address"
+msgstr "Tyhjä osoite"
+
+
+msgid "Empty city"
+msgstr "Tyhjä kaupunki"
+
+
+msgid "Empty county"
+msgstr "Tyhjä kunta"
+
+
+msgid "Empty postcode"
+msgstr "Tyhjä postinumero"
+
+
+msgid "Empty phone"
+msgstr "Tyhjä puhelin"
+
+
+msgid "Empty email"
+msgstr "Tyhjä sähköposti"
+
+
+msgid "Email or username empty!"
+msgstr "Sähköpostiosoite tai käyttäjätunnus tyhjä!"
+
+
+msgid "Pass empty!"
+msgstr "Pass tyhjä!"
+
+
+msgid "Username incorrect!"
+msgstr "Käyttäjätunnus väärä!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "Virheellinen läpäisymalli!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "Aktivoi tilisi seuraamalla sähköpostiosoitteeseesi lähetettyä linkkiä."
+
+
+msgid "Resend activation link"
+msgstr "Lähetä aktivointilinkki uudelleen"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "Päästäksesi tähän osioon, sinun on aktivoitava tilisi."
+
+
+msgid "Email empty!"
+msgstr "Sähköposti tyhjä!"
+
+
+msgid "Username empty!"
+msgstr "Käyttäjätunnus tyhjä!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "Passikuvio väärä!"
+
+
+msgid "Retyped pass empty!"
+msgstr "Uudelleenkirjoitettu passi tyhjä!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "Kirjoitettu uudelleen täsmälleen!"
+
+
+msgid "User already exists!"
+msgstr "Käyttäjä on jo olemassa!"
+
+
+msgid "Email already exists!"
+msgstr "Sähköposti on jo olemassa!"
+
+
+msgid "Your account could not be created."
+msgstr "Tiliäsi ei voitu luoda."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "Tarkista sähköpostisi (postilaatikko tai roskapostikansio) vahvistaaksesi tilisi."
+
+
+msgid "User empty!"
+msgstr "Käyttäjä tyhjä!"
+
+
+msgid "User does not exists!"
+msgstr "Käyttäjää ei ole olemassa!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "Uusi aktivointilinkki luotiin. tarkista sähköpostisi (postilaatikko tai roskapostikansio) vahvistaaksesi tilisi."
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "Captcha-vahvistus epäonnistui!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "Captcha-käyttäjän tulos epäonnistui. ota meihin yhteyttä!"
+
+
+msgid "Loading"
+msgstr "Ladataan"
+
+
+msgid "Here are the results for the search:"
+msgstr "Tässä haun tulokset:"
+
+
+msgid "Price"
+msgstr "Hinta"
+
+
+msgid "EXCLUSIVE"
+msgstr "YKSINOMAINEN"
+
+
+msgid "Tel:"
+msgstr "Puh:"
+
+
+msgid "Share"
+msgstr "Jaa"
+
+
+msgid "Print"
+msgstr "Tulosta"
+
+
+msgid "At"
+msgstr "Klo"
+
+
+msgid "Comments are closed."
+msgstr "Kommenttien lisääminen on estetty."
+
+
+msgid "My account"
+msgstr "Tilini"
+
+
+msgid "Payment method"
+msgstr "Maksutapa"
+

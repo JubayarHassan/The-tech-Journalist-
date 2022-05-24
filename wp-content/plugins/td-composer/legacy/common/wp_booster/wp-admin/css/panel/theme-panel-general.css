@@ -1,0 +1,31 @@
+.td-theme-panel-body #wpcontent {
+  background-color: #3b7fa8 !important;
+  background: url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/td-composer/legacy/common/wp_booster/wp-admin/css/images/panel/bg/1.png');
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.td-theme-panel-body #wpfooter {
+  color: rgba(255, 255, 255, 0.8);
+}
+.td-theme-panel-body #wpfooter a {
+  color: #fff;
+}
+.td-theme-panel-body ul#adminmenu a.wp-has-current-submenu:after,
+.td-theme-panel-body ul#adminmenu > li.current > a.current:after {
+  border-right-color: #30749B;
+}
+/* --------- */
+/* NEWSPAPER theme panel */
+/* --------- */
+.newspaper_page_td_theme_panel #wpcontent {
+  background-repeat: repeat;
+}
+.update-theme p:before {
+  color: #f56e28;
+  content: "\f463";
+  display: inline-block;
+  font: 400 20px/1 dashicons;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  vertical-align: top;
+}

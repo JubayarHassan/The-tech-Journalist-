@@ -1,0 +1,57 @@
+/**
+ * elFinder Theme Template
+ * @author lokothodida
+ */
+
+/* Reset */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/reset.css');
+
+/* Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Open+Sans:300');
+
+/* Main features of the whole UI */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/main.css');
+
+/* Icons */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/icons.css');
+
+/* Toolbar (top panel) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/toolbar.css');
+
+/* Navbar (left panel) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/navbar.css');
+
+/* Views (List and Thumbnail) */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/view-list.css');
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/view-thumbnail.css');
+
+/* Context menu */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/contextmenu.css');
+
+/* (Modal) Dialogs */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/dialog.css');
+
+/* Status Bar */
+@import url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/css/statusbar.css');
+
+
+.elfinder .elfinder-button-search input {
+font-weight: 100;
+}
+.elfinder .elfinder-button-search-menu {
+	top: 32px;
+}
+.ui-widget-content.elfinder-edit-editor{
+	width:auto;
+}
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button .ui-icon {
+	background-image: url("http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/themes/windows - 10/images/ui-icons_default_theme256x240.png");
+}
+.std42-dialog .ui-dialog-titlebar .elfinder-titlebar-button.elfinder-titlebar-button-right .ui-icon.ui-icon-closethick{
+	display:none;
+}
+.ui-button.ui-state-active:hover {
+    background: #217dbb;
+    color: #fff;
+    border: none;
+}

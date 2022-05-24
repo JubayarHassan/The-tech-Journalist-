@@ -1,0 +1,21 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Gadgets Pro Demo
+*/
+.td-gadgets-pro .tdb-mega-menu .tdb-sub-menu-icon {
+  display: none;
+}
+.td-gadgets-pro .td-gadgets-flex .td-read-more {
+  text-align: right;
+}
+.td-gadgets-pro .td-gadgets-loop .td-read-more {
+  float: right;
+}
+.td-gadgets-pro .td-next-prev-wrap a {
+  background-color: #49c8d1;
+}

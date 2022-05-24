@@ -1,0 +1,57 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Influencer Demo
+*/
+.td-influencer .td-flex-home-cat .td-post-category {
+  position: relative;
+  margin-left: 30px;
+}
+.td-influencer .td-flex-home-cat .td-post-category:before {
+  content: '';
+  width: 20px;
+  height: 1px;
+  background-color: #ff4033;
+  position: absolute;
+  left: -30px;
+  top: 4px;
+}
+.td-influencer .td-influencer-menu .tdb-normal-menu .tdb-sub-menu-icon {
+  display: none;
+}
+@media (min-width: 768px) and (max-width: 1140px) {
+  .td-influencer .td-instagram-profile-image {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .td-influencer .td-instagram-meta {
+    text-align: center;
+  }
+  .td-influencer .td-instagram-user a {
+    overflow: visible;
+    text-overflow: unset;
+    margin-right: 0;
+  }
+  .td-influencer .td-instagram-followers {
+    margin-top: -7px;
+  }
+  .td-influencer .td-instagram-button {
+    display: block;
+    position: static;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 767px) {
+  .td-influencer .td-influencer-footer-menu .tdb-menu > li {
+    float: none;
+    display: inline-block;
+  }
+}
+.td-influencer #td-theme-settings .td-skin-buy a {
+  background-color: #ff4033;
+}

@@ -1,0 +1,27 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+.td-covid-dark-pro .tdb-menu > li.current-menu-item > a:after,
+.td-covid-dark-pro .tdb-menu > li.current-menu-ancestor > a:after,
+.td-covid-dark-pro .tdb-menu > li.current-category-ancestor > a:after,
+.td-covid-dark-pro .tdb-menu > li:hover > a:after,
+.td-covid-dark-pro .tdb-menu > li.tdb-hover > a:after {
+  border-radius: 100%;
+  bottom: 20px;
+  /* responsive landscape tablet */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-covid-dark-pro .tdb-menu > li.current-menu-item > a:after,
+  .td-covid-dark-pro .tdb-menu > li.current-menu-ancestor > a:after,
+  .td-covid-dark-pro .tdb-menu > li.current-category-ancestor > a:after,
+  .td-covid-dark-pro .tdb-menu > li:hover > a:after,
+  .td-covid-dark-pro .tdb-menu > li.tdb-hover > a:after {
+    bottom: 18px;
+  }
+}
+.td-covid-dark-pro .tdb_header_mega_menu .td-next-prev-wrap a {
+  line-height: 23px;
+}

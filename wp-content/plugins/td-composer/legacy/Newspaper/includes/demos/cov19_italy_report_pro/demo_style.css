@@ -1,0 +1,16 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+@media (max-width: 767px) {
+  .td-cov19-italy-report-pro .td-custom-order,
+  .td-cov19-italy-report-pro .td-custom-order .tdc-columns {
+    display: flex;
+    flex-direction: column;
+  }
+  .td-cov19-italy-report-pro .td-order-1 {
+    order: -1;
+  }
+}

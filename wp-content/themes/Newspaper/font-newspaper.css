@@ -1,0 +1,601 @@
+.mx_image_background {
+  background-color: #f2f2f2;
+}
+.td-visibility-hidden {
+  visibility: hidden;
+}
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+usage:
+.td-block-row {
+  .mx-row(td-block-span);
+}
+
+@all_span_selector - is the begining of the span selector
+ */
+@font-face {
+  font-family: 'newspaper';
+  src: url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/themes/Newspaper/images/icons/newspaper.eot?20');
+  src: url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/themes/Newspaper/images/icons/newspaper.eot?20#iefix') format('embedded-opentype'), url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/themes/Newspaper/images/icons/newspaper.woff?20') format('woff'), url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/themes/Newspaper/images/icons/newspaper.ttf?20') format('truetype'), url('http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/themes/Newspaper/images/icons/newspaper.svg?20#newspaper') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+[class^="td-icon-"]:before,
+[class*=" td-icon-"]:before {
+  font-family: 'newspaper';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+[class*="td-icon-"] {
+  line-height: 1;
+  text-align: center;
+  display: inline-block;
+}
+.td-icon-logout:before {
+  content: '\e800';
+}
+.td-icon-down:before {
+  content: '\e801';
+}
+.td-icon-left:before {
+  content: '\e802';
+}
+.td-icon-right:before {
+  content: '\e803';
+}
+.td-icon-up:before {
+  content: '\e804';
+}
+.td-icon-views:before {
+  content: '\e805';
+}
+.td-icon-menu-down:before {
+  content: '\e806';
+}
+.td-icon-left-arrow:before {
+  content: '\e807';
+}
+.td-icon-right-arrow:before {
+  content: '\e808';
+}
+.td-icon-menu-up:before {
+  content: '\e809';
+}
+.td-icon-search:before {
+  content: '\e80a';
+}
+.td-icon-user:before {
+  content: '\e80b';
+}
+.td-icon-menu-left:before {
+  content: '\e80c';
+}
+.td-icon-menu-right:before {
+  content: '\e80d';
+}
+.td-icon-star:before {
+  content: '\e80f';
+}
+.td-icon-mail:before {
+  content: '\e810';
+}
+.td-icon-behance:before {
+  content: '\e811';
+}
+.td-icon-blogger:before {
+  content: '\e812';
+}
+.td-icon-delicious:before {
+  content: '\e813';
+}
+.td-icon-deviantart:before {
+  content: '\e814';
+}
+.td-icon-digg:before {
+  content: '\e815';
+}
+.td-icon-dribbble:before {
+  content: '\e816';
+}
+.td-icon-evernote:before {
+  content: '\e817';
+}
+.td-icon-facebook:before {
+  content: '\e818';
+}
+.td-icon-flickr:before {
+  content: '\e819';
+}
+.td-icon-forrst:before {
+  content: '\e81a';
+}
+.td-icon-googleplus:before {
+  content: '\e81b';
+}
+.td-icon-instagram:before {
+  content: '\e81d';
+}
+.td-icon-lastfm:before {
+  content: '\e81e';
+}
+.td-icon-linkedin:before {
+  content: '\e81f';
+}
+.td-icon-mail-1:before {
+  content: '\e820';
+}
+.td-icon-myspace:before {
+  content: '\e821';
+}
+.td-icon-path:before {
+  content: '\e822';
+}
+.td-icon-paypal:before {
+  content: '\e823';
+}
+.td-icon-pinterest:before {
+  content: '\e825';
+}
+.td-icon-reddit:before {
+  content: '\e827';
+}
+.td-icon-rss:before {
+  content: '\e828';
+}
+.td-icon-share:before {
+  content: '\e829';
+}
+.td-icon-skype:before {
+  content: '\e82a';
+}
+.td-icon-soundcloud:before {
+  content: '\e82b';
+}
+.td-icon-spotify:before {
+  content: '\e82c';
+}
+.td-icon-stackoverflow:before {
+  content: '\e82d';
+}
+.td-icon-steam:before {
+  content: '\e82e';
+}
+.td-icon-stumbleupon:before {
+  content: '\e82f';
+}
+.td-icon-tumblr:before {
+  content: '\e830';
+}
+.td-icon-twitter:before {
+  content: '\e831';
+}
+.td-icon-vimeo:before {
+  content: '\e832';
+}
+.td-icon-windows:before {
+  content: '\e833';
+}
+.td-icon-wordpress:before {
+  content: '\e834';
+}
+.td-icon-yahoo:before {
+  content: '\e835';
+}
+.td-icon-youtube:before {
+  content: '\e836';
+}
+.td-icon-vk:before {
+  content: '\e837';
+}
+.td-icon-grooveshark:before {
+  content: '\e838';
+}
+.td-icon-star-empty:before {
+  content: '\e839';
+}
+.td-icon-star-half:before {
+  content: '\e83a';
+}
+.td-icon-close:before {
+  content: '\e83c';
+}
+.td-icon-read-down:before {
+  content: '\e83d';
+}
+.td-icon-comments:before {
+  content: "\e83b";
+}
+.td-icon-mobile:before {
+  content: '\e83e';
+}
+.td-icon-whatsapp:before {
+  content: '\f232';
+}
+.td-icon-commenting:before {
+  content: '\f27a';
+}
+.td-icon-close-mobile:before {
+  content: '\e900';
+}
+.td-icon-modal-back:before {
+  content: '\e901';
+}
+.td-icon-modal-close:before {
+  content: '\e902';
+}
+.td-icon-category:before {
+  content: '\e903';
+}
+.td-icon-block-header:before {
+  content: '\e904';
+}
+.td-icon-home:before {
+  content: '\e905';
+}
+.td-icon-print:before {
+  content: '\f02f';
+}
+.td-icon-telegram:before {
+  content: '\f2c6';
+}
+.td-icon-line:before {
+  content: '\e906';
+}
+.td-icon-viber:before {
+  content: '\e907';
+}
+.td-icon-plus:before {
+  content: '\ea0a';
+}
+.td-icon-minus:before {
+  content: '\ea0b';
+}
+.td-icon-dailymotion:before {
+  content: '\e908';
+}
+.td-icon-twitch:before {
+  content: '\e909';
+}
+.td-icon-xing:before {
+  content: '\e90a';
+}
+.td-icon-ebay:before {
+  content: '\e90b';
+}
+.td-icon-acolade:before {
+  content: "\e90c";
+}
+.td-icon-backslash:before {
+  content: "\e90d";
+}
+.td-icon-bracket-square:before {
+  content: "\e90e";
+}
+.td-icon-circle:before {
+  content: "\e90f";
+}
+.td-icon-circle-full:before {
+  content: "\e910";
+}
+.td-icon-circle-line:before {
+  content: "\e911";
+}
+.td-icon-circless:before {
+  content: "\e912";
+}
+.td-icon-comma-round:before {
+  content: "\e913";
+}
+.td-icon-comma-square:before {
+  content: "\e914";
+}
+.td-icon-hash:before {
+  content: "\e915";
+}
+.td-icon-linee:before {
+  content: "\e916";
+}
+.td-icon-pluss:before {
+  content: "\e917";
+}
+.td-icon-point-comma-round:before {
+  content: "\e918";
+}
+.td-icon-point-comma-square:before {
+  content: "\e919";
+}
+.td-icon-point-round:before {
+  content: "\e91a";
+}
+.td-icon-point-square:before {
+  content: "\e91b";
+}
+.td-icon-quote-round:before {
+  content: "\e91c";
+}
+.td-icon-quote-square:before {
+  content: "\e91d";
+}
+.td-icon-romb-full:before {
+  content: "\e91e";
+}
+.td-icon-romb-line:before {
+  content: "\e91f";
+}
+.td-icon-romb-round-full:before {
+  content: "\e920";
+}
+.td-icon-romb-round-line:before {
+  content: "\e921";
+}
+.td-icon-rombs:before {
+  content: "\e922";
+}
+.td-icon-slashh:before {
+  content: "\e923";
+}
+.td-icon-star-full:before {
+  content: "\e924";
+}
+.td-icon-star-line:before {
+  content: "\e925";
+}
+.td-icon-translingual:before {
+  content: "\e926";
+}
+.td-icon-upp:before {
+  content: "\e927";
+}
+.td-icon-vertical-line:before {
+  content: "\e928";
+}
+.td-icon-naver:before {
+  content: "\e9d3";
+}
+.td-icon-video-thumb-play:before {
+  content: "\e9d4";
+}
+.td-icon-audio-thumb-play:before {
+  content: "\e9d5";
+}
+.td-icon-cart:before {
+  content: "\f07a";
+}
+.td-icon-tiktok:before {
+  content: "\e9d6";
+}
+.td-icon-yandex:before {
+  content: "\e9d7";
+}
+.td-icon-flipboard:before {
+  content: "\e9d9";
+}
+.td-icon-insta-carousel:before {
+  content: "\e9da";
+}
+.td-icon-check:before {
+  content: "\e9db";
+}
+.td-icon-cart-empty:before {
+  content: "\e9dc";
+}
+.td-icon-profile:before {
+  content: "\e9dd";
+}
+.td-icon-log-out:before {
+  content: "\e9de";
+}
+.td-icon-discord:before {
+  content: "\e9df";
+}
+.td-icon-audio-pause:before {
+  content: "\e9ce";
+}
+.td-icon-audio-play:before {
+  content: "\e9cf";
+}
+.td-icon-audio-speaker:before {
+  content: "\e9d0";
+}
+.td-icon-audio-speaker-mute:before {
+  content: "\e9d1";
+}
+.td-icon-audio-refresh:before {
+  content: "\e9d2";
+}
+.td-icon-medium:before {
+  content: "\e929";
+}
+.td-icon-github:before {
+  content: "\e92a";
+}
+.td-icon-patreon:before {
+  content: "\e92b";
+}
+.td-icon-rumble:before {
+  content: "\e92c";
+}
+.td-icon-clouthub:before {
+  content: "\e92d";
+}
+.td-icon-gab:before {
+  content: "\e92e";
+}
+.td-icon-parler:before {
+  content: "\e92f";
+}
+.td-icon-gettr:before {
+  content: "\e930";
+}
+.td-icon-copy_url:before {
+  content: "\e931";
+}
+.td-social-icon-wrap:hover .td-icon-font {
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+  color: #fff;
+}
+.td-social-icon-wrap:hover i.td-icon-behance {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-blogger {
+  color: #ffa900;
+}
+.td-social-icon-wrap:hover i.td-icon-delicious {
+  color: #3399ff;
+}
+.td-social-icon-wrap:hover i.td-icon-deviantart {
+  color: #4e6252;
+}
+.td-social-icon-wrap:hover i.td-icon-digg {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-dribbble {
+  color: #ea4c89;
+}
+.td-social-icon-wrap:hover i.td-icon-evernote {
+  color: #07c257;
+}
+.td-social-icon-wrap:hover i.td-icon-facebook {
+  color: #3B5998;
+}
+.td-social-icon-wrap:hover i.td-icon-flickr {
+  color: #ff0084;
+}
+.td-social-icon-wrap:hover i.td-icon-forrst {
+  color: #3b7140;
+}
+.td-social-icon-wrap:hover i.td-icon-googleplus {
+  color: #dd4b39;
+}
+.td-social-icon-wrap:hover i.td-icon-grooveshark {
+  color: #f77f00;
+}
+.td-social-icon-wrap:hover i.td-icon-instagram {
+  color: #3f729b;
+}
+.td-social-icon-wrap:hover i.td-icon-lastfm {
+  color: #ce2127;
+}
+.td-social-icon-wrap:hover i.td-icon-linkedin {
+  color: #007bb6;
+}
+.td-social-icon-wrap:hover i.td-icon-mail {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-myspace {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-path {
+  color: #e62f17;
+}
+.td-social-icon-wrap:hover i.td-icon-paypal {
+  color: #009cde;
+}
+.td-social-icon-wrap:hover i.td-icon-pinterest {
+  color: #cb2027;
+}
+.td-social-icon-wrap:hover i.td-icon-reddit {
+  color: #ff4100;
+}
+.td-social-icon-wrap:hover i.td-icon-rss {
+  color: #f36f24;
+}
+.td-social-icon-wrap:hover i.td-icon-share {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-skype {
+  color: #01aef2;
+}
+.td-social-icon-wrap:hover i.td-icon-soundcloud {
+  color: #ff5500;
+}
+.td-social-icon-wrap:hover i.td-icon-spotify {
+  color: #81b900;
+}
+.td-social-icon-wrap:hover i.td-icon-stackoverflow {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-steam {
+  color: #000000;
+}
+.td-social-icon-wrap:hover i.td-icon-stumbleupon {
+  color: #eb4923;
+}
+.td-social-icon-wrap:hover i.td-icon-tumblr {
+  color: #32506d;
+}
+.td-social-icon-wrap:hover i.td-icon-twitter {
+  color: #00aced;
+}
+.td-social-icon-wrap:hover i.td-icon-vimeo {
+  color: #5289cc;
+}
+.td-social-icon-wrap:hover i.td-icon-vk {
+  color: #45668e;
+}
+.td-social-icon-wrap:hover i.td-icon-windows {
+  color: #319de5;
+}
+.td-social-icon-wrap:hover i.td-icon-wordpress {
+  color: #222222;
+}
+.td-social-icon-wrap:hover i.td-icon-yahoo {
+  color: #720e9e;
+}
+.td-social-icon-wrap:hover i.td-icon-youtube {
+  color: #bb0000;
+}
+.td-social-icon-wrap:hover i.td-icon-dailymotion {
+  color: #41bafc;
+}
+.td-social-icon-wrap:hover i.td-icon-twitch {
+  color: #4a377d;
+}
+.td-social-icon-wrap:hover i.td-icon-xing {
+  color: #1e6567;
+}
+.td-social-icon-wrap:hover i.td-icon-ebay {
+  color: #db2e32;
+}
+.td-social-icon-wrap:hover i.td-icon-telegram {
+  color: #3b9de1;
+}
+.td-social-icon-wrap:hover i.td-icon-naver {
+  color: #3ec729;
+}
+.td-social-icon-wrap:hover i.td-icon-tiktok {
+  color: #009191;
+}
+.td-social-icon-wrap:hover i.td-icon-yandex {
+  color: #ff0000;
+}
+.td-social-icon-wrap:hover i.td-icon-flipboard {
+  color: #f52828;
+}
+.td-social-icon-wrap:hover i.td-icon-discord {
+  color: #7289DA;
+}
+.td-social-icon-wrap:hover i.td-icon-whatsapp {
+  color: #7bbf6a;
+}

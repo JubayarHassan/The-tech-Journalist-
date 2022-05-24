@@ -1,0 +1,46 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Retro Blog PRO
+*/
+.td-retro-blog-pro .td-squiggly-line .tds-icon-svg-wrap {
+  height: auto!important;
+}
+.td-retro-blog-pro .td-squiggly-line .tds-icon {
+  width: auto!important;
+}
+.td-retro-blog-pro .td-newsletter-edit .tdn-btn-wrap {
+  border: solid #e74ac3;
+  border-width: 1px 1px 1px 0;
+}
+.td-retro-blog-pro .td-newsletter-edit .tdn-input-wrap {
+  border: 1px solid #e74ac3;
+}
+.td-retro-blog-pro .td-newsletter-edit .tdn-input-wrap:hover {
+  border: 1px solid #313131;
+}
+.td-retro-blog-pro .td-newsletter-edit .tdn-btn-wrap:hover {
+  border: 1px solid #313131;
+}
+.td-retro-blog-pro .td-newsletter-edit .tds-newsletter input {
+  min-height: 36px!important;
+}
+.td-retro-blog-pro .td-newsletter-edit .tdn-btn-wrap button {
+  min-height: 36px!important;
+}
+.td-retro-blog-pro .td-no-padding-list ul {
+  padding-left: 0!important;
+}
+.td-retro-blog-pro .td-border-photo .td-module-thumb {
+  border: 2px solid #c2e0e9;
+}
+.td-retro-blog-pro .td-category-list .td-ct-wrap .td-ct-item {
+  margin-bottom: 5px!important;
+}
+.td-retro-blog-pro .td-equal-heights-post .td-module-meta-info {
+  height: 150px;
+}

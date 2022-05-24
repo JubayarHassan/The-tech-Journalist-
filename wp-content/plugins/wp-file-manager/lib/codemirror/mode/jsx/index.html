@@ -1,0 +1,96 @@
+<title>CodeMirror: JSX mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/javascript/javascript.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/xml/xml.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/jsx/jsx.js"></script>
+<style type="text/css">.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">JSX</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>JSX mode</h2>
+
+<div><textarea id="code" name="code">// Code snippets from http://facebook.github.io/react/docs/jsx-in-depth.html
+
+// Rendering HTML tags
+var myDivElement = <div classname="foo"></div>;
+ReactDOM.render(myDivElement, document.getElementById('example'));
+
+// Rendering React components
+var MyComponent = React.createClass({/*...*/});
+var myElement = <mycomponent someproperty="{true}"></mycomponent>;
+ReactDOM.render(myElement, document.getElementById('example'));
+
+// Namespaced components
+var Form = MyFormComponent;
+
+var App = (
+  <form>
+    </form>
+<form.row>
+      <form.label></form.label>
+      <form.input></form.input>
+    </form.row>
+  
+);
+
+// Attribute JavaScript expressions
+var person = <person name="{window.isLoggedIn" window.name :></person>;
+
+// Boolean attributes
+<input type="button" disabled>;
+<input type="button" disabled>;
+
+// Child JavaScript expressions
+var content = <container>{window.isLoggedIn ? <nav></nav> : <login></login>}</container>;
+
+// Comments
+var content = (
+  <nav>
+    {/* child comment, put {} around */}
+    <person multi line comment name="{window.isLoggedIn" window.name : end of></person>
+  </nav>
+);
+</textarea></div>
+
+<script>
+var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+  lineNumbers: true,
+  mode: "jsx"
+})
+</script>
+
+<p>JSX Mode for <a href="http://facebook.github.io/react">React</a>'s
+JavaScript syntax extension.</p>
+
+<p><strong>MIME types defined:</strong> <code>text/jsx</code>, <code>text/typescript-jsx</code>.</p>
+
+</article>

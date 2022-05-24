@@ -1,0 +1,51 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Travel Pro Demo
+*/
+.td-travel-pro .td-ajax-prev-page {
+  margin: 0 5px 0 0;
+}
+.td-travel-pro .td-ajax-next-page {
+  margin: 0 0 0 5px;
+}
+.td-travel-pro .td-travel-slider .td-ajax-prev-page {
+  margin: 0 15px 0 0;
+}
+.td-travel-pro .td-travel-slider .td-ajax-next-page {
+  margin: 0 0 0 15px;
+}
+@media (min-width: 1720px) {
+  .td-travel-pro .td-travel-slider .td-next-prev-wrap {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+    width: 100%;
+  }
+  .td-travel-pro .td-travel-slider .td-ajax-prev-page,
+  .td-travel-pro .td-travel-slider .td-ajax-next-page {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+  }
+  .td-travel-pro .td-travel-slider .td-ajax-prev-page {
+    left: -50px;
+  }
+  .td-travel-pro .td-travel-slider .td-ajax-next-page {
+    right: -50px;
+  }
+}
+.td-travel-pro .td-travel-posts .tdc-font-tdmp-arrow-down {
+  margin: 4px 0 0 0;
+  display: block;
+}
+.td-travel-pro #td-theme-settings .td-skin-buy a {
+  background-color: #ce9079;
+}

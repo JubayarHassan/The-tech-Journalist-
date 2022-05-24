@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
+
+msgid "View all results"
+msgstr "結果を全部見る"
+
+
+msgid "No results"
+msgstr "結果なし"
+
+
+msgid "Home"
+msgstr "ホーム"
+
+
+msgid "CLOSE"
+msgstr "閉じる"
+
+
+msgid "Page"
+msgstr "ページ"
+
+
+msgid "All"
+msgstr "全部"
+
+
+msgid "By"
+msgstr "から"
+
+
+msgid "Load more"
+msgstr "もっとロードする"
+
+
+msgid "View all posts in"
+msgstr "投稿を全部見る"
+
+
+msgid "Tags"
+msgstr "タグ"
+
+
+msgid "Previous article"
+msgstr "前の記事"
+
+
+msgid "Next article"
+msgstr "次の記事"
+
+
+msgid "Authors"
+msgstr "著者"
+
+
+msgid "Author"
+msgstr "著者"
+
+
+msgid "RELATED ARTICLES"
+msgstr "関連記事"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "同じ著者から"
+
+
+msgid "VIA"
+msgstr "から"
+
+
+msgid "SOURCE"
+msgstr "ソース"
+
+
+msgid "TAGS"
+msgstr "タグ"
+
+
+msgid "SHARE"
+msgstr "シェア"
+
+
+msgid "Continue"
+msgstr "続ける"
+
+
+msgid "Read more"
+msgstr "もっと読む"
+
+
+msgid "Name:"
+msgstr "名前："
+
+
+msgid "Email:"
+msgstr "Eメール："
+
+
+msgid "Website:"
+msgstr "ウェブサイト："
+
+
+msgid "Comment:"
+msgstr "コメント："
+
+
+msgid "LEAVE A REPLY"
+msgstr "返事を書く"
+
+
+msgid "Post Comment"
+msgstr "コメントを書く"
+
+
+msgid "Cancel reply"
+msgstr "返事をキャンセル"
+
+
+msgid "Reply"
+msgstr "返事"
+
+
+msgid "Log in to leave a comment"
+msgstr "ログインしてコメントを書く"
+
+
+msgid "NO COMMENTS"
+msgstr "コメントなし"
+
+
+msgid "1 COMMENT"
+msgstr "１コメント"
+
+
+msgid "COMMENTS"
+msgstr "コメント"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "概要を観覧"
+
+
+msgid "SUMMARY"
+msgstr "概要"
+
+
+msgid "OVERALL SCORE"
+msgstr "全体のスコア"
+
+
+msgid "Ooops... Error 404"
+msgstr "エラー４０４発生"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "すみません。　ページは存在しません。"
+
+
+msgid "You can go to the"
+msgstr "次にいけます"
+
+
+msgid "HOMEPAGE"
+msgstr "ホームページ"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "最近の投稿"
+
+
+msgid "Posts by"
+msgstr "からの投稿"
+
+
+msgid "POSTS"
+msgstr "投稿"
+
+
+msgid "Posts tagged with"
+msgstr "同じタグの投稿"
+
+
+msgid "Tag"
+msgstr "タグ"
+
+
+msgid "Daily Archives:"
+msgstr "デイリーアーカイブ"
+
+
+msgid "Monthly Archives:"
+msgstr "マンスリーアーカイブ"
+
+
+msgid "Yearly Archives:"
+msgstr "年間アーカイブ"
+
+
+msgid "Archives"
+msgstr "アーカイブ"
+
+
+msgid "LATEST ARTICLES"
+msgstr "最新アーカイブ"
+
+
+msgid "search results"
+msgstr "検索結果"
+
+
+msgid "Search"
+msgstr "検索"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "結果が一致しない場合はもう一度検索してください"
+
+
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "ページ％CURRENT_PAGE％の％TOTAL_PAGES％"
+
+
+msgid "Next"
+msgstr "次"
+
+
+msgid "Prev"
+msgstr "前"
+
+
+msgid "No results for your search"
+msgstr "検索結果はありません"
+
+
+msgid "No posts to display"
+msgstr "表示できる投稿はありません"
+
+
+msgid "LOG IN"
+msgstr "ログイン"
+
+
+msgid "Sign in / Join"
+msgstr "サインイン/登録する"
+
+
+msgid "Log In"
+msgstr "ログイン"
+
+
+msgid "REGISTER"
+msgstr "新規登録"
+
+
+msgid "Send My Pass"
+msgstr "パスを送る"
+
+
+msgid "Forgot your password?"
+msgstr "パスワードを忘れましたか？"
+
+
+msgid "Please wait..."
+msgstr "お待ちください"
+
+
+msgid "User or password incorrect!"
+msgstr "ユーザーかパスワードが間違ってます！"
+
+
+msgid "Email or username incorrect!"
+msgstr "Eメールかユーザ名が間違ってます！"
+
+
+msgid "Email incorrect!"
+msgstr "Eメールが間違ってます！"
+
+
+msgid "User or email already exists!"
+msgstr "ユーザーかEメールはすで登録されてます！"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "パスワードが送信されたEメール（インデックスかスパムフォルダ）を確認してください。"
+
+
+msgid "Email address not found!"
+msgstr "Eメールアドレスは見つかりませんでした"
+
+
+msgid "Your password is reset, check your email."
+msgstr "パスワードはリセットされました。　Eメールを確認してください"
+
+
+msgid "Welcome! Log into your account"
+msgstr "ようこそ！　アカウントにログインしてください"
+
+
+msgid "Register for an account"
+msgstr "アカウントを取得する"
+
+
+msgid "Recover your password"
+msgstr "パスワードをリカバーする"
+
+
+msgid "your username"
+msgstr "あなたのユーザー名"
+
+
+msgid "your password"
+msgstr "あなたのパスワード"
+
+
+msgid "your email"
+msgstr "あなたのEメール"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "パスワードはEメールで送られます"
+
+
+msgid "Logout"
+msgstr "ログアウト"
+
+
+msgid "Like"
+msgstr "いいね"
+
+
+msgid "Fans"
+msgstr "ファン"
+
+
+msgid "Follow"
+msgstr "フォロー"
+
+
+msgid "Followers"
+msgstr "フォロワー"
+
+
+msgid "Subscribe"
+msgstr "購読"
+
+
+msgid "Subscribers"
+msgstr "購読者"
+
+
+msgid "MORE STORIES"
+msgstr "他の記事"
+
+
+msgid "Latest"
+msgstr "最新"
+
+
+msgid "Featured posts"
+msgstr "特集投稿"
+
+
+msgid "Most popular"
+msgstr "人気順"
+
+
+msgid "7 days popular"
+msgstr "7日間人気"
+
+
+msgid "By review score"
+msgstr "評価順"
+
+
+msgid "Random"
+msgstr "ランダム"
+
+
+msgid "Trending Now"
+msgstr "今話題"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "人気カテゴリ"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "もっと他のニュース"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "前（左アロー　キー）"
+
+
+msgid "Next (Right arrow key)"
+msgstr "次（右アロー　キー）"
+
+
+msgid "%curr% of %total%"
+msgstr "％curr%の％total％"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "％url%のコンテンツはロードできませんでした。"
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "#％curr%からの画像はロードできませんでした。"
+
+
+msgid "Blog"
+msgstr "ブログ"
+
+
+msgid "Share on Facebook"
+msgstr "フェイスブックでシェア"
+
+
+msgid "Tweet on Twitter"
+msgstr "ツイッターでツイート"
+
+
+msgid "EDITOR PICKS"
+msgstr "エディタのピック"
+
+
+msgid "POPULAR POSTS"
+msgstr "人気の投稿"
+
+
+msgid "FOLLOW US"
+msgstr "フォローします"
+
+
+msgid "ABOUT US"
+msgstr "私たちに関しては"
+
+
+msgid "More"
+msgstr "もっと"
+
+
+msgid "Featured"
+msgstr "おすすめの"
+
+
+msgid "All time popular"
+msgstr "すべての時間の人気"
+
+
+msgid "Likes"
+msgstr "同類"
+
+
+msgid "Register"
+msgstr "登録"
+
+
+msgid "of"
+msgstr "の"
+
+
+msgid "Euro Member Countries"
+msgstr "ユーロ加盟国"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "あなたのコメントは管理者の承認待ちです"
+
+
+msgid "Follow us on Instagram"
+msgstr "Instagramの上で私たちに従います"
+
+
+msgid "Back"
+msgstr "バック"
+
+
+msgid "Sign in"
+msgstr "サインイン"
+
+
+msgid "Sign up"
+msgstr "サインアップ"
+
+
+msgid "Join"
+msgstr "参加します"
+
+
+msgid "Welcome!"
+msgstr "ようこそ！"
+
+
+msgid "Log into your account"
+msgstr "あなたのアカウントにログイン"
+
+
+msgid "Password recovery"
+msgstr "パスワードの復元"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "あなたの電子メール（インデックスまたは迷惑メールフォルダ）を確認してください、パスワードはそこに送られました。"
+
+
+msgid "Australian Dollar"
+msgstr "オーストラリアドル"
+
+
+msgid "Bulgarian Lev"
+msgstr "ブルガリアレフ"
+
+
+msgid "Brazilian Real"
+msgstr "ブラジルレアル"
+
+
+msgid "Canadian Dollar"
+msgstr "カナダドル"
+
+
+msgid "Swiss Franc"
+msgstr "スイスフラン"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "中国人民元"
+
+
+msgid "Czech Republic Koruna"
+msgstr "チェココルナ"
+
+
+msgid "Danish Krone"
+msgstr "デンマーク・クローネ"
+
+
+msgid "British Pound"
+msgstr "英国ポンド"
+
+
+msgid "Hong Kong Dollar"
+msgstr "香港ドル"
+
+
+msgid "Croatian Kuna"
+msgstr "クロアチアクーナ"
+
+
+msgid "Hungarian Forint"
+msgstr "ハンガリーフォリント"
+
+
+msgid "Indonesian Rupiah"
+msgstr "インドネシアルピア"
+
+
+msgid "Israeli Shekel"
+msgstr "イスラエル・シェケル"
+
+
+msgid "Indian Rupee"
+msgstr "インドルピー"
+
+
+msgid "Japanese Yen"
+msgstr "日本円"
+
+
+msgid "Korean (South) Won"
+msgstr "韓国（南）ウォン"
+
+
+msgid "Mexican Peso"
+msgstr "メキシコペソ"
+
+
+msgid "Malaysian Ringgit"
+msgstr "マレーシアリンギット"
+
+
+msgid "Norwegian Krone"
+msgstr "ノルウェークローネ"
+
+
+msgid "New Zealand Dollar"
+msgstr "ニュージーランドドル"
+
+
+msgid "Philippine Peso"
+msgstr "フィリピンペソ"
+
+
+msgid "Polish Zloty"
+msgstr "ポーランドズロチ"
+
+
+msgid "Romanian (New) Leu"
+msgstr "ルーマニア（新）レイ"
+
+
+msgid "Russian Ruble"
+msgstr "ロシアルーブル"
+
+
+msgid "Swedish Krona"
+msgstr "スウェーデンクローナ"
+
+
+msgid "Singapore Dollar"
+msgstr "シンガポールドル"
+
+
+msgid "Thai Baht"
+msgstr "タイバーツ"
+
+
+msgid "Turkish Lira"
+msgstr "トルコリラ"
+
+
+msgid "United States Dollar"
+msgstr "米ドル"
+
+
+msgid "South African Rand"
+msgstr "南アフリカランド"
+
+
+msgid "Privacy Policy"
+msgstr "個人情報保護方針"
+
+
+msgid "views"
+msgstr "ビュー"
+
+
+msgid "Modified date:"
+msgstr "変更日："
+
+
+msgid "Please enter your name here"
+msgstr "ここにあなたの名前を入力してください"
+
+
+msgid "Please enter your email address here"
+msgstr "ここにあなたのEメールアドレスを入力してください"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "間違ったメールアドレスを入力しました。"
+
+
+msgid "Please enter your comment!"
+msgstr "あなたのコメントを入力してください。"
+
+
+msgid "Logged in as"
+msgstr "としてログイン"
+
+
+msgid "Log out?"
+msgstr "ログアウト？"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "％sとしてログインしました。あなたのプロフィールを編集します。"
+
+
+msgid "Edit"
+msgstr "編集する"
+
+
+msgid "Login"
+msgstr "ログイン"
+
+
+msgid "Send My Password"
+msgstr "パスワードを送信する"
+
+
+msgid "Create an account"
+msgstr "アカウントを作成する"
+
+
+msgid "Welcome! Register for an account"
+msgstr "ようこそ！アカウントを登録する"
+
+
+msgid "About me"
+msgstr "私について"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "次回の私のコメントのためにこのブラウザに私の名前、電子メール、そしてウェブサイトを保存してください。"
+
+
+msgid "Orders"
+msgstr "注文"
+
+
+msgid "Addresses"
+msgstr "住所"
+
+
+msgid "Account settings"
+msgstr "アカウント設定"
+
+
+msgid "Hello"
+msgstr "こんにちは"
+
+
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+
+msgid "Product categories"
+msgstr "製品カテゴリ"
+
+
+msgid "Product tags"
+msgstr "商品タグ"
+
+
+msgid "Success"
+msgstr "成功"
+
+
+msgid "Acknowledgment is required!"
+msgstr "承認が必要です！"
+
+
+msgid "Please fill in a valid email."
+msgstr "有効なメールアドレスを入力してください。"
+
+
+msgid "Please fill in an email address."
+msgstr "メールアドレスを入力してください。"
+
+
+msgid "Get into your account."
+msgstr "アカウントにアクセスします。"
+
+
+msgid "My subscription account"
+msgstr "私のサブスクリプションアカウント"
+
+
+msgid "Account details"
+msgstr "アカウント詳細"
+
+
+msgid "Subscriptions"
+msgstr "サブスクリプション"
+
+
+msgid "My woo account"
+msgstr "私のウーアカウント"
+
+
+msgid "Log out"
+msgstr "ログアウト"
+
+
+msgid "Email address"
+msgstr "電子メールアドレス"
+
+
+msgid "Username"
+msgstr "ユーザー名"
+
+
+msgid "Password"
+msgstr "パスワード"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "少なくとも1つの小文字（a..z）を含める必要があります"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "少なくとも1つの大文字（a..z）を含める必要があります"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "6文字以上の長さが必要です"
+
+
+msgid "Repeat password"
+msgstr "パスワードを再度入力してください"
+
+
+msgid "Already have an account?"
+msgstr "すでにアカウントをお持ちですか？"
+
+
+msgid "Recover password"
+msgstr "パスワード復旧"
+
+
+msgid "Username or Email address"
+msgstr "ユーザー名またはメールアドレス"
+
+
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+
+msgid "Don't have an account?"
+msgstr "アカウントをお持ちではありませんか？"
+
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+
+msgid "Welcome to your account!"
+msgstr "あなたのアカウントへようこそ！"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "こんにちは％1 $ s（％2 $ sではありませんか？％3 $ s）！アカウントダッシュボードから、サブスクリプションを表示し、アカウントの詳細を管理できます。"
+
+
+msgid "Lost Password"
+msgstr "パスワードを紛失した"
+
+
+msgid "Manage your account details."
+msgstr "アカウントの詳細を管理します。"
+
+
+msgid "First name"
+msgstr "ファーストネーム"
+
+
+msgid "Last name"
+msgstr "苗字"
+
+
+msgid "Display name"
+msgstr "表示名"
+
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "（変更しない場合は空白のままにします）"
+
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+
+msgid "Confirm new password"
+msgstr "新しいパスワードを確認"
+
+
+msgid "Save changes"
+msgstr "変更内容を保存"
+
+
+msgid "All your subscriptions."
+msgstr "すべてのサブスクリプション。"
+
+
+msgid "Plan"
+msgstr "予定"
+
+
+msgid "Payment type"
+msgstr "支払いタイプ"
+
+
+msgid "Status"
+msgstr "状態"
+
+
+msgid "Months"
+msgstr "月"
+
+
+msgid "Start date"
+msgstr "開始日"
+
+
+msgid "End date"
+msgstr "終了日"
+
+
+msgid "missing plan"
+msgstr "行方不明の計画"
+
+
+msgid "Free"
+msgstr "自由"
+
+
+msgid "Active"
+msgstr "アクティブ"
+
+
+msgid "Trial"
+msgstr "トライアル"
+
+
+msgid "Blocked"
+msgstr "ブロックされた"
+
+
+msgid "Closed"
+msgstr "閉まっている"
+
+
+msgid "Not paid"
+msgstr "未払い"
+
+
+msgid "Awaiting payment"
+msgstr "支払いを待っている"
+
+
+msgid "Subscription info"
+msgstr "サブスクリプション情報"
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "Name"
+msgstr "名前"
+
+
+msgid "Company name"
+msgstr "会社名"
+
+
+msgid "VAT"
+msgstr "バット"
+
+
+msgid "Address"
+msgstr "住所"
+
+
+msgid "City"
+msgstr "市"
+
+
+msgid "Country/State"
+msgstr "国/州"
+
+
+msgid "Email"
+msgstr "Eメール"
+
+
+msgid "Postal code"
+msgstr "郵便番号"
+
+
+msgid "Direct bank transfer details"
+msgstr "銀行振込の詳細"
+
+
+msgid "Account name"
+msgstr "アカウント名"
+
+
+msgid "Account number"
+msgstr "口座番号"
+
+
+msgid "Bank name"
+msgstr "銀行名"
+
+
+msgid "Routing number"
+msgstr "銀行コード"
+
+
+msgid "IBAN"
+msgstr "イバン"
+
+
+msgid "Bic/Swift"
+msgstr "Bic / swift"
+
+
+msgid "Instructions"
+msgstr "手順"
+
+
+msgid "No subscription created."
+msgstr "サブスクリプションは作成されません。"
+
+
+msgid "Choose plan"
+msgstr "プランを選択"
+
+
+msgid "Payment methods"
+msgstr "お支払い方法"
+
+
+msgid "Total"
+msgstr "合計"
+
+
+msgid "Period"
+msgstr "限目"
+
+
+msgid "Subscription summary"
+msgstr "サブスクリプションの概要"
+
+
+msgid "Phone"
+msgstr "電話"
+
+
+msgid "Postcode"
+msgstr "郵便番号"
+
+
+msgid "County"
+msgstr "郡"
+
+
+msgid "Town/City"
+msgstr "町/市"
+
+
+msgid "Street address"
+msgstr "住所"
+
+
+msgid "Country/Region"
+msgstr "国/地域"
+
+
+msgid "VAT Number"
+msgstr "VAT番号"
+
+
+msgid "(optional)"
+msgstr "（オプション）"
+
+
+msgid "Billing details"
+msgstr "支払明細"
+
+
+msgid "User information"
+msgstr "ユーザー情報"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "利用可能な支払い方法が設定されていないようです。"
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "ありがとう！ここでお会いできることをうれしく思います。サブスクリプションはまもなくアクティブになります！"
+
+
+msgid "Our bank details"
+msgstr "私たちの銀行の詳細"
+
+
+msgid "Your subscription details"
+msgstr "サブスクリプションの詳細"
+
+
+msgid "View subscription"
+msgstr "サブスクリプションを表示"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "有効なサブスクリプションプランを選択していません。"
+
+
+msgid "Field empty"
+msgstr "空のフィールド"
+
+
+msgid "Empty first name"
+msgstr "空の名"
+
+
+msgid "Empty last name"
+msgstr "空の姓"
+
+
+msgid "Empty country"
+msgstr "空の国"
+
+
+msgid "Empty address"
+msgstr "空のアドレス"
+
+
+msgid "Empty city"
+msgstr "空の街"
+
+
+msgid "Empty county"
+msgstr "空の郡"
+
+
+msgid "Empty postcode"
+msgstr "空の郵便番号"
+
+
+msgid "Empty phone"
+msgstr "空の電話"
+
+
+msgid "Empty email"
+msgstr "空のメール"
+
+
+msgid "Email or username empty!"
+msgstr "メールアドレスまたはユーザー名が空です！"
+
+
+msgid "Pass empty!"
+msgstr "空を渡す！"
+
+
+msgid "Username incorrect!"
+msgstr "ユーザー名が正しくありません！"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "パスパターンが無効です！"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "あなたのメールアドレスに送信されたリンクをたどってアカウントをアクティブにしてください。"
+
+
+msgid "Resend activation link"
+msgstr "アクティベーションリンクを再送"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "このセクションにアクセスするには、アカウントをアクティブ化する必要があります。"
+
+
+msgid "Email empty!"
+msgstr "メールが空です！"
+
+
+msgid "Username empty!"
+msgstr "ユーザー名が空です！"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "パスパターンが正しくありません！"
+
+
+msgid "Retyped pass empty!"
+msgstr "再入力されたパスは空です！"
+
+
+msgid "Retyped pass exactly!"
+msgstr "パスを正確に再入力しました！"
+
+
+msgid "User already exists!"
+msgstr "このユーザーは既に存在します！"
+
+
+msgid "Email already exists!"
+msgstr "メールは既に存在します！"
+
+
+msgid "Your account could not be created."
+msgstr "アカウントを作成できませんでした。"
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "メール（受信トレイまたはスパムフォルダ）を確認して、アカウントを検証してください。"
+
+
+msgid "User empty!"
+msgstr "ユーザーが空です！"
+
+
+msgid "User does not exists!"
+msgstr "ユーザーが存在しません！"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "新しいアクティベーションリンクが生成されました。メール（受信トレイまたはスパムフォルダ）を確認して、アカウントを検証してください。"
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "キャプチャの検証に失敗しました！"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "Captchaユーザースコアが失敗しました。お問い合わせください！"
+
+
+msgid "Loading"
+msgstr "読み込み中"
+
+
+msgid "Here are the results for the search:"
+msgstr "検索結果は次のとおりです。"
+
+
+msgid "Price"
+msgstr "価格"
+
+
+msgid "EXCLUSIVE"
+msgstr "エクスクルーシブ"
+
+
+msgid "Tel:"
+msgstr "Tel："
+
+
+msgid "Share"
+msgstr "シェア"
+
+
+msgid "Print"
+msgstr "印刷"
+
+
+msgid "At"
+msgstr "で"
+
+
+msgid "Comments are closed."
+msgstr "コメントは締め切りました。"
+
+
+msgid "My account"
+msgstr "マイアカウント"
+
+
+msgid "Payment method"
+msgstr "支払方法"
+

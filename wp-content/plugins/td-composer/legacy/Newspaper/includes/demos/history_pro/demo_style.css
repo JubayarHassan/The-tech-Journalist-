@@ -1,0 +1,22 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+History Pro Demo
+*/
+.td-history-pro .td-arrows .td-next-prev-wrap {
+  text-align: center !important;
+  background-color: #ffd800;
+}
+.td-history-pro .td-menu-arrows .td-next-prev-wrap {
+  text-align: center !important;
+}
+.td-history-pro .td-arrow-flex .td-next-prev-wrap {
+  background-color: #ffd800;
+}
+.td-history-pro #td-theme-settings .td-skin-buy a {
+  background-color: #1342f3;
+}

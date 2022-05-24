@@ -1,0 +1,49 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Baby Pro Demo
+*/
+@media (min-width: 1350px) {
+  .td-baby-pro .td-baby-hero.td_flex_block_1 .td-next-prev-wrap {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-52px);
+    z-index: 1;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+}
+.td-baby-pro .td-baby-hero.td_flex_block_1 .td-next-prev-wrap a {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+@media (min-width: 1350px) {
+  .td-baby-pro .td-baby-hero.td_flex_block_1 .td-next-prev-wrap a {
+    margin-right: 0;
+    position: absolute;
+  }
+}
+@media (max-width: 1018px) {
+  .td-baby-pro .td-baby-hero.td_flex_block_1 .td-next-prev-wrap a {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+  }
+}
+.td-baby-pro .td-baby-hero.td_flex_block_1 .td-next-prev-wrap .td-ajax-next-page {
+  margin-right: 0;
+}
+@media (min-width: 1350px) {
+  .td-baby-pro .td-baby-hero .td-ajax-prev-page {
+    left: -40px;
+  }
+  .td-baby-pro .td-baby-hero .td-ajax-next-page {
+    right: -40px;
+  }
+}

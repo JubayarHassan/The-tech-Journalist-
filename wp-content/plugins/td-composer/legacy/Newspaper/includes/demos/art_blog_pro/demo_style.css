@@ -1,0 +1,61 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+.mx_image_background {
+  background-color: #f2f2f2;
+}
+.td-visibility-hidden {
+  visibility: hidden;
+}
+/*  ----------------------------------------------------------------------------
+    from bootstrap
+*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+usage:
+.td-block-row {
+  .mx-row(td-block-span);
+}
+
+@all_span_selector - is the begining of the span selector
+ */
+.td-art-blog-pro .td_block_template_8 .td-block-title {
+  margin-bottom: 38px;
+  padding-left: 25px;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-art-blog-pro .td_block_template_8 .td-block-title {
+    margin-bottom: 28px;
+    padding-left: 20px;
+  }
+}
+@media (max-width: 1018px) {
+  .td-art-blog-pro .td_block_template_8 .td-block-title {
+    margin-bottom: 23px;
+    padding-left: 15px;
+  }
+}
+.td-art-blog-pro .td_block_template_8 .td-block-title > *:before,
+.td-art-blog-pro .td_block_template_8 .td-block-title > *:after {
+  height: 1px;
+}
+.td-art-blog-pro .td_block_template_8 .td-block-title span {
+  padding-left: 5px;
+  padding-right: 10px;
+}

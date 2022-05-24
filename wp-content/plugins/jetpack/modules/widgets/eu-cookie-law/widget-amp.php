@@ -1,0 +1,1 @@
+<amp-consent id="eu-cookie-consent" layout="nodisplay" class="widget widget_eu_cookie_law_widget"></amp-consent>

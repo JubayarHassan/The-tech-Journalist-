@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CodeMirror: Django template mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/theme/mdn-like.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/addon/mode/overlay.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/xml/xml.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/django/django.js"></script>
+<style type="text/css">.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}</style>
+</head>
+<body>
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">Django</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>Django template mode</h2>
+<form><textarea id="code" name="code">
+
+
+  
+    <title>My Django web application</title>
+  
+  
+    <h1>
+      {{ page.title|capfirst }}
+    </h1>
+    <ul class="my-list">
+      {# traverse a list of items and produce links to their views. #}
+      {% for item in items %}
+      <li>
+        <a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/django/{% url 'item_view' item.name|slugify %}">
+          {{ item.name }}
+        </a>
+      </li>
+      {% empty %}
+      <li>You have no items in your list.</li>
+      {% endfor %}
+    </ul>
+    {% comment "this is a forgotten footer" %}
+    <footer></footer>
+    {% endcomment %}
+  
+
+</textarea></form>
+
+    <script>
+      var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+        lineNumbers: true,
+        mode: "django",
+        indentUnit: 2,
+        indentWithTabs: true,
+        theme: "mdn-like"
+      });
+    </script>
+
+    <p>Mode for HTML with embedded Django template markup.</p>
+
+    <p><strong>MIME types defined:</strong> <code>text/x-django</code></p>
+  </article>
+</body>
+</html>

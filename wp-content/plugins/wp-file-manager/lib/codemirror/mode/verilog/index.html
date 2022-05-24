@@ -1,0 +1,91 @@
+<title>CodeMirror: Verilog/SystemVerilog mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/addon/edit/matchbrackets.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/verilog/verilog.js"></script>
+<style type="text/css">.CodeMirror {border-top: 1px solid black; border-bottom: 1px solid black;}</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">Verilog/SystemVerilog</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>SystemVerilog mode</h2>
+
+<div><textarea id="code" name="code">
+// Literals
+1'b0
+1'bx
+1'bz
+16'hDC78
+'hdeadbeef
+'b0011xxzz
+1234
+32'd5678
+3.4e6
+-128.7
+
+// Macro definition
+`define BUS_WIDTH = 8;
+
+// Module definition
+module block(
+  input                   clk,
+  input                   rst_n,
+  input  [`BUS_WIDTH-1:0] data_in,
+  output [`BUS_WIDTH-1:0] data_out
+);
+  
+  always @(posedge clk or negedge rst_n) begin
+
+    if (~rst_n) begin
+      data_out </textarea></div>
+
+<script>
+  var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+    lineNumbers: true,
+    matchBrackets: true,
+    mode: {
+      name: "verilog",
+      noIndentKeywords: ["package"]
+    }
+  });
+</script>
+
+<p>
+Syntax highlighting and indentation for the Verilog and SystemVerilog languages (IEEE 1800).
+</p>
+<h2>Configuration options:</h2>
+  <ul>
+    <li>
+<strong>noIndentKeywords</strong> - List of keywords which should not cause indentation to increase. E.g. ["package", "module"]. Default: None</li>
+  </ul>
+
+
+<p><strong>MIME types defined:</strong> <code>text/x-verilog</code> and <code>text/x-systemverilog</code>.</p>
+</article>

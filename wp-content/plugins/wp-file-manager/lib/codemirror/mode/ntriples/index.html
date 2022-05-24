@@ -1,0 +1,54 @@
+<title>CodeMirror: NTriples mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/ntriples/ntriples.js"></script>
+<style type="text/css">.CodeMirror {
+        border: 1px solid #eee;
+      }</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">NTriples</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>NTriples mode</h2>
+<form>
+<textarea id="ntriples" name="ntriples">    
+<http:>     <http:>     <http:> .
+<http:>     <http:> "literal 1" .
+<http:> <http:>     _:bnode3 .
+_:bnode4          <http:>     "literal 2"@lang .
+_:bnode5          <http:>     "literal 3"^^<http:> .
+</http:></http:></http:></http:></http:></http:></http:></http:></http:></http:></textarea>
+</form>
+
+    <script>
+      var editor = CodeMirror.fromTextArea(document.getElementById("ntriples"), {});
+    </script>
+    <p><strong>MIME types defined:</strong> <code>text/n-triples</code>.</p>
+  </article>

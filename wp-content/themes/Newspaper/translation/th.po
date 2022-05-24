@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+
+
+msgid "View all results"
+msgstr "ดูผลทั้งหมด"
+
+
+msgid "No results"
+msgstr "ไม่มีผล"
+
+
+msgid "Home"
+msgstr "หน้าแรก"
+
+
+msgid "CLOSE"
+msgstr "ปิด"
+
+
+msgid "Page"
+msgstr "หน้า"
+
+
+msgid "All"
+msgstr "ทั้งหมด"
+
+
+msgid "By"
+msgstr "โดย"
+
+
+msgid "Load more"
+msgstr "โหลดเพิ่มเติม"
+
+
+msgid "View all posts in"
+msgstr "ดูโพสต์ทั้งหมดใน"
+
+
+msgid "Tags"
+msgstr "แท็ก"
+
+
+msgid "Previous article"
+msgstr "บทความก่อนหน้านี้"
+
+
+msgid "Next article"
+msgstr "บทความถัดไป"
+
+
+msgid "Authors"
+msgstr "ผู้เขียน"
+
+
+msgid "Author"
+msgstr "ผู้เขียน"
+
+
+msgid "RELATED ARTICLES"
+msgstr "บทความที่เกี่ยวข้อง"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "เพิ่มเติมจากผู้เขียน"
+
+
+msgid "VIA"
+msgstr "ผ่าน"
+
+
+msgid "SOURCE"
+msgstr "แหล่งที่มา"
+
+
+msgid "TAGS"
+msgstr "แท็ก"
+
+
+msgid "SHARE"
+msgstr "แบ่งปัน"
+
+
+msgid "Continue"
+msgstr "ดำเนินการต่อ"
+
+
+msgid "Read more"
+msgstr "อ่านเพิ่มเติม"
+
+
+msgid "Name:"
+msgstr "ชื่อ"
+
+
+msgid "Email:"
+msgstr "อีเมล์"
+
+
+msgid "Website:"
+msgstr "เว็บไซต์"
+
+
+msgid "Comment:"
+msgstr "ความคิดเห็น"
+
+
+msgid "LEAVE A REPLY"
+msgstr "ทิ้งคำตอบไว้"
+
+
+msgid "Post Comment"
+msgstr "โพสต์แสดงความคิดเห็น"
+
+
+msgid "Cancel reply"
+msgstr "ยกเลิกการตอบ"
+
+
+msgid "Reply"
+msgstr "ตอบ"
+
+
+msgid "Log in to leave a comment"
+msgstr "เข้าระบบเพื่อแสดงความคิดเห็น"
+
+
+msgid "NO COMMENTS"
+msgstr "ไม่มีความคิดเห็น"
+
+
+msgid "1 COMMENT"
+msgstr "1 ความคิดเห็น"
+
+
+msgid "COMMENTS"
+msgstr "ความคิดเห็น"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "ทบทวนภาพรวม"
+
+
+msgid "SUMMARY"
+msgstr "สรุป"
+
+
+msgid "OVERALL SCORE"
+msgstr "คะแนนโดยรวม"
+
+
+msgid "Ooops... Error 404"
+msgstr "โอ๊ะโอ… ข้อผิดพลาด 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "ขออภัย, แต่หน้าที่คุณกำลังมองหานั้นไม่มีอยู่"
+
+
+msgid "You can go to the"
+msgstr "คุณสามารถไปที่"
+
+
+msgid "HOMEPAGE"
+msgstr "หน้าแรก"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "โพสต์ล่าสุดของเรา"
+
+
+msgid "Posts by"
+msgstr "โพสต์ของ"
+
+
+msgid "POSTS"
+msgstr "โพสต์"
+
+
+msgid "Posts tagged with"
+msgstr "โพสต์แท็กกับ"
+
+
+msgid "Tag"
+msgstr "แท็ก"
+
+
+msgid "Daily Archives:"
+msgstr "จดหมายเหตุประจำวัน"
+
+
+msgid "Monthly Archives:"
+msgstr "จดหมายเหตุรายเดือน"
+
+
+msgid "Yearly Archives:"
+msgstr "จดหมายเหตุรายปี"
+
+
+msgid "Archives"
+msgstr "จดหมายเหตุ"
+
+
+msgid "LATEST ARTICLES"
+msgstr "บทความล่าสุด"
+
+
+msgid "search results"
+msgstr "ค้นหาผล"
+
+
+msgid "Search"
+msgstr "ค้นหา"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "หากคุณไม่มีความสุขกับผลที่ได้ โปรดดำเนินการค้นหาอื่น"
+
+
+msgid "Contact us"
+msgstr "ติดต่อเรา"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "หน้า %CURRENT_PAGE% ของ %TOTAL_PAGES%"
+
+
+msgid "Next"
+msgstr "ถัดไป"
+
+
+msgid "Prev"
+msgstr "ย้อนกลับหน้าที่แล้ว"
+
+
+msgid "No results for your search"
+msgstr "ไม่มีผลการค้นหาขอลคุณ"
+
+
+msgid "No posts to display"
+msgstr "ไม่มีโพสต์ที่แสดง"
+
+
+msgid "LOG IN"
+msgstr "เข้าสู่ระบบ"
+
+
+msgid "Sign in / Join"
+msgstr "เข้าสู่ระบบ/เข้าร่วม"
+
+
+msgid "Log In"
+msgstr "เข้าสู่ระบบ"
+
+
+msgid "REGISTER"
+msgstr "ลงทะเบียน"
+
+
+msgid "Send My Pass"
+msgstr "ส่งรหัสผ่านของฉัน"
+
+
+msgid "Forgot your password?"
+msgstr "ลืมรหัสผ่านของคุณ?"
+
+
+msgid "Please wait..."
+msgstr "กรุณารอสักครู่…"
+
+
+msgid "User or password incorrect!"
+msgstr "ผู้ใช้หรือรหัสผ่านไม่ถูกต้อง!"
+
+
+msgid "Email or username incorrect!"
+msgstr "อีเมล์หรือชื่อผู้ใช้ไม่ถูกต้อง!"
+
+
+msgid "Email incorrect!"
+msgstr "อีเมล์ไม่ถูกต้อง!"
+
+
+msgid "User or email already exists!"
+msgstr "ผู้ใช้หรืออีเมล์มีอยู่แล้ว!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "กรุณาตรวจสอบอีเมล์ของคุณ (ดัชนีหรือโฟลเดอร์อีเมล์ขยะ) รหัสผ่านถูกส่งไปที่นั่นแล้ว"
+
+
+msgid "Email address not found!"
+msgstr "ไม่พบอีเมล์!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "รหัสผ่านของคุณถูกตั้งค่าใหม่ ตรวจสอบอีเมล์ของคุณ"
+
+
+msgid "Welcome! Log into your account"
+msgstr "ยินดีต้อนรับ! เข้าสู่ระบบบัญชีของคุณ"
+
+
+msgid "Register for an account"
+msgstr "ลงทะเบียนสำหรับบัญชี"
+
+
+msgid "Recover your password"
+msgstr "กู้คืนรหัสผ่านของคุณ"
+
+
+msgid "your username"
+msgstr "ชื่อผู้ใช้ของคุณ"
+
+
+msgid "your password"
+msgstr "รหัสผ่านของคุณ"
+
+
+msgid "your email"
+msgstr "อีเมล์ของคุณ"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "รหัสผ่านจะถูกอีเมล์ถึงคุณ"
+
+
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+
+msgid "Like"
+msgstr "ชอบ"
+
+
+msgid "Fans"
+msgstr "แฟนคลับ"
+
+
+msgid "Follow"
+msgstr "ติดตาม"
+
+
+msgid "Followers"
+msgstr "ผู้ติดตาม"
+
+
+msgid "Subscribe"
+msgstr "บอกรับเป็นสมาชิก"
+
+
+msgid "Subscribers"
+msgstr "สมาชิก"
+
+
+msgid "MORE STORIES"
+msgstr "เรื่องราวเพิ่มเติม"
+
+
+msgid "Latest"
+msgstr "ล่าสุด"
+
+
+msgid "Featured posts"
+msgstr "โพสต์แนะนำ"
+
+
+msgid "Most popular"
+msgstr "นิยมมากที่สุด"
+
+
+msgid "7 days popular"
+msgstr "7 วันที่เป็นที่นิยม"
+
+
+msgid "By review score"
+msgstr "โดยคะแนนทบทวน"
+
+
+msgid "Random"
+msgstr "สุ่ม"
+
+
+msgid "Trending Now"
+msgstr "แนวโน้มตอนนี้"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "ประเภทยอดนิยม"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "ข่าวมากยิ่งขึ้น"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "ก่อนหน้านี้ (ปุ่มลูกศรซ้าย)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "ถัดไป (ปุ่มลูกศรขวา)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr%ของ%total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "เนื้อหาจาก%url%ไม่สามารถโหลด"
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "รูปภาพ#%curr%ไม่สามารถโหลด"
+
+
+msgid "Blog"
+msgstr "บล็อก"
+
+
+msgid "Share on Facebook"
+msgstr "แบ่งปันบนเฟสบุ๊ค"
+
+
+msgid "Tweet on Twitter"
+msgstr "ทวีตบนทวิตเตอร์"
+
+
+msgid "EDITOR PICKS"
+msgstr "หยิบบรรณาธิการ"
+
+
+msgid "POPULAR POSTS"
+msgstr "โพสต์ที่เป็นที่นิยม"
+
+
+msgid "FOLLOW US"
+msgstr "ตามเรา"
+
+
+msgid "ABOUT US"
+msgstr "เกี่ยวกับเรา"
+
+
+msgid "More"
+msgstr "มากกว่า"
+
+
+msgid "Featured"
+msgstr "ที่โดดเด่น"
+
+
+msgid "All time popular"
+msgstr "เวลาที่นิยมทั้งหมด"
+
+
+msgid "Likes"
+msgstr "ทำเช่นเดียวกับ"
+
+
+msgid "Register"
+msgstr "การลงทะเบียน"
+
+
+msgid "of"
+msgstr "ของ"
+
+
+msgid "Euro Member Countries"
+msgstr "ประเทศสมาชิกยูโร"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "ความคิดเห็นของคุณอยู่ในระหว่างรอการกลั่นกรอง"
+
+
+msgid "Follow us on Instagram"
+msgstr "ติดตามบน Instagram"
+
+
+msgid "Back"
+msgstr "กลับ"
+
+
+msgid "Sign in"
+msgstr "ลงชื่อเข้าใช้"
+
+
+msgid "Sign up"
+msgstr "ลงชื่อ"
+
+
+msgid "Join"
+msgstr "ร่วม"
+
+
+msgid "Welcome!"
+msgstr "ยินดีต้อนรับ!"
+
+
+msgid "Log into your account"
+msgstr "ลงชื่อเข้าใช้บัญชีของคุณ"
+
+
+msgid "Password recovery"
+msgstr "กู้คืนรหัสผ่าน"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "โปรดตรวจสอบอีเมลของคุณ (ดัชนีหรือสแปมโฟลเดอร์) รหัสผ่านที่ถูกส่งไปที่นั่น"
+
+
+msgid "Australian Dollar"
+msgstr "ดอลลาร์ออสเตรเลีย"
+
+
+msgid "Bulgarian Lev"
+msgstr "บัลแกเรีย Lev"
+
+
+msgid "Brazilian Real"
+msgstr "เรียลบราซิล"
+
+
+msgid "Canadian Dollar"
+msgstr "ดอลลาร์แคนาดา"
+
+
+msgid "Swiss Franc"
+msgstr "ฟรังก์สวิส"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "หยวนหยวนจีน"
+
+
+msgid "Czech Republic Koruna"
+msgstr "วักสาธารณรัฐเช็ก"
+
+
+msgid "Danish Krone"
+msgstr "Krone เดนมาร์ก"
+
+
+msgid "British Pound"
+msgstr "ปอนด์อังกฤษ"
+
+
+msgid "Hong Kong Dollar"
+msgstr "ดอลลาร์ฮ่องกง"
+
+
+msgid "Croatian Kuna"
+msgstr "คูนาโครเอเชีย"
+
+
+msgid "Hungarian Forint"
+msgstr "โฟรินท์ฮังการี"
+
+
+msgid "Indonesian Rupiah"
+msgstr "รูเปียห์อินโดนีเซีย"
+
+
+msgid "Israeli Shekel"
+msgstr "เชคเคิลอิสราเอล"
+
+
+msgid "Indian Rupee"
+msgstr "รูปีอินเดีย"
+
+
+msgid "Japanese Yen"
+msgstr "เงินเยนของญี่ปุ่น"
+
+
+msgid "Korean (South) Won"
+msgstr "เกาหลี (ภาคใต้) ชนะ"
+
+
+msgid "Mexican Peso"
+msgstr "เปโซเม็กซิโก"
+
+
+msgid "Malaysian Ringgit"
+msgstr "ริงกิตมาเลเซีย"
+
+
+msgid "Norwegian Krone"
+msgstr "โครนนอร์เวย์"
+
+
+msgid "New Zealand Dollar"
+msgstr "ดอลลาร์นิวซีแลนด์"
+
+
+msgid "Philippine Peso"
+msgstr "เปโซของฟิลิปปินส์"
+
+
+msgid "Polish Zloty"
+msgstr "โปแลนด์ Zloty"
+
+
+msgid "Romanian (New) Leu"
+msgstr "โรมาเนีย (ใหม่) Leu"
+
+
+msgid "Russian Ruble"
+msgstr "รูเบิลรัสเซีย"
+
+
+msgid "Swedish Krona"
+msgstr "โครนาสวีเดน"
+
+
+msgid "Singapore Dollar"
+msgstr "ดอลลาร์สิงคโปร์"
+
+
+msgid "Thai Baht"
+msgstr "บาทไทย"
+
+
+msgid "Turkish Lira"
+msgstr "ลีราตุรกี"
+
+
+msgid "United States Dollar"
+msgstr "เงินดอลลาร์สหรัฐอเมริกา"
+
+
+msgid "South African Rand"
+msgstr "ภาคใต้ Rand แอฟริกัน"
+
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+
+msgid "views"
+msgstr "มุมมอง"
+
+
+msgid "Modified date:"
+msgstr "วันที่แก้ไข:"
+
+
+msgid "Please enter your name here"
+msgstr "กรุณาใส่ชื่อของคุณที่นี่"
+
+
+msgid "Please enter your email address here"
+msgstr "กรุณาใส่ที่อยู่อีเมลของคุณที่นี่"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "คุณป้อนที่อยู่อีเมลไม่ถูกต้อง!"
+
+
+msgid "Please enter your comment!"
+msgstr "กรุณาใส่ความคิดเห็นของคุณ!"
+
+
+msgid "Logged in as"
+msgstr "เข้าสู่ระบบในฐานะ"
+
+
+msgid "Log out?"
+msgstr "ออกจากระบบ?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "ลงชื่อเข้าใช้ด้วย% s แก้ไขโปรไฟล์ของคุณ"
+
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+
+msgid "Send My Password"
+msgstr "ส่งรหัสผ่านของฉัน"
+
+
+msgid "Create an account"
+msgstr "สร้างบัญชี"
+
+
+msgid "Welcome! Register for an account"
+msgstr "ยินดีต้อนรับ! ลงทะเบียนสำหรับบัญชี"
+
+
+msgid "About me"
+msgstr "เกี่ยวกับฉัน"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "บันทึกชื่ออีเมลและเว็บไซต์ของฉันในเบราว์เซอร์นี้ในครั้งต่อไปที่ฉันแสดงความคิดเห็น"
+
+
+msgid "Orders"
+msgstr "คำสั่ง"
+
+
+msgid "Addresses"
+msgstr "ที่อยู่"
+
+
+msgid "Account settings"
+msgstr "การตั้งค่าบัญชี"
+
+
+msgid "Hello"
+msgstr "สวัสดี"
+
+
+msgid "No products in the cart."
+msgstr "ไม่มีสินค้าในรถเข็น"
+
+
+msgid "Product categories"
+msgstr "หมวดหมู่สินค้า"
+
+
+msgid "Product tags"
+msgstr "ป้ายสินค้า"
+
+
+msgid "Success"
+msgstr "ความสำเร็จ"
+
+
+msgid "Acknowledgment is required!"
+msgstr "จำเป็นต้องรับทราบ!"
+
+
+msgid "Please fill in a valid email."
+msgstr "กรุณากรอกอีเมลที่ถูกต้อง"
+
+
+msgid "Please fill in an email address."
+msgstr "กรุณากรอกอีเมล์"
+
+
+msgid "Get into your account."
+msgstr "เข้าสู่บัญชีของคุณ"
+
+
+msgid "My subscription account"
+msgstr "บัญชีสมัครสมาชิกของฉัน"
+
+
+msgid "Account details"
+msgstr "รายละเอียดบัญชี"
+
+
+msgid "Subscriptions"
+msgstr "การสมัครรับข้อมูล"
+
+
+msgid "My woo account"
+msgstr "บัญชี woo ของฉัน"
+
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "ต้องมีตัวพิมพ์เล็กอย่างน้อยหนึ่งตัว (a..z)"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "ต้องมีตัวพิมพ์ใหญ่อย่างน้อยหนึ่งตัว (a..z)"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "ต้องมีความยาวอย่างน้อย 6 ตัวอักษร"
+
+
+msgid "Repeat password"
+msgstr "รหัสผ่านซ้ำ"
+
+
+msgid "Already have an account?"
+msgstr "มีบัญชีอยู่แล้ว?"
+
+
+msgid "Recover password"
+msgstr "กู้คืนรหัสผ่าน"
+
+
+msgid "Username or Email address"
+msgstr "ชื่อผู้ใช้หรือที่อยู่อีเมล"
+
+
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่าน?"
+
+
+msgid "Don't have an account?"
+msgstr "ไม่มีบัญชี?"
+
+
+msgid "Dashboard"
+msgstr "แผงควบคุม"
+
+
+msgid "Welcome to your account!"
+msgstr "ยินดีต้อนรับสู่บัญชีของคุณ!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "สวัสดี %1$s (ไม่ใช่ %2$s? %3$s)! จากแดชบอร์ดบัญชีของคุณ คุณสามารถดูการสมัครของคุณและจัดการรายละเอียดบัญชีของคุณ"
+
+
+msgid "Lost Password"
+msgstr "รหัสผ่านหาย"
+
+
+msgid "Manage your account details."
+msgstr "จัดการรายละเอียดบัญชีของคุณ"
+
+
+msgid "First name"
+msgstr "ชื่อจริง"
+
+
+msgid "Last name"
+msgstr "นามสกุล"
+
+
+msgid "Display name"
+msgstr "ชื่อที่แสดง"
+
+
+msgid "Current password"
+msgstr "รหัสผ่านปัจจุบัน"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(เว้นว่างไว้ไม่เปลี่ยนแปลง)"
+
+
+msgid "New password"
+msgstr "รหัสผ่านใหม่"
+
+
+msgid "Confirm new password"
+msgstr "ยืนยันรหัสผ่านใหม่"
+
+
+msgid "Save changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+
+msgid "All your subscriptions."
+msgstr "การสมัครสมาชิกทั้งหมดของคุณ"
+
+
+msgid "Plan"
+msgstr "วางแผน"
+
+
+msgid "Payment type"
+msgstr "ประเภทการชำระเงิน"
+
+
+msgid "Status"
+msgstr "สถานะ"
+
+
+msgid "Months"
+msgstr "เดือน"
+
+
+msgid "Start date"
+msgstr "วันที่เริ่มต้น"
+
+
+msgid "End date"
+msgstr "วันที่สิ้นสุด"
+
+
+msgid "missing plan"
+msgstr "ขาดแผน"
+
+
+msgid "Free"
+msgstr "ฟรี"
+
+
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+
+msgid "Trial"
+msgstr "การทดลอง"
+
+
+msgid "Blocked"
+msgstr "ถูกบล็อก"
+
+
+msgid "Closed"
+msgstr "ปิด"
+
+
+msgid "Not paid"
+msgstr "ไม่จ่าย"
+
+
+msgid "Awaiting payment"
+msgstr "รอการชำระเงิน"
+
+
+msgid "Subscription info"
+msgstr "ข้อมูลการสมัครสมาชิก"
+
+
+msgid "ID"
+msgstr "ID"
+
+
+msgid "Name"
+msgstr "ชื่อ"
+
+
+msgid "Company name"
+msgstr "ชื่อ บริษัท"
+
+
+msgid "VAT"
+msgstr "ภาษีมูลค่าเพิ่ม"
+
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+
+msgid "City"
+msgstr "เมือง"
+
+
+msgid "Country/State"
+msgstr "ประเทศ/รัฐ"
+
+
+msgid "Email"
+msgstr "อีเมล"
+
+
+msgid "Postal code"
+msgstr "รหัสไปรษณีย์"
+
+
+msgid "Direct bank transfer details"
+msgstr "รายละเอียดการโอนเงินผ่านธนาคารโดยตรง"
+
+
+msgid "Account name"
+msgstr "ชื่อบัญชี"
+
+
+msgid "Account number"
+msgstr "หมายเลขบัญชี"
+
+
+msgid "Bank name"
+msgstr "ชื่อธนาคาร"
+
+
+msgid "Routing number"
+msgstr "เส้นทางหมายเลข"
+
+
+msgid "IBAN"
+msgstr "อิบัน"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/swift"
+
+
+msgid "Instructions"
+msgstr "คำแนะนำ"
+
+
+msgid "No subscription created."
+msgstr "ไม่มีการสมัครสมาชิกที่สร้างขึ้น"
+
+
+msgid "Choose plan"
+msgstr "เลือกแผน"
+
+
+msgid "Payment methods"
+msgstr "วิธีการชำระเงิน"
+
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+
+msgid "Period"
+msgstr "ระยะเวลา"
+
+
+msgid "Subscription summary"
+msgstr "สรุปการสมัคร"
+
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+
+msgid "Postcode"
+msgstr "รหัสไปรษณีย์"
+
+
+msgid "County"
+msgstr "เขต"
+
+
+msgid "Town/City"
+msgstr "เมือง/เมือง"
+
+
+msgid "Street address"
+msgstr "ที่อยู่ถนน"
+
+
+msgid "Country/Region"
+msgstr "ประเทศ/ภูมิภาค"
+
+
+msgid "VAT Number"
+msgstr "หมายเลขภาษี"
+
+
+msgid "(optional)"
+msgstr "(ไม่จำเป็น)"
+
+
+msgid "Billing details"
+msgstr "รายละเอียดการเรียกเก็บเงิน"
+
+
+msgid "User information"
+msgstr "ข้อมูลผู้ใช้"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "ดูเหมือนว่าไม่มีการกำหนดค่าวิธีการชำระเงินที่ใช้ได้"
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "ขอบคุณ! เราดีใจที่ได้พบคุณที่นี่ การสมัครของคุณจะเปิดใช้งานเร็ว ๆ นี้!"
+
+
+msgid "Our bank details"
+msgstr "รายละเอียดธนาคารของเรา"
+
+
+msgid "Your subscription details"
+msgstr "รายละเอียดการสมัครของคุณ"
+
+
+msgid "View subscription"
+msgstr "ดูการสมัครสมาชิก"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "คุณยังไม่ได้เลือกแผนการสมัครสมาชิกที่ถูกต้อง"
+
+
+msgid "Field empty"
+msgstr "ช่องว่างเปล่า"
+
+
+msgid "Empty first name"
+msgstr "ชื่อที่ว่างเปล่า"
+
+
+msgid "Empty last name"
+msgstr "นามสกุลว่างเปล่า"
+
+
+msgid "Empty country"
+msgstr "ประเทศที่ว่างเปล่า"
+
+
+msgid "Empty address"
+msgstr "ที่อยู่ว่างเปล่า"
+
+
+msgid "Empty city"
+msgstr "เมืองที่ว่างเปล่า"
+
+
+msgid "Empty county"
+msgstr "เขตที่ว่างเปล่า"
+
+
+msgid "Empty postcode"
+msgstr "รหัสไปรษณีย์ว่างเปล่า"
+
+
+msgid "Empty phone"
+msgstr "โทรศัพท์เปล่า"
+
+
+msgid "Empty email"
+msgstr "อีเมลเปล่า"
+
+
+msgid "Email or username empty!"
+msgstr "อีเมลหรือชื่อผู้ใช้ว่างเปล่า!"
+
+
+msgid "Pass empty!"
+msgstr "ผ่านเปล่า!"
+
+
+msgid "Username incorrect!"
+msgstr "ชื่อผู้ใช้ไม่ถูกต้อง!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "รูปแบบการผ่านไม่ถูกต้อง!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "โปรดเปิดใช้งานบัญชีของคุณโดยไปที่ลิงก์ที่ส่งไปยังที่อยู่อีเมลของคุณ"
+
+
+msgid "Resend activation link"
+msgstr "ส่งลิงค์เปิดใช้งานอีกครั้ง"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "เพื่อเข้าถึงส่วนนี้ คุณต้องเปิดใช้งานบัญชีของคุณ"
+
+
+msgid "Email empty!"
+msgstr "อีเมลว่างเปล่า!"
+
+
+msgid "Username empty!"
+msgstr "ชื่อผู้ใช้ว่างเปล่า!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "รูปแบบการผ่านไม่ถูกต้อง!"
+
+
+msgid "Retyped pass empty!"
+msgstr "พิมพ์ซ้ำผ่านว่างเปล่า!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "พิมพ์ซ้ำผ่านตรง!"
+
+
+msgid "User already exists!"
+msgstr "มีผู้ใช้นี้อยู่แล้ว!"
+
+
+msgid "Email already exists!"
+msgstr "มีอีเมลอยู่แล้ว!"
+
+
+msgid "Your account could not be created."
+msgstr "ไม่สามารถสร้างบัญชีของคุณได้"
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "โปรดตรวจสอบอีเมลของคุณ (กล่องจดหมายหรือโฟลเดอร์สแปม) เพื่อตรวจสอบบัญชีของคุณ"
+
+
+msgid "User empty!"
+msgstr "ผู้ใช้ว่างเปล่า!"
+
+
+msgid "User does not exists!"
+msgstr "ผู้ใช้ไม่มีอยู่!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "ลิงค์เปิดใช้งานใหม่ถูกสร้างขึ้น โปรดตรวจสอบอีเมลของคุณ (กล่องจดหมายหรือโฟลเดอร์สแปม) เพื่อตรวจสอบบัญชีของคุณ"
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "การตรวจสอบ captcha ล้มเหลว!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "คะแนนผู้ใช้ captcha ล้มเหลว กรุณาติดต่อเรา!"
+
+
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+
+msgid "Here are the results for the search:"
+msgstr "นี่คือผลลัพธ์สำหรับการค้นหา:"
+
+
+msgid "Price"
+msgstr "ราคา"
+
+
+msgid "EXCLUSIVE"
+msgstr "พิเศษ"
+
+
+msgid "Tel:"
+msgstr "โทร:"
+
+
+msgid "Share"
+msgstr "แบ่งปัน"
+
+
+msgid "Print"
+msgstr "พิมพ์"
+
+
+msgid "At"
+msgstr "ที่"
+
+
+msgid "Comments are closed."
+msgstr "ความคิดเห็นถูกปิด"
+
+
+msgid "My account"
+msgstr "บัญชีของฉัน"
+
+
+msgid "Payment method"
+msgstr "วิธีการชำระเงิน"
+

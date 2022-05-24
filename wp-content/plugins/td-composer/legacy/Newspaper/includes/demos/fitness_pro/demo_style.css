@@ -1,0 +1,75 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Fitness Pro Demo
+*/
+.td-fitness-pro .td-flex-hero .entry-thumb {
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.25);
+}
+.td-fitness-pro .td-flex-footer .entry-thumb {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.td-fitness-pro .td-flex-articles .td-module-container,
+.td-fitness-pro .td-mega-menu-articles .td-module-container,
+.td-fitness-pro .td-flex-articles .td-module-meta-info,
+.td-fitness-pro .td-mega-menu-articles .td-module-meta-info {
+  border-radius: 0 0 6px 6px;
+}
+.td-fitness-pro .td-flex-articles .td-next-prev-wrap,
+.td-fitness-pro .td-mega-menu-articles .td-next-prev-wrap {
+  text-align: center;
+}
+.td-fitness-pro .td-flex-articles .td-next-prev-wrap a,
+.td-fitness-pro .td-mega-menu-articles .td-next-prev-wrap a {
+  margin: 7px;
+}
+.td-fitness-pro .td-flex-boxes .td-module-container,
+.td-fitness-pro .td-flex-boxes .td-module-thumb a:after {
+  border-radius: 0 0 6px 6px;
+}
+.td-fitness-pro .td-flex-boxes .td-next-prev-wrap {
+  text-align: center;
+}
+.td-fitness-pro .td-home-categories {
+  border-radius: 7px;
+}
+.td-fitness-pro .td-home-categories .tdm-image-wrap {
+  border-radius: 7px;
+}
+.td-fitness-pro .td-cat-grid {
+  border-radius: 8px;
+}
+.td-fitness-pro .td-cat-grid .td-image-wrap,
+.td-fitness-pro .td-cat-grid .entry-thumb {
+  border-radius: 8px;
+}
+.td-fitness-pro .td-sibling-shadow .tdb-sibling-cat-bg {
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.16);
+}
+.td-fitness-pro .td-cat-shadow .tdb-cat-bg {
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.16);
+}
+.td-fitness-pro .td-fitness-author-box .td-element-style {
+  border-radius: 8px;
+}
+.td-fitness-pro .td-modal-image img {
+  border-radius: 8px;
+}
+.td-fitness-pro .td-loop-articles .td-module-container,
+.td-fitness-pro .td-loop-articles .td-module-meta-info {
+  border-radius: 0 0 6px 6px;
+}
+.td-fitness-pro .td-author-image .tdb-author-img {
+  border-radius: 8px;
+}
+.td-fitness-pro .td-404-border .td_single_image_bg,
+.td-fitness-pro .td-404-border .td_single_image_bg:after {
+  border-radius: 8px;
+}
+.td-fitness-pro #td-theme-settings .td-skin-buy a {
+  background-color: #ce9079;
+}

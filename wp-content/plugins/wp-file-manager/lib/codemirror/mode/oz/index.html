@@ -1,0 +1,68 @@
+<title>CodeMirror: Oz mode</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/docs.css">
+
+<link rel="stylesheet" href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.css">
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/lib/codemirror.js"></script>
+<script src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/oz/oz.js"></script>
+<script type="text/javascript" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/addon/runmode/runmode.js"></script>
+<style>.CodeMirror {border: 1px solid #aaa;}</style>
+
+
+<div id="nav">
+  <a href="http://codemirror.net/"><h1>CodeMirror</h1>
+<img id="logo" src="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/logo.png"></a>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/index.html">Home</a>
+    </li>
+<li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/doc/manual.html">Manual</a>
+    </li>
+<li>
+<a href="https://github.com/codemirror/codemirror">Code</a>
+  </li>
+</ul>
+  <ul>
+    <li>
+<a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/wp-file-manager/lib/codemirror/mode/index.html">Language modes</a>
+    </li>
+<li>
+<a class="active" href="#">Oz</a>
+  </li>
+</ul>
+</div>
+
+<article>
+<h2>Oz mode</h2>
+<textarea id="code" name="code">
+declare
+fun {Ints N Max}
+  if N == Max then nil
+  else
+    {Delay 1000}
+    N|{Ints N+1 Max}
+  end
+end
+
+fun {Sum S Stream}
+  case Stream of nil then S
+  [] H|T then S|{Sum H+S T} end
+end
+
+local X Y in
+  thread X = {Ints 0 1000} end
+  thread Y = {Sum 0 X} end
+  {Browse Y}
+end
+</textarea>
+<p>MIME type defined: <code>text/x-oz</code>.</p>
+
+<script type="text/javascript">
+var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+    lineNumbers: true,
+    mode: "text/x-oz",
+    readOnly: false
+});
+</script>
+</article>

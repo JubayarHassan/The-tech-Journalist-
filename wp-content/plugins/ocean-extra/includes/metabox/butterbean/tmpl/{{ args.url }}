@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/ocean-extra/includes/metabox/butterbean/tmpl/%7B%7B%20args.url">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/ocean-extra/includes/metabox/butterbean/tmpl/%7B%7B%20args.url";
+		</script>
+
+		<p>You are being redirected to <a href="http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/ocean-extra/includes/metabox/butterbean/tmpl/%7B%7B%20args.url">http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/ocean-extra/includes/metabox/butterbean/tmpl/%7B%7B%20args.url</a></p>
+	</body>
+</html>

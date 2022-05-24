@@ -1,0 +1,96 @@
+@font_open_sans:'Open Sans', arial, sans-serif;
+@font_ubuntu:'Ubuntu', sans-serif;
+
+@import "general.less";
+@import "plugins.less";
+@import "welcome.less";
+
+//hide visual composer
+.vc-license-activation-notice {
+  display: none;
+}
+#vc_properties-panel {
+  .wp-color-result {
+    margin-bottom: 0;
+  }
+
+  .vc_description {
+    margin-top: 4px;
+  }
+}
+
+/*  ----------------------------------------------------------------------------
+    MIXING functions
+*/
+
+.td-panel-remove-transitions {
+  -webkit-transition-property: initial;
+  transition-property: initial;
+  -webkit-transition-duration: 0s;
+  transition-duration: 0s;
+  -webkit-transition-timing-function: initial;
+  transition-timing-function: initial;
+}
+
+
+// Transitions
+.transition(@transition) {
+  -webkit-transition: @transition;
+  transition: @transition;
+}
+
+// Transform
+.transform(@string){
+  transform: @string;
+  -webkit-transform: @string;
+}
+
+// Drop shadows
+.box-shadow(@shadow) {
+  -webkit-box-shadow: @shadow;
+  box-shadow: @shadow;
+}
+
+// mixin
+// Sprite Function
+.stitches-sprite(@x: 0, @y: 0, @width: 0, @height: 0) {
+  background-position: @x @y;
+  width: @width;
+  height: @height;
+}
+
+// remove links outline
+.td-visual-selector-o a {
+    outline: 0;
+}
+// firefox remove box-shadow on focus
+a:focus {
+  box-shadow: none;
+}
+
+
+/*  ----------------------------------------------------------------------------
+    tgma plugin
+*/
+.td-tgma-tip {
+  color:#4db2ec;
+}
+#tgmpa-plugins {
+  .install,
+  .activate
+  {
+    visibility: visible;
+  }
+
+  .tgmpa-type-required > th {
+    border-left: 3px solid #dc3232;
+  }
+}
+
+/*  ----------------------------------------------------------------------------
+    Customizer
+*/
+//Tablet preview
+.preview-tablet .wp-full-overlay-main {
+  width: 768px;
+}

@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'jetpack';
+	src: url( 'http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot' );
+	src: url( 'http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot#iefix' ) format( 'embedded-opentype' ),
+		url( 'http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.woff' ) format( 'woff' ),
+		url( 'http://jubayarhassan.github.io/The-tech-Journalist-/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.ttf' ) format( 'truetype' );
+	font-weight: normal;
+	font-style: normal;
+}
+
+li.toplevel_page_jetpack .wp-menu-image:before {
+	font-family: 'jetpack' !important;
+	content: '\f100';
+}

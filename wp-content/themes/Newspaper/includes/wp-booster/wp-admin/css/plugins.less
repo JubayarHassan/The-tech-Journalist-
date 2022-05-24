@@ -1,0 +1,428 @@
+/*  ----------------------------------------------------------------------------
+    plugins list
+*/
+.td-admin-plugins {
+  .td-admin-columns {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+
+  // remove the border introduced in WP4.7
+  .td-demo-thumb {
+    border: none;
+  }
+
+  max-width: none;
+
+  .about-text {
+    max-width: 1050px;
+  }
+}
+.td-wp-admin-plugin {
+  max-width: 220px;
+  display: inline-block;
+  padding: 0 10px 22px;
+
+  &:hover {
+    .td-plugin-image {
+      .box-shadow(0 0 21px 0 rgba(0, 0, 0, 0.12))
+    }
+  }
+}
+
+.td-plugin-image {
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  position: relative;
+  border-radius: 4px;
+  height: 277px;
+  background-color: #fff;
+  .transition(box-shadow 0.3s ease)
+}
+
+
+.td-plugin-meta {
+  font-size: 11px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Open Sans', arial, sans-serif;
+
+  .theme-name {
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 10px 0;
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  p {
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    display: block;
+    margin: 6px 10px;
+    color: #999;
+    height: 61px;
+    overflow: hidden;
+
+    a {
+      display: inline-block;
+      margin: 6px 6px 0;
+    }
+
+    strong {
+      color: #888;
+    }
+
+    &.td-plugin-notice {
+      font-size: 12px;
+      color: red;
+      opacity: 0.65;
+      height: auto;
+    }
+
+  }
+
+  .td-plugin-buttons {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .td-plugin-button {
+    color: #888;
+    line-height: 1;
+    text-decoration: none;
+    padding: 8px 15px 7px;
+    display: block;
+    position: relative;
+    margin: 0 auto 15px;
+    text-transform: uppercase;
+    font-size: 10px;
+    opacity: 0.8;
+
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-radius: 50px;
+      border: 1px solid #888;
+      width: 100%;
+      height: 100%;
+      opacity: 0.4;
+      z-index: -1;
+      .transition(all 0.3s ease);
+    }
+
+    &:hover {
+      &:before {
+        opacity: 0.6;
+      }
+    }
+  }
+}
+
+/*  ----------------------------------------------------------------------------
+    buttons
+*/
+.td-wp-admin-plugin {
+  .td-button-install-plugin {
+    display: none;
+    color: #fff;
+
+    &:before {
+      border-color: #0085ba;
+      background-color: #0085ba;
+      opacity: 0.85;
+    }
+
+    &:hover {
+      &:before {
+        opacity: 1;
+        box-shadow: 0 2px 8px 0 rgba(0, 133, 186, 0.6);
+      }
+    }
+  }
+
+  .td-button-update-plugin {
+    display: none;
+    color: #fff;
+
+    &:before {
+      border-color: #0085ba;
+      background-color: #0085ba;
+      opacity: 0.85;
+    }
+
+    &:hover {
+      &:before {
+        opacity: 1;
+        box-shadow: 0 2px 8px 0 rgba(0, 133, 186, 0.6);
+      }
+    }
+  }
+
+  .td-plugin-version {
+    right: 8px;
+    top: 8px;
+    height: auto;
+    border-radius: 3px;
+    padding: 0 6px;
+    font-size: 8px;
+    line-height: 16px;
+  }
+
+  .td-button-uninstall-plugin {
+    display: none;
+  }
+
+  .td-button-activate-plugin {
+    display: none;
+    color: #fff;
+
+    &:before {
+      border-color: #40a200;
+      background-color: #40a200;
+      opacity: 0.85;
+    }
+
+    &:hover {
+      &:before {
+        opacity: 1;
+        box-shadow: 0 2px 8px 0 rgba(64, 162, 0, 0.6);
+      }
+    }
+  }
+}
+
+.td-plugin-active {
+  .td-button-uninstall-plugin {
+    display: inline-block;
+  }
+
+  .td-plugin-image {
+    box-shadow: 3px 3px 10px 0 rgba(0, 0, 0, .08);
+    border-top: 2px solid #69bd32;
+  }
+}
+
+.td-plugin-inactive {
+  .td-button-activate-plugin {
+    display: inline-block;
+  }
+}
+
+.td-plugin-not-installed {
+  .td-button-install-plugin {
+    display: inline-block;
+  }
+}
+
+.td-plugin-update {
+  .td-button-update-plugin {
+    display: inline-block;
+  }
+  .td-button-update-plugin {
+    margin-right: 5px;
+  }
+  .td-button-uninstall-plugin {
+    padding-left: 8px;
+    padding-right: 8px;
+
+    &:before {
+      display: none;
+    }
+  }
+}
+
+.td-plugin-no-install {
+  .theme-actions {
+    display:none;
+  }
+}
+
+
+/*  ----------------------------------------------------------------------------
+    supported plugin list
+*/
+.td-supported-plugin-list {
+  max-width: 800px;
+  margin-top: 30px;
+}
+.td-supported-plugin {
+  padding-bottom: 5px;
+  margin-top: 5px;
+  border-bottom: 1px solid #e9e9e9;
+  position: relative;
+
+  p {
+    margin: 0;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
+  span {
+    position: absolute;
+    left: 210px;
+    top: 0;
+    font-size: 12px;
+    line-height: 1.4;
+    color: #797979;
+  }
+}
+
+/*  ----------------------------------------------------------------------------
+    wp-admin/plugins.php list
+*/
+
+.td-amp-plugin-warning {
+  .transform(translateY(-1px));
+
+  .notice-warning {
+    padding: 10px 12px;
+  }
+}
+
+/* welcome panel > install plugins  */
+.td-wp-admin-welcome-plugin {
+  padding: 0 !important;
+
+  .td-plugin-image {
+    display: inline-block;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    position: relative;
+    height: auto !important;
+    max-width: 130px !important;
+    background-color: #fff;
+    .transition(box-shadow 0.3s ease)
+  }
+
+  .td-plugin-meta {
+    display: inline-block;
+    width: auto !important;
+  }
+
+  &:hover {
+    .td-plugin-image {
+      .box-shadow(0 0 21px 0 rgba(0, 0, 0, 0.12))
+    }
+  }
+}
+
+.td-admin-setup-plugins {
+  position: relative;
+
+  form {
+    display: flex;
+    margin: 0 auto 30px;
+    max-width: 680px;
+    flex-direction: column;
+    align-items: center;
+
+    .theme-plugins-setup {
+      margin: 13px auto 0;
+      padding-left: 30px;
+
+      li {
+        display: flex;
+        align-items: center;
+        position: relative;
+        font-weight: bold;
+        margin-bottom: 3px;
+
+        .spinner {
+          margin-right: 0;
+        }
+      }
+    }
+
+    .td-button-install-wrap {
+      margin: 0 auto;
+    }
+
+    .themes-plugin-txt,
+    .themes-plugin-status {
+      width: 140px;
+      font-size: 12px;
+      font-weight: 700;
+      text-align: left;
+    }
+
+    .themes-plugin-status {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      position: relative;
+      font-style: italic;
+      color: #0489fc;
+    }
+  }
+
+  .theme-plugins-installed {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+
+    img {
+      width: auto;
+      margin-bottom: 10px;
+    }
+  }
+
+  .theme-plugins-error-msg {
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #f00;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &.td-installing-plugins {
+    background-color: #fff;
+    opacity: 0.6;
+    cursor: wait;
+
+    .td-button-install-plugins {
+      pointer-events: none;
+      cursor: inherit;
+    }
+  }
+  &.td-installed-plugins {
+    form {
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.4s ease-in-out;
+    }
+
+    .theme-plugins-installed {
+      visibility: visible;
+      opacity: 1;
+      transition: opacity 0.4s ease-in-out;
+    }
+  }
+
+  .td-button-install-plugins {
+    &[disabled] {
+      pointer-events: none;
+      cursor: inherit;
+    }
+  }
+}

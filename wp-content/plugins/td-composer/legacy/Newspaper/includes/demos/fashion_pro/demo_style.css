@@ -1,0 +1,67 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Fashion Pro Demo
+*/
+.td-fashion-pro {
+  /*
+  Caption CSS
+  */
+}
+.td-fashion-pro .td-background-blend .td_module_wrap .entry-thumb {
+  transition: background-color 0.3s ease;
+}
+.td-fashion-pro .td-background-blend .td_module_wrap:hover .entry-thumb {
+  background-color: #bd00ff;
+  background-blend-mode: overlay;
+}
+.td-fashion-pro .tdb-aj-search .result-msg {
+  border: 2px solid black;
+}
+.td-fashion-pro .wp-caption {
+  position: relative;
+  margin-bottom: 26px;
+}
+.td-fashion-pro .wp-caption .wp-caption-text {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -180px;
+  text-align: left;
+  width: 250px;
+  padding: 20px;
+  background-color: #fff;
+  border-left: solid 10px rgba(189, 0, 255, 0.56);
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-fashion-pro .wp-caption .wp-caption-text {
+    left: -140px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-fashion-pro .wp-caption .wp-caption-text {
+    left: -70px;
+  }
+}
+@media (max-width: 767px) {
+  .td-fashion-pro .wp-caption .wp-caption-text {
+    top: auto;
+    bottom: -16px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+  }
+}
+.td-fashion-pro .tdb_loop .td-next-prev-wrap {
+  text-align: center;
+}
+.td-fashion-pro .tdb_header_mega_menu .td-next-prev-wrap {
+  text-align: center;
+}
+.td-fashion-pro #td-theme-settings .td-skin-buy a {
+  background-color: #9f1fcc;
+}

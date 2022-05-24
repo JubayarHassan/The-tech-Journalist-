@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+
+
+msgid "View all results"
+msgstr "Προβολή όλων των αποτελεσμάτων"
+
+
+msgid "No results"
+msgstr "Κανένα αποτέλεσμα"
+
+
+msgid "Home"
+msgstr "Αρχική"
+
+
+msgid "CLOSE"
+msgstr "ΚΛΕΙΣΙΜΟ"
+
+
+msgid "Page"
+msgstr "Σελίδα"
+
+
+msgid "All"
+msgstr "Όλα"
+
+
+msgid "By"
+msgstr "Από"
+
+
+msgid "Load more"
+msgstr "Φόρτωση περισσοτέρων"
+
+
+msgid "View all posts in"
+msgstr "Προβολή"
+
+
+msgid "Tags"
+msgstr "Ετικέτες"
+
+
+msgid "Previous article"
+msgstr "Προηγούμενο άρθρο"
+
+
+msgid "Next article"
+msgstr "Επόμενο άρθρο"
+
+
+msgid "Authors"
+msgstr "Δημιουργοί"
+
+
+msgid "Author"
+msgstr "Δημιουργός"
+
+
+msgid "RELATED ARTICLES"
+msgstr "ΠΑΡΟΜΟΙΑ ΑΡΘΡΑ"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "ΠΕΡΙΣΣΟΤΕΡΑ ΑΠΟ ΤΟΝ ΔΗΜΙΟΥΡΓΟ"
+
+
+msgid "VIA"
+msgstr "ΜΕΣΩ"
+
+
+msgid "SOURCE"
+msgstr "ΠΗΓΗ"
+
+
+msgid "TAGS"
+msgstr "ΕΤΙΚΕΤΕΣ"
+
+
+msgid "SHARE"
+msgstr "ΚΟΙΝΟΠΟΙΗΣΗ"
+
+
+msgid "Continue"
+msgstr "Συνέχεια"
+
+
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+
+msgid "Name:"
+msgstr "Όνομα:"
+
+
+msgid "Email:"
+msgstr "Email:"
+
+
+msgid "Website:"
+msgstr "Ιστοσελίδα:"
+
+
+msgid "Comment:"
+msgstr "Σχόλιο:"
+
+
+msgid "LEAVE A REPLY"
+msgstr "ΑΦΗΣΤΕ ΜΙΑ ΑΠΑΝΤΗΣΗ"
+
+
+msgid "Post Comment"
+msgstr "Δημοσίευση σχολίου"
+
+
+msgid "Cancel reply"
+msgstr "Ακύρωση απάντησης"
+
+
+msgid "Reply"
+msgstr "Απάντηση"
+
+
+msgid "Log in to leave a comment"
+msgstr "Συνδεθείτε για να αφήσετε ένα σχόλιο"
+
+
+msgid "NO COMMENTS"
+msgstr "ΚΑΝΕΝΑ ΣΧΟΛΙΟ"
+
+
+msgid "1 COMMENT"
+msgstr "1 ΣΧΟΛΙΟ"
+
+
+msgid "COMMENTS"
+msgstr "ΣΧΟΛΙΑ"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "ΣΥΝΟΨΗ ΚΡΙΤΙΚΗΣ"
+
+
+msgid "SUMMARY"
+msgstr "ΠΕΡΙΛΗΨΗ"
+
+
+msgid "OVERALL SCORE"
+msgstr "ΣΥΝΟΛΙΚΗ ΒΑΘΜΟΛΟΓΙΑ"
+
+
+msgid "Ooops... Error 404"
+msgstr "Ουπς... Σφάλμα 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "Συγνώμη, αλλά η σελίδα που ψάχνετε δεν υπάρχει."
+
+
+msgid "You can go to the"
+msgstr "Μπορείτε να πάτε στην"
+
+
+msgid "HOMEPAGE"
+msgstr "ΑΡΧΙΚΗ ΣΕΛΙΔΑ"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "ΟΙ ΤΕΛΕΥΤΑΙΕΣ ΜΑΣ ΔΗΜΟΣΙΕΥΣΕΙΣ"
+
+
+msgid "Posts by"
+msgstr "Δημοσιεύσεις από"
+
+
+msgid "POSTS"
+msgstr "ΔΗΜΟΣΙΕΥΣΕΙΣ"
+
+
+msgid "Posts tagged with"
+msgstr "Δημοσιεύσεις με ετικέτες"
+
+
+msgid "Tag"
+msgstr "Ετικέτα"
+
+
+msgid "Daily Archives:"
+msgstr "Ημερήσιο Αρχείο:"
+
+
+msgid "Monthly Archives:"
+msgstr "Μηνιαίο Αρχείο:"
+
+
+msgid "Yearly Archives:"
+msgstr "Ετήσιο Αρχείο:"
+
+
+msgid "Archives"
+msgstr "Αρχείο"
+
+
+msgid "LATEST ARTICLES"
+msgstr "ΤΕΛΕΥΤΑΙΑ ΑΡΘΡΑ"
+
+
+msgid "search results"
+msgstr "αποτελέσματα αναζήτησης"
+
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "Αν δεν είστε ευχαριστημένοι με τα αποτελέσματα, παρακαλούμε πραγματοποιήστε μια άλλη αναζήτηση"
+
+
+msgid "Contact us"
+msgstr "Επικοινωνία"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Σελίδα %CURRENT_PAGE% από %TOTAL_PAGES%"
+
+
+msgid "Next"
+msgstr "Επόμενο"
+
+
+msgid "Prev"
+msgstr "Προηγούμενο"
+
+
+msgid "No results for your search"
+msgstr "Κανένα αποτέλεσμα για την αναζήτησή σας"
+
+
+msgid "No posts to display"
+msgstr "Καμία δημοσίευση για προβολή"
+
+
+msgid "LOG IN"
+msgstr "ΣΥΝΔΕΣΗ"
+
+
+msgid "Sign in / Join"
+msgstr "Σύνδεση / Εγγραφή"
+
+
+msgid "Log In"
+msgstr "Σύνδεση"
+
+
+msgid "REGISTER"
+msgstr "ΕΓΓΡΑΦΗ"
+
+
+msgid "Send My Pass"
+msgstr "Στείλε τον κωδικό μου"
+
+
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+
+msgid "Please wait..."
+msgstr "Παρακαλούμε περιμένετε..."
+
+
+msgid "User or password incorrect!"
+msgstr "Χρήστης ή κωδικός λανθασμένος!"
+
+
+msgid "Email or username incorrect!"
+msgstr "Email ή όνομα χρήστη λανθασμένο!"
+
+
+msgid "Email incorrect!"
+msgstr "Email λανθασμένο!"
+
+
+msgid "User or email already exists!"
+msgstr "Ο χρήστης ή το email υπάρχει ήδη!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "Παρακαλούμε ελέγξτε το email σας (φάκελος εισερχομένων ή spam), ο κωδικός πρόσβασης στάλθηκε εκεί."
+
+
+msgid "Email address not found!"
+msgstr "Η διεύθυνση email δεν βρέθηκε!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "Ο κωδικός σας επαναφέρθηκε, ελέγξτε το email σας."
+
+
+msgid "Welcome! Log into your account"
+msgstr "Καλωσήρθατε! Συνδεθείτε στον λογαριασμό σας"
+
+
+msgid "Register for an account"
+msgstr "Εγγραφείτε για έναν λογαριασμό"
+
+
+msgid "Recover your password"
+msgstr "Ανακτήστε τον κωδικό σας"
+
+
+msgid "your username"
+msgstr "το όνομα χρήστη σας"
+
+
+msgid "your password"
+msgstr "ο κωδικός πρόσβασης σας"
+
+
+msgid "your email"
+msgstr "το email σας"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "Ένας κωδικός πρόσβασης θα σταλθεί με e-mail σε εσάς."
+
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+
+msgid "Like"
+msgstr "Κάντε Like"
+
+
+msgid "Fans"
+msgstr "Υποστηρικτές"
+
+
+msgid "Follow"
+msgstr "Ακολουθήστε"
+
+
+msgid "Followers"
+msgstr "Ακόλουθοι"
+
+
+msgid "Subscribe"
+msgstr "Γίνετε συνδρομητής"
+
+
+msgid "Subscribers"
+msgstr "Συνδρομητές"
+
+
+msgid "MORE STORIES"
+msgstr "ΠΕΡΙΣΣΟΤΕΡΑ ΘΕΜΑΤΑ"
+
+
+msgid "Latest"
+msgstr "Τελευταία"
+
+
+msgid "Featured posts"
+msgstr "Προτεινόμενες δημοσιεύσεις"
+
+
+msgid "Most popular"
+msgstr "Τα πιο δημοφιλή"
+
+
+msgid "7 days popular"
+msgstr "Δημοφιλή 7 ημερών"
+
+
+msgid "By review score"
+msgstr "Κατά βαθμολογία κριτικής"
+
+
+msgid "Random"
+msgstr "Τυχαίο"
+
+
+msgid "Trending Now"
+msgstr "Οι Τάσεις Τώρα"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "ΔΗΜΟΦΙΛΗ ΚΑΤΗΓΟΡΙΑ"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "ΑΚΟΜΑ ΠΕΡΙΣΣΟΤΕΡΑ ΝΕΑ"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "Προηγούμενο (Κουμπί αριστερού βέλους)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "Επόμενο (Κουμπί δεξιού βέλους)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr% από %total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "Το περιεχόμενο από %url% δεν ήταν δυνατό να φορτωθεί."
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "Η εικόνα #%curr% δεν ήταν δυνατό να φορτωθεί."
+
+
+msgid "Blog"
+msgstr "Blog"
+
+
+msgid "Share on Facebook"
+msgstr "Κοινοποίηση στο Facebook"
+
+
+msgid "Tweet on Twitter"
+msgstr "Κάντε Tweet στο Twitter"
+
+
+msgid "EDITOR PICKS"
+msgstr "ΕΠΙΛΟΓΈΣ ΣΥΝΤΆΚΤΗ"
+
+
+msgid "POPULAR POSTS"
+msgstr "ΔΗΜΟΦΙΛΗ ΑΡΘΡΑ"
+
+
+msgid "FOLLOW US"
+msgstr "ΑΚΟΛΟΥΘΗΣΕ ΜΑΣ"
+
+
+msgid "ABOUT US"
+msgstr "ΣΧΕΤΙΚΆ ΜΕ ΕΜΆΣ"
+
+
+msgid "More"
+msgstr "περισσότερο"
+
+
+msgid "Featured"
+msgstr "Προτεινόμενο"
+
+
+msgid "All time popular"
+msgstr "όλων των εποχών δημοφιλή"
+
+
+msgid "Likes"
+msgstr "όμοιούς"
+
+
+msgid "Register"
+msgstr "μητρώο"
+
+
+msgid "of"
+msgstr "του"
+
+
+msgid "Euro Member Countries"
+msgstr "χωρών μελών του ευρώ"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "Το σχόλιό σας αναμένει εποπτεία"
+
+
+msgid "Follow us on Instagram"
+msgstr "ακολουθήστε μας στο Instagram"
+
+
+msgid "Back"
+msgstr "πίσω"
+
+
+msgid "Sign in"
+msgstr "συνδεθείτε"
+
+
+msgid "Sign up"
+msgstr "εγγραφή"
+
+
+msgid "Join"
+msgstr "Συμμετοχή"
+
+
+msgid "Welcome!"
+msgstr "καλωσόρισμα!"
+
+
+msgid "Log into your account"
+msgstr "Συνδεθείτε στο λογαριασμό σας"
+
+
+msgid "Password recovery"
+msgstr "ΑΝΑΚΤΗΣΗ ΚΩΔΙΚΟΥ"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "παρακαλούμε να ελέγξετε το email σας (δείκτη ή του φακέλου spam), ο κωδικός εστάλη εκεί."
+
+
+msgid "Australian Dollar"
+msgstr "δολάριο Αυστραλίας"
+
+
+msgid "Bulgarian Lev"
+msgstr "λέβα βουλγαρίας"
+
+
+msgid "Brazilian Real"
+msgstr "Ρεάλ Βραζιλίας"
+
+
+msgid "Canadian Dollar"
+msgstr "καναδικό δολάριο"
+
+
+msgid "Swiss Franc"
+msgstr "ελβετικό φράγκο"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "κινέζικο γιουάν γιουάν"
+
+
+msgid "Czech Republic Koruna"
+msgstr "κορώνας Τσεχίας Δημοκρατία"
+
+
+msgid "Danish Krone"
+msgstr "δανική κορώνα"
+
+
+msgid "British Pound"
+msgstr "Λίρα Αγγλίας"
+
+
+msgid "Hong Kong Dollar"
+msgstr "δολάριο Χονγκ Κονγκ"
+
+
+msgid "Croatian Kuna"
+msgstr "κροατικό κούνα"
+
+
+msgid "Hungarian Forint"
+msgstr "ουγγρικό φιορίνι"
+
+
+msgid "Indonesian Rupiah"
+msgstr "ινδονησιακή ρουπία"
+
+
+msgid "Israeli Shekel"
+msgstr "σέκελ Ισραήλ"
+
+
+msgid "Indian Rupee"
+msgstr "ινδική ρουπία"
+
+
+msgid "Japanese Yen"
+msgstr "γιεν Ιαπωνίας"
+
+
+msgid "Korean (South) Won"
+msgstr "κορεάτικα (νότια) γουόν"
+
+
+msgid "Mexican Peso"
+msgstr "πέσο Μεξικού"
+
+
+msgid "Malaysian Ringgit"
+msgstr "Μαλαισίας ρίνγκιτ"
+
+
+msgid "Norwegian Krone"
+msgstr "νορβηγική κορόνα"
+
+
+msgid "New Zealand Dollar"
+msgstr "Δολάριο Νέας Ζηλανδίας"
+
+
+msgid "Philippine Peso"
+msgstr "Φιλιππίνων πέσο"
+
+
+msgid "Polish Zloty"
+msgstr "ζλότυ Πολωνίας"
+
+
+msgid "Romanian (New) Leu"
+msgstr "Ρουμανικά (νέα) leu"
+
+
+msgid "Russian Ruble"
+msgstr "ρωσικό ρούβλι"
+
+
+msgid "Swedish Krona"
+msgstr "σουηδική κορώνα"
+
+
+msgid "Singapore Dollar"
+msgstr "δολάριο Σιγκαπούρης"
+
+
+msgid "Thai Baht"
+msgstr "ταϊλανδικό μπατ"
+
+
+msgid "Turkish Lira"
+msgstr "τουρκική λίρα"
+
+
+msgid "United States Dollar"
+msgstr "Δολάριο ΗΠΑ"
+
+
+msgid "South African Rand"
+msgstr "Ραντ Νότιας Αφρικής"
+
+
+msgid "Privacy Policy"
+msgstr "πολιτική απορρήτου"
+
+
+msgid "views"
+msgstr "προβολές"
+
+
+msgid "Modified date:"
+msgstr "τροποποιημένη ημερομηνία:"
+
+
+msgid "Please enter your name here"
+msgstr "παρακαλώ εισάγετε το όνομά σας εδώ"
+
+
+msgid "Please enter your email address here"
+msgstr "παρακαλώ εισάγετε εδώ την ηλεκτρονική σας διεύθυνση"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "έχετε εισάγει εσφαλμένη διεύθυνση ηλεκτρονικού ταχυδρομείου!"
+
+
+msgid "Please enter your comment!"
+msgstr "εισάγετε το σχόλιό σας!"
+
+
+msgid "Logged in as"
+msgstr "Συνδεδεμένος ως"
+
+
+msgid "Log out?"
+msgstr "Αποσυνδέση?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "συνδεθήκατε ως% s. επεξεργασία του προφίλ σας."
+
+
+msgid "Edit"
+msgstr "επεξεργασία"
+
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+
+msgid "Send My Password"
+msgstr "στείλτε τον κωδικό μου"
+
+
+msgid "Create an account"
+msgstr "δημιουργία λογαριασμού"
+
+
+msgid "Welcome! Register for an account"
+msgstr "καλως ΗΡΘΑΤΕ! εγγραφείτε για λογαριασμό"
+
+
+msgid "About me"
+msgstr "σχετικά με μένα"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "αποθηκεύστε το όνομα, το ηλεκτρονικό ταχυδρομείο και τον ιστότοπό μου σε αυτό το πρόγραμμα περιήγησης για την επόμενη φορά που θα σχολιάσω."
+
+
+msgid "Orders"
+msgstr "παραγγελίες"
+
+
+msgid "Addresses"
+msgstr "διευθύνσεις"
+
+
+msgid "Account settings"
+msgstr "ρυθμίσεις λογαριασμού"
+
+
+msgid "Hello"
+msgstr "γεια σας"
+
+
+msgid "No products in the cart."
+msgstr "Δεν υπάρχουν προϊόντα στο καλάθι."
+
+
+msgid "Product categories"
+msgstr "κατηγορίες προϊόντων"
+
+
+msgid "Product tags"
+msgstr "ετικέτες προϊόντων"
+
+
+msgid "Success"
+msgstr "επιτυχία"
+
+
+msgid "Acknowledgment is required!"
+msgstr "απαιτείται αναγνώριση!"
+
+
+msgid "Please fill in a valid email."
+msgstr "συμπληρώστε ένα έγκυρο email."
+
+
+msgid "Please fill in an email address."
+msgstr "συμπληρώστε μια διεύθυνση email."
+
+
+msgid "Get into your account."
+msgstr "μπείτε στον λογαριασμό σας."
+
+
+msgid "My subscription account"
+msgstr "τον λογαριασμό συνδρομής μου"
+
+
+msgid "Account details"
+msgstr "λεπτομέρειες λογαριασμού"
+
+
+msgid "Subscriptions"
+msgstr "συνδρομές"
+
+
+msgid "My woo account"
+msgstr "ο λογαριασμός μου στο woo"
+
+
+msgid "Log out"
+msgstr "Αποσύνδεση"
+
+
+msgid "Email address"
+msgstr "διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+
+msgid "Username"
+msgstr "όνομα χρήστη"
+
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "πρέπει να περιέχει τουλάχιστον ένα πεζό (a..z)"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "πρέπει να περιέχει τουλάχιστον ένα κεφαλαίο (a..z)"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "πρέπει να περιέχει τουλάχιστον 6 χαρακτήρες σε μήκος"
+
+
+msgid "Repeat password"
+msgstr "επανάληψη κωδικού πρόσβασης"
+
+
+msgid "Already have an account?"
+msgstr "Έχετε ήδη λογαριασμό?"
+
+
+msgid "Recover password"
+msgstr "ανάκτηση κωδικού πρόσβασης"
+
+
+msgid "Username or Email address"
+msgstr "Όνομα χρήστη ή διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό?"
+
+
+msgid "Don't have an account?"
+msgstr "δεν έχεις λογαριασμό;"
+
+
+msgid "Dashboard"
+msgstr "ταμπλό"
+
+
+msgid "Welcome to your account!"
+msgstr "καλώς ορίσατε στον λογαριασμό σας!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "γεια %1$s (όχι %2$s; %3$s)! από τον πίνακα ελέγχου του λογαριασμού σας μπορείτε να δείτε τις συνδρομές σας και να διαχειριστείτε τα στοιχεία του λογαριασμού σας."
+
+
+msgid "Lost Password"
+msgstr "χαμένος κωδικός"
+
+
+msgid "Manage your account details."
+msgstr "διαχειριστείτε τα στοιχεία του λογαριασμού σας."
+
+
+msgid "First name"
+msgstr "όνομα"
+
+
+msgid "Last name"
+msgstr "επίθετο"
+
+
+msgid "Display name"
+msgstr "εμφανιζόμενο όνομα"
+
+
+msgid "Current password"
+msgstr "τρέχον κωδικό πρόσβασης"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(αφήστε κενό για να αφήσετε αμετάβλητο)"
+
+
+msgid "New password"
+msgstr "Νέος Κωδικός"
+
+
+msgid "Confirm new password"
+msgstr "Επιβεβαιώστε τον καινούριο σας κωδικό"
+
+
+msgid "Save changes"
+msgstr "αποθήκευσε τις αλλαγές"
+
+
+msgid "All your subscriptions."
+msgstr "όλες τις συνδρομές σας."
+
+
+msgid "Plan"
+msgstr "σχέδιο"
+
+
+msgid "Payment type"
+msgstr "τρόπος πληρωμής"
+
+
+msgid "Status"
+msgstr "κατάσταση"
+
+
+msgid "Months"
+msgstr "μήνες"
+
+
+msgid "Start date"
+msgstr "ημερομηνία έναρξης"
+
+
+msgid "End date"
+msgstr "ημερομηνία λήξης"
+
+
+msgid "missing plan"
+msgstr "σχέδιο που λείπει"
+
+
+msgid "Free"
+msgstr "Ελεύθερος"
+
+
+msgid "Active"
+msgstr "ενεργός"
+
+
+msgid "Trial"
+msgstr "δίκη"
+
+
+msgid "Blocked"
+msgstr "μπλοκαριστεί"
+
+
+msgid "Closed"
+msgstr "κλειστό"
+
+
+msgid "Not paid"
+msgstr "απληρωτος"
+
+
+msgid "Awaiting payment"
+msgstr "Εν αναμονή πληρωμής"
+
+
+msgid "Subscription info"
+msgstr "πληροφορίες συνδρομής"
+
+
+msgid "ID"
+msgstr "ΤΑΥΤΌΤΗΤΑ"
+
+
+msgid "Name"
+msgstr "όνομα"
+
+
+msgid "Company name"
+msgstr "Όνομα εταιρείας"
+
+
+msgid "VAT"
+msgstr "ΔΕΞΑΜΕΝΉ"
+
+
+msgid "Address"
+msgstr "διεύθυνση"
+
+
+msgid "City"
+msgstr "πόλη"
+
+
+msgid "Country/State"
+msgstr "χώρα/κράτος"
+
+
+msgid "Email"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+
+
+msgid "Postal code"
+msgstr "Ταχυδρομικός Κώδικας"
+
+
+msgid "Direct bank transfer details"
+msgstr "στοιχεία απευθείας τραπεζικής μεταφοράς"
+
+
+msgid "Account name"
+msgstr "όνομα λογαριασμού"
+
+
+msgid "Account number"
+msgstr "αριθμός λογαριασμού"
+
+
+msgid "Bank name"
+msgstr "όνομα τράπεζας"
+
+
+msgid "Routing number"
+msgstr "αριθμός δρομολόγησης"
+
+
+msgid "IBAN"
+msgstr "IBAN"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/swift"
+
+
+msgid "Instructions"
+msgstr "οδηγίες"
+
+
+msgid "No subscription created."
+msgstr "δεν δημιουργήθηκε συνδρομή."
+
+
+msgid "Choose plan"
+msgstr "επιλέξτε σχέδιο"
+
+
+msgid "Payment methods"
+msgstr "μέθοδοι πληρωμής"
+
+
+msgid "Total"
+msgstr "σύνολο"
+
+
+msgid "Period"
+msgstr "περίοδος"
+
+
+msgid "Subscription summary"
+msgstr "περίληψη συνδρομής"
+
+
+msgid "Phone"
+msgstr "τηλέφωνο"
+
+
+msgid "Postcode"
+msgstr "ΤΑΧΥΔΡΟΜΙΚΟΣ ΚΩΔΙΚΟΣ"
+
+
+msgid "County"
+msgstr "κομητεία"
+
+
+msgid "Town/City"
+msgstr "πόλη/πόλη"
+
+
+msgid "Street address"
+msgstr "διεύθυνση"
+
+
+msgid "Country/Region"
+msgstr "χώρα/περιοχή"
+
+
+msgid "VAT Number"
+msgstr "αριθμός ΦΠΑ"
+
+
+msgid "(optional)"
+msgstr "(προαιρετικός)"
+
+
+msgid "Billing details"
+msgstr "λεπτομέρειες χρέωσης"
+
+
+msgid "User information"
+msgstr "Πληροφορίες χρήστη"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "φαίνεται ότι δεν έχουν διαμορφωθεί διαθέσιμες μέθοδοι πληρωμής."
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "σας ευχαριστώ! χαιρόμαστε που σας βλέπουμε εδώ. η συνδρομή σας θα ενεργοποιηθεί σύντομα!"
+
+
+msgid "Our bank details"
+msgstr "τραπεζικά στοιχεία μας"
+
+
+msgid "Your subscription details"
+msgstr "τα στοιχεία της συνδρομής σας"
+
+
+msgid "View subscription"
+msgstr "προβολή συνδρομής"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "δεν έχετε επιλέξει έγκυρο πρόγραμμα συνδρομής."
+
+
+msgid "Field empty"
+msgstr "πεδίο κενό"
+
+
+msgid "Empty first name"
+msgstr "κενό όνομα"
+
+
+msgid "Empty last name"
+msgstr "κενό επώνυμο"
+
+
+msgid "Empty country"
+msgstr "άδεια χώρα"
+
+
+msgid "Empty address"
+msgstr "κενή διεύθυνση"
+
+
+msgid "Empty city"
+msgstr "άδεια πόλη"
+
+
+msgid "Empty county"
+msgstr "άδεια κομητεία"
+
+
+msgid "Empty postcode"
+msgstr "κενός ταχυδρομικός κώδικας"
+
+
+msgid "Empty phone"
+msgstr "άδειο τηλέφωνο"
+
+
+msgid "Empty email"
+msgstr "κενό email"
+
+
+msgid "Email or username empty!"
+msgstr "κενό email ή όνομα χρήστη!"
+
+
+msgid "Pass empty!"
+msgstr "περάστε άδεια!"
+
+
+msgid "Username incorrect!"
+msgstr "όνομα χρήστη λάθος!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "μη έγκυρο μοτίβο πάσας!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "παρακαλούμε ενεργοποιήστε τον λογαριασμό σας ακολουθώντας τον σύνδεσμο που αποστέλλεται στη διεύθυνση email σας."
+
+
+msgid "Resend activation link"
+msgstr "επανάληψη αποστολής συνδέσμου ενεργοποίησης"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "Για να έχετε πρόσβαση σε αυτήν την ενότητα, πρέπει να ενεργοποιήσετε τον λογαριασμό σας."
+
+
+msgid "Email empty!"
+msgstr "το email άδειο!"
+
+
+msgid "Username empty!"
+msgstr "το όνομα χρήστη κενό!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "μοτίβο πέρασμα λάθος!"
+
+
+msgid "Retyped pass empty!"
+msgstr "ξαναπληκτρολογήθηκε άδεια!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "ξαναπληκτρολόγησε το πάσο ακριβώς!"
+
+
+msgid "User already exists!"
+msgstr "ο χρήστης υπάρχει ήδη!"
+
+
+msgid "Email already exists!"
+msgstr "Το email υπάρχει ήδη!"
+
+
+msgid "Your account could not be created."
+msgstr "δεν ήταν δυνατή η δημιουργία του λογαριασμού σας."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "ελέγξτε το email σας (εισερχόμενα ή φάκελο ανεπιθύμητης αλληλογραφίας) για να επικυρώσετε τον λογαριασμό σας."
+
+
+msgid "User empty!"
+msgstr "άδειος χρήστης!"
+
+
+msgid "User does not exists!"
+msgstr "χρήστης δεν υπάρχει!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "δημιουργήθηκε νέος σύνδεσμος ενεργοποίησης. ελέγξτε το email σας (εισερχόμενα ή φάκελο ανεπιθύμητης αλληλογραφίας) για να επικυρώσετε τον λογαριασμό σας."
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "Η επαλήθευση captcha απέτυχε!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "Η βαθμολογία χρήστη captcha απέτυχε. Παρακαλώ επικοινωνήστε μαζί μας!"
+
+
+msgid "Loading"
+msgstr "φόρτωση"
+
+
+msgid "Here are the results for the search:"
+msgstr "εδώ είναι τα αποτελέσματα για την αναζήτηση:"
+
+
+msgid "Price"
+msgstr "τιμή"
+
+
+msgid "EXCLUSIVE"
+msgstr "ΑΠΟΚΛΕΙΣΤΙΚΌΣ"
+
+
+msgid "Tel:"
+msgstr "τηλ:"
+
+
+msgid "Share"
+msgstr "μερίδιο"
+
+
+msgid "Print"
+msgstr "Τυπώνω"
+
+
+msgid "At"
+msgstr "στο"
+
+
+msgid "Comments are closed."
+msgstr "τα σχόλια είναι κλειδωμένα."
+
+
+msgid "My account"
+msgstr "ο λογαριασμός μου"
+
+
+msgid "Payment method"
+msgstr "μέθοδος πληρωμής"
+

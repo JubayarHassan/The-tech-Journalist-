@@ -1,0 +1,24 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+/*
+Pandemic Pro Demo
+*/
+.td-pandemic-pro .td_block_covid_19_counter .td-covid-country-name {
+  display: none;
+}
+.td-pandemic-pro .tdb-aj-search-results {
+  position: relative;
+}
+.td-pandemic-pro .tdb-aj-search-results:before {
+  content: '';
+  width: 100%;
+  height: 4px;
+  background-color: #fff;
+  position: absolute;
+  top: -4px;
+  left: 0;
+}

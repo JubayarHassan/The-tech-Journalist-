@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+
+
+msgid "View all results"
+msgstr "सभी परिणाम दिखाएँ"
+
+
+msgid "No results"
+msgstr "कोई परिणाम नहीं है"
+
+
+msgid "Home"
+msgstr "होम"
+
+
+msgid "CLOSE"
+msgstr "बंद करें"
+
+
+msgid "Page"
+msgstr "पेज"
+
+
+msgid "All"
+msgstr "सभी"
+
+
+msgid "By"
+msgstr "द्वारा"
+
+
+msgid "Load more"
+msgstr "और अधिक लोड करें"
+
+
+msgid "View all posts in"
+msgstr "सभी पोस्ट देखें"
+
+
+msgid "Tags"
+msgstr "टैग्स"
+
+
+msgid "Previous article"
+msgstr "पिछला लेख"
+
+
+msgid "Next article"
+msgstr "अगला लेख"
+
+
+msgid "Authors"
+msgstr "लेखक"
+
+
+msgid "Author"
+msgstr "लेखक"
+
+
+msgid "RELATED ARTICLES"
+msgstr "संबंधित लेख"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "लेखक से और अधिक"
+
+
+msgid "VIA"
+msgstr "के माध्यम से"
+
+
+msgid "SOURCE"
+msgstr "स्रोत"
+
+
+msgid "TAGS"
+msgstr "टैग्स"
+
+
+msgid "SHARE"
+msgstr "शेयर करें"
+
+
+msgid "Continue"
+msgstr "जारी रखें"
+
+
+msgid "Read more"
+msgstr "और अधिक पढ़ें"
+
+
+msgid "Name:"
+msgstr "नाम:"
+
+
+msgid "Email:"
+msgstr "ईमेल:"
+
+
+msgid "Website:"
+msgstr "वेबसाइट:"
+
+
+msgid "Comment:"
+msgstr "टिप्पणी:"
+
+
+msgid "LEAVE A REPLY"
+msgstr "कोई जवाब दें"
+
+
+msgid "Post Comment"
+msgstr "टिप्पणी पोस्ट करें"
+
+
+msgid "Cancel reply"
+msgstr "जवाब कैंसिल करें"
+
+
+msgid "Reply"
+msgstr "जवाब दें"
+
+
+msgid "Log in to leave a comment"
+msgstr "टिप्पणी करने के लिए लॉग इन करें"
+
+
+msgid "NO COMMENTS"
+msgstr "कोई टिप्पणी नहीं है"
+
+
+msgid "1 COMMENT"
+msgstr "1 टिप्पणी"
+
+
+msgid "COMMENTS"
+msgstr "टिप्पणी"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "समीक्षा निरीक्षण"
+
+
+msgid "SUMMARY"
+msgstr "सारांश"
+
+
+msgid "OVERALL SCORE"
+msgstr "कुल स्कोर"
+
+
+msgid "Ooops... Error 404"
+msgstr "ऊप्स...त्रुटि 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "माफ़ करें, लेकिन आप जो पेज खोज रहे हैं वो मौजूद नहीं है।"
+
+
+msgid "You can go to the"
+msgstr "आप निम्न पर जा सकते हैं"
+
+
+msgid "HOMEPAGE"
+msgstr "होमपेज"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "हमारे नवीनतम पोस्ट"
+
+
+msgid "Posts by"
+msgstr "द्वारा पोस्ट"
+
+
+msgid "POSTS"
+msgstr "पोस्ट"
+
+
+msgid "Posts tagged with"
+msgstr "पोस्ट के साथ टैग"
+
+
+msgid "Tag"
+msgstr "टैग"
+
+
+msgid "Daily Archives:"
+msgstr "दैनिक आर्काइव:"
+
+
+msgid "Monthly Archives:"
+msgstr "मासिक आर्काइव:"
+
+
+msgid "Yearly Archives:"
+msgstr "वार्षिक आर्काइव:"
+
+
+msgid "Archives"
+msgstr "आर्काइव:"
+
+
+msgid "LATEST ARTICLES"
+msgstr "नवीनतम लेख"
+
+
+msgid "search results"
+msgstr "खोज परिणाम"
+
+
+msgid "Search"
+msgstr "खोजें"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "यदि आप परिणामों से खुश नहीं हैं तो कृपया कोई अन्य खोज करें"
+
+
+msgid "Contact us"
+msgstr "हमें संपर्क करें"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "पेज %TOTAL_PAGES% का %CURRENT_PAGE%"
+
+
+msgid "Next"
+msgstr "अगला"
+
+
+msgid "Prev"
+msgstr "पिछला"
+
+
+msgid "No results for your search"
+msgstr "इस खोज के लिए कोई परिणाम नहीं है"
+
+
+msgid "No posts to display"
+msgstr "डिस्प्ले करने के लिए कोई पोस्ट नहीं हैं"
+
+
+msgid "LOG IN"
+msgstr "लॉग इन"
+
+
+msgid "Sign in / Join"
+msgstr "साइन इन/ ज्वाइन करें"
+
+
+msgid "Log In"
+msgstr "लॉग इन"
+
+
+msgid "REGISTER"
+msgstr "रजिस्टर करें"
+
+
+msgid "Send My Pass"
+msgstr "मेरा पास भेजें"
+
+
+msgid "Forgot your password?"
+msgstr "अपना पासवर्ड भूल गए?"
+
+
+msgid "Please wait..."
+msgstr "कृपया प्रतीक्षा करें..."
+
+
+msgid "User or password incorrect!"
+msgstr "यूजर या पासवर्ड गलत है!"
+
+
+msgid "Email or username incorrect!"
+msgstr "ईमेल या यूजरनेम गलत है!"
+
+
+msgid "Email incorrect!"
+msgstr "ईमेल गलत है!"
+
+
+msgid "User or email already exists!"
+msgstr "यूजर या ईमेल पहले से मौजूद है!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "कृपया अपना ईमेल देखें (इंडेक्स या स्पैम फोल्डर), पासवर्ड वहां भेजा गया था।"
+
+
+msgid "Email address not found!"
+msgstr "ईमेल एड्रेस नहीं मिला!"
+
+
+msgid "Your password is reset, check your email."
+msgstr "आपका पासवर्ड रीसेट हो गया है, कृपया अपना ईमेल देखें।"
+
+
+msgid "Welcome! Log into your account"
+msgstr "आपका स्वागत है! अपने अकाउंट पर लॉग इन करें"
+
+
+msgid "Register for an account"
+msgstr "अकाउंट के लिए रजिस्टर करें"
+
+
+msgid "Recover your password"
+msgstr "अपना पासवर्ड रिकवर करें"
+
+
+msgid "your username"
+msgstr "आपका यूजरनेम"
+
+
+msgid "your password"
+msgstr "आपका पासवर्ड"
+
+
+msgid "your email"
+msgstr "आपका ईमेल"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "एक पासवर्ड आपको ईमेल कर दिया जाएगा।"
+
+
+msgid "Logout"
+msgstr "लॉगआउट"
+
+
+msgid "Like"
+msgstr "लाइक करें"
+
+
+msgid "Fans"
+msgstr "फैंस"
+
+
+msgid "Follow"
+msgstr "फॉलो करें"
+
+
+msgid "Followers"
+msgstr "फॉलोवर"
+
+
+msgid "Subscribe"
+msgstr "सब्सक्राइब करें"
+
+
+msgid "Subscribers"
+msgstr "सब्सक्राइबर्स"
+
+
+msgid "MORE STORIES"
+msgstr "और अधिक कहानियां"
+
+
+msgid "Latest"
+msgstr "नवीनतम"
+
+
+msgid "Featured posts"
+msgstr "विशेष पोस्ट"
+
+
+msgid "Most popular"
+msgstr "सबसे अधिक लोकप्रिय"
+
+
+msgid "7 days popular"
+msgstr "7 दिनों के लोकप्रिय"
+
+
+msgid "By review score"
+msgstr "समीक्षा स्कोर द्वारा"
+
+
+msgid "Random"
+msgstr "क्रमरहित"
+
+
+msgid "Trending Now"
+msgstr "अभी प्रचलित"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "लोकप्रिय श्रेणी"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "और भी अधिक न्यूज़"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "पिछला (बायीं तीर वाला बटन)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "अगला (दायीं तीर वाला बटन)"
+
+
+msgid "%curr% of %total%"
+msgstr "%total% का %curr%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "%url% से कंटेंट लोड नहीं हो पाया।"
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "इमेज #%curr% लोड नहीं हो पाया।"
+
+
+msgid "Blog"
+msgstr "ब्लॉग"
+
+
+msgid "Share on Facebook"
+msgstr "फेसबुक पर शेयर करें"
+
+
+msgid "Tweet on Twitter"
+msgstr "ट्विटर पर ट्वीट करें"
+
+
+msgid "EDITOR PICKS"
+msgstr "संपादक की पसंद"
+
+
+msgid "POPULAR POSTS"
+msgstr "लोकप्रिय पोस्ट"
+
+
+msgid "FOLLOW US"
+msgstr "हमें का पालन करें"
+
+
+msgid "ABOUT US"
+msgstr "हमारे बारे में"
+
+
+msgid "More"
+msgstr "अधिक"
+
+
+msgid "Featured"
+msgstr "चित्रित किया"
+
+
+msgid "All time popular"
+msgstr "लोकप्रिय सभी समय"
+
+
+msgid "Likes"
+msgstr "पसंद"
+
+
+msgid "Register"
+msgstr "रजिस्टर"
+
+
+msgid "of"
+msgstr "की"
+
+
+msgid "Euro Member Countries"
+msgstr "यूरो के सदस्य देशों"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है"
+
+
+msgid "Follow us on Instagram"
+msgstr "इंस्टाग्राम पर हमें का पालन करें"
+
+
+msgid "Back"
+msgstr "वापस"
+
+
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+
+msgid "Sign up"
+msgstr "साइन अप करें"
+
+
+msgid "Join"
+msgstr "शामिल हो"
+
+
+msgid "Welcome!"
+msgstr "स्वागत हे!"
+
+
+msgid "Log into your account"
+msgstr "अपने खाते में प्रवेश करें"
+
+
+msgid "Password recovery"
+msgstr "पासवर्ड की दोबारा प्राप्ति"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "आपका ईमेल (सूचकांक या स्पैम फोल्डर) की जाँच करें, पासवर्ड वहां भेजा गया था।"
+
+
+msgid "Australian Dollar"
+msgstr "ऑस्ट्रलियन डॉलर"
+
+
+msgid "Bulgarian Lev"
+msgstr "बल्गेरियाई लेव"
+
+
+msgid "Brazilian Real"
+msgstr "ब्राजीली रियल"
+
+
+msgid "Canadian Dollar"
+msgstr "कैनेडियन डॉलर"
+
+
+msgid "Swiss Franc"
+msgstr "स्विस फ्रैंक"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "चीनी युआन रॅन्मिन्बी"
+
+
+msgid "Czech Republic Koruna"
+msgstr "चेक गणराज्य कोरुना"
+
+
+msgid "Danish Krone"
+msgstr "डेनमार्क क्रोन"
+
+
+msgid "British Pound"
+msgstr "ब्रिटिश पाउंड"
+
+
+msgid "Hong Kong Dollar"
+msgstr "हांगकांग का डॉलर"
+
+
+msgid "Croatian Kuna"
+msgstr "क्रोएशियाई कुना"
+
+
+msgid "Hungarian Forint"
+msgstr "हंगरी फ़ोरिंट"
+
+
+msgid "Indonesian Rupiah"
+msgstr "इंडोनेशियाई रुपिया"
+
+
+msgid "Israeli Shekel"
+msgstr "इस्राइली शेकेल"
+
+
+msgid "Indian Rupee"
+msgstr "भारतीय रुपया"
+
+
+msgid "Japanese Yen"
+msgstr "जापानी येन"
+
+
+msgid "Korean (South) Won"
+msgstr "कोरियाई (दक्षिण) वोन"
+
+
+msgid "Mexican Peso"
+msgstr "मेक्सिकन पीसो"
+
+
+msgid "Malaysian Ringgit"
+msgstr "मलेशियाई रिंग्गित"
+
+
+msgid "Norwegian Krone"
+msgstr "नॉर्वे क्रोन"
+
+
+msgid "New Zealand Dollar"
+msgstr "न्यूजीलैंड डॉलर"
+
+
+msgid "Philippine Peso"
+msgstr "फ़िलिपीनी पीसो"
+
+
+msgid "Polish Zloty"
+msgstr "पोलिश ज़्लॉटी"
+
+
+msgid "Romanian (New) Leu"
+msgstr "रोमानियाई (नया) लियू"
+
+
+msgid "Russian Ruble"
+msgstr "रूसी रूबल"
+
+
+msgid "Swedish Krona"
+msgstr "स्वीडिश क्रोना"
+
+
+msgid "Singapore Dollar"
+msgstr "सिंगापुर का डॉलर"
+
+
+msgid "Thai Baht"
+msgstr "थाई बात"
+
+
+msgid "Turkish Lira"
+msgstr "तुर्की लीरा"
+
+
+msgid "United States Dollar"
+msgstr "यूनाइटेड स्टेट का डॉलर"
+
+
+msgid "South African Rand"
+msgstr "दक्षिण अफ्रीकी रैंड"
+
+
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+
+msgid "views"
+msgstr "विचारों"
+
+
+msgid "Modified date:"
+msgstr "संशोधित तिथि:"
+
+
+msgid "Please enter your name here"
+msgstr "कृपया अपना नाम यहाँ दर्ज करें"
+
+
+msgid "Please enter your email address here"
+msgstr "कृपया अपना ईमेल पता यहाँ दर्ज करें"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "आपने एक गलत ईमेल पता दर्ज किया है!"
+
+
+msgid "Please enter your comment!"
+msgstr "कृपया अपनी टिप्पणी दर्ज करें!"
+
+
+msgid "Logged in as"
+msgstr "के रूप में लॉग इन किया"
+
+
+msgid "Log out?"
+msgstr "लोग आउट?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "% s के रूप में लॉग इन किया। अपनी प्रोफाइल सम्पादित करें।"
+
+
+msgid "Edit"
+msgstr "संपादित करें"
+
+
+msgid "Login"
+msgstr "लॉग इन करें"
+
+
+msgid "Send My Password"
+msgstr "मेरा पासवर्ड भेजो"
+
+
+msgid "Create an account"
+msgstr "खाता बनाएं"
+
+
+msgid "Welcome! Register for an account"
+msgstr "स्वागत हे! एक खाते के लिए रजिस्टर करें"
+
+
+msgid "About me"
+msgstr "मेरे बारे में"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "अगली बार टिप्पणी के लिए इस ब्राउज़र में मेरा नाम, ईमेल और वेबसाइट सहेजें"
+
+
+msgid "Orders"
+msgstr "आदेश"
+
+
+msgid "Addresses"
+msgstr "पतों"
+
+
+msgid "Account settings"
+msgstr "अकाउंट सेटिंग"
+
+
+msgid "Hello"
+msgstr "नमस्ते"
+
+
+msgid "No products in the cart."
+msgstr "कार्ट में कोई प्रोडक्ट नहीं हैं।"
+
+
+msgid "Product categories"
+msgstr "उत्पाद श्रेणियाँ"
+
+
+msgid "Product tags"
+msgstr "उत्पाद टैग"
+
+
+msgid "Success"
+msgstr "सफलता"
+
+
+msgid "Acknowledgment is required!"
+msgstr "स्वीकृति की आवश्यकता है!"
+
+
+msgid "Please fill in a valid email."
+msgstr "कृपया एक वैध ईमेल भरें।"
+
+
+msgid "Please fill in an email address."
+msgstr "कृपया एक ईमेल पता भरें।"
+
+
+msgid "Get into your account."
+msgstr "अपने खाते में जाओ।"
+
+
+msgid "My subscription account"
+msgstr "मेरा सदस्यता खाता"
+
+
+msgid "Account details"
+msgstr "खाता विवरण"
+
+
+msgid "Subscriptions"
+msgstr "सदस्यता"
+
+
+msgid "My woo account"
+msgstr "मेरा वू खाता"
+
+
+msgid "Log out"
+msgstr "लॉग आउट"
+
+
+msgid "Email address"
+msgstr "मेल पता"
+
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "कम से कम एक लोअर केस (a..z) होना चाहिए"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "कम से कम एक अपर केस (a..z) होना चाहिए"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "लंबाई में कम से कम 6 वर्ण होने चाहिए"
+
+
+msgid "Repeat password"
+msgstr "पासवर्ड दोहराएं"
+
+
+msgid "Already have an account?"
+msgstr "क्या आपके पास पहले से एक खाता मौजूद है?"
+
+
+msgid "Recover password"
+msgstr "गोपनीय शब्द पुन प्राप्त करे"
+
+
+msgid "Username or Email address"
+msgstr "उपयोगकर्ता का नाम या ईमेल पता"
+
+
+msgid "Forgot password?"
+msgstr "पासवर्ड भूल गए?"
+
+
+msgid "Don't have an account?"
+msgstr "खाता नहीं है?"
+
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+
+msgid "Welcome to your account!"
+msgstr "आपके खाते में आपका स्वागत है!"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "नमस्ते %1$s (%2$s नहीं? %3$s)! अपने खाता डैशबोर्ड से आप अपनी सदस्यताएँ देख सकते हैं और अपने खाते के विवरण प्रबंधित कर सकते हैं।"
+
+
+msgid "Lost Password"
+msgstr "पासवर्ड खो गया"
+
+
+msgid "Manage your account details."
+msgstr "अपने खाते के विवरण प्रबंधित करें।"
+
+
+msgid "First name"
+msgstr "पहला नाम"
+
+
+msgid "Last name"
+msgstr "अंतिम नाम"
+
+
+msgid "Display name"
+msgstr "प्रदर्शित होने वाला नाम"
+
+
+msgid "Current password"
+msgstr "वर्तमान पासवर्ड"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(अपरिवर्तित छोड़ने के लिए खाली छोड़ दें)"
+
+
+msgid "New password"
+msgstr "नया पासवर्ड"
+
+
+msgid "Confirm new password"
+msgstr "नए पासवर्ड की पुष्टि करें"
+
+
+msgid "Save changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+
+msgid "All your subscriptions."
+msgstr "आपकी सभी सदस्यताएँ।"
+
+
+msgid "Plan"
+msgstr "योजना"
+
+
+msgid "Payment type"
+msgstr "भुगतान के प्रकार"
+
+
+msgid "Status"
+msgstr "स्थिति"
+
+
+msgid "Months"
+msgstr "महीने"
+
+
+msgid "Start date"
+msgstr "आरंभ करने की तिथि"
+
+
+msgid "End date"
+msgstr "समाप्ति तिथि"
+
+
+msgid "missing plan"
+msgstr "लापता योजना"
+
+
+msgid "Free"
+msgstr "नि: शुल्क"
+
+
+msgid "Active"
+msgstr "सक्रिय"
+
+
+msgid "Trial"
+msgstr "परीक्षण"
+
+
+msgid "Blocked"
+msgstr "अवरोधित"
+
+
+msgid "Closed"
+msgstr "बंद किया हुआ"
+
+
+msgid "Not paid"
+msgstr "नहीं चुकाया"
+
+
+msgid "Awaiting payment"
+msgstr "भुगतान का इंतजार"
+
+
+msgid "Subscription info"
+msgstr "सदस्यता जानकारी"
+
+
+msgid "ID"
+msgstr "पहचान"
+
+
+msgid "Name"
+msgstr "नाम"
+
+
+msgid "Company name"
+msgstr "कंपनी का नाम"
+
+
+msgid "VAT"
+msgstr "टब"
+
+
+msgid "Address"
+msgstr "पता"
+
+
+msgid "City"
+msgstr "शहर"
+
+
+msgid "Country/State"
+msgstr "देश राज्य"
+
+
+msgid "Email"
+msgstr "ईमेल"
+
+
+msgid "Postal code"
+msgstr "डाक कोड"
+
+
+msgid "Direct bank transfer details"
+msgstr "प्रत्यक्ष बैंक हस्तांतरण विवरण"
+
+
+msgid "Account name"
+msgstr "खाते का नाम"
+
+
+msgid "Account number"
+msgstr "खाता संख्या"
+
+
+msgid "Bank name"
+msgstr "बैंक का नाम"
+
+
+msgid "Routing number"
+msgstr "राउटिंग नम्बर"
+
+
+msgid "IBAN"
+msgstr "इबन"
+
+
+msgid "Bic/Swift"
+msgstr "बीआईसी/स्विफ्ट"
+
+
+msgid "Instructions"
+msgstr "निर्देश"
+
+
+msgid "No subscription created."
+msgstr "कोई सदस्यता नहीं बनाई गई।"
+
+
+msgid "Choose plan"
+msgstr "योजना चुनें"
+
+
+msgid "Payment methods"
+msgstr "भुगतान की विधि"
+
+
+msgid "Total"
+msgstr "कुल"
+
+
+msgid "Period"
+msgstr "अवधि"
+
+
+msgid "Subscription summary"
+msgstr "सदस्यता सारांश"
+
+
+msgid "Phone"
+msgstr "फ़ोन"
+
+
+msgid "Postcode"
+msgstr "पोस्टकोड"
+
+
+msgid "County"
+msgstr "काउंटी"
+
+
+msgid "Town/City"
+msgstr "शहर/शहर"
+
+
+msgid "Street address"
+msgstr "गली का पता"
+
+
+msgid "Country/Region"
+msgstr "देश/क्षेत्र"
+
+
+msgid "VAT Number"
+msgstr "वैट क्रमांक"
+
+
+msgid "(optional)"
+msgstr "(वैकल्पिक)"
+
+
+msgid "Billing details"
+msgstr "बिलिंग विवरण"
+
+
+msgid "User information"
+msgstr "यूजर जानकारी"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "ऐसा लगता है कि कोई भी उपलब्ध भुगतान विधि कॉन्फ़िगर नहीं की गई है।"
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "धन्यवाद! हम आपको यहां देखकर प्रसन्न हैं। आपकी सदस्यता जल्द ही सक्रिय हो जाएगी!"
+
+
+msgid "Our bank details"
+msgstr "हमारे बैंक विवरण"
+
+
+msgid "Your subscription details"
+msgstr "आपकी सदस्यता विवरण"
+
+
+msgid "View subscription"
+msgstr "सदस्यता देखें"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "आपने वैध सदस्यता योजना का चयन नहीं किया है।"
+
+
+msgid "Field empty"
+msgstr "मैदान खाली"
+
+
+msgid "Empty first name"
+msgstr "खाली पहला नाम"
+
+
+msgid "Empty last name"
+msgstr "खाली उपनाम"
+
+
+msgid "Empty country"
+msgstr "खाली देश"
+
+
+msgid "Empty address"
+msgstr "खाली पता"
+
+
+msgid "Empty city"
+msgstr "खाली शहर"
+
+
+msgid "Empty county"
+msgstr "खाली काउंटी"
+
+
+msgid "Empty postcode"
+msgstr "खाली पोस्टकोड"
+
+
+msgid "Empty phone"
+msgstr "खाली फोन"
+
+
+msgid "Empty email"
+msgstr "खाली ईमेल"
+
+
+msgid "Email or username empty!"
+msgstr "ईमेल या उपयोगकर्ता नाम खाली!"
+
+
+msgid "Pass empty!"
+msgstr "खाली पास!"
+
+
+msgid "Username incorrect!"
+msgstr "उपयोगकर्ता नाम गलत है!"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "अमान्य पास पैटर्न!"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "कृपया अपने ईमेल पते पर भेजे गए लिंक का अनुसरण करके अपना खाता सक्रिय करें।"
+
+
+msgid "Resend activation link"
+msgstr "सक्रियण लिंक पुनः भेजें"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "इस अनुभाग तक पहुंचने के लिए, आपको अपना खाता सक्रिय करना होगा।"
+
+
+msgid "Email empty!"
+msgstr "ईमेल खाली!"
+
+
+msgid "Username empty!"
+msgstr "उपयोगकर्ता नाम खाली!"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "पास पैटर्न गलत!"
+
+
+msgid "Retyped pass empty!"
+msgstr "फिर से टाइप किया हुआ पास खाली!"
+
+
+msgid "Retyped pass exactly!"
+msgstr "पास बिल्कुल सही!"
+
+
+msgid "User already exists!"
+msgstr "उपयोगकर्ता पहले से मौजूद है!"
+
+
+msgid "Email already exists!"
+msgstr "ईमेल पहले से मौजूद है!"
+
+
+msgid "Your account could not be created."
+msgstr "आपका खाता नहीं बनाया जा सका."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "अपना खाता सत्यापित करने के लिए कृपया अपना ईमेल (इनबॉक्स या स्पैम फ़ोल्डर) जांचें।"
+
+
+msgid "User empty!"
+msgstr "उपयोगकर्ता खाली!"
+
+
+msgid "User does not exists!"
+msgstr "उपयोगकर्ता मौजूद नहीं है!"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "नया सक्रियण लिंक उत्पन्न हुआ। अपना खाता सत्यापित करने के लिए कृपया अपना ईमेल (इनबॉक्स या स्पैम फ़ोल्डर) जांचें।"
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "कैप्चा सत्यापन विफल!"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "कैप्चा उपयोगकर्ता स्कोर विफल रहा। कृपया हमसे संपर्क करें!"
+
+
+msgid "Loading"
+msgstr "लोड हो रहा है"
+
+
+msgid "Here are the results for the search:"
+msgstr "यहाँ खोज के परिणाम हैं:"
+
+
+msgid "Price"
+msgstr "कीमत"
+
+
+msgid "EXCLUSIVE"
+msgstr "अनन्य"
+
+
+msgid "Tel:"
+msgstr "दूरभाष:"
+
+
+msgid "Share"
+msgstr "साझा करना"
+
+
+msgid "Print"
+msgstr "प्रिंट"
+
+
+msgid "At"
+msgstr "पर"
+
+
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+
+msgid "My account"
+msgstr "मेरा खाता"
+
+
+msgid "Payment method"
+msgstr "भुगतान का तरीका"
+

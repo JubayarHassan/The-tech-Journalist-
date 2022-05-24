@@ -1,0 +1,88 @@
+// Clearfix
+.clearfix {
+  *zoom: 1;
+  &:before,
+  &:after {
+    display: table;
+    content: '';
+    line-height: 0;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+// Border Radius
+.border-radius(@radius) {
+  -webkit-border-radius: @radius;
+  border-radius: @radius;
+}
+
+// Transitions
+.transition(@transition) {
+  -webkit-transition: @transition;
+  transition: @transition;
+}
+
+.transition_important(@transition) {
+  -webkit-transition: @transition !important;
+  transition: @transition !important;
+}
+
+.transition(@transition1, @transition2) {
+  -webkit-transition: @transition1, @transition2;
+  transition: @transition1, @transition2;
+}
+
+.transition(@transition1, @transition2, @transition3) {
+  -webkit-transition: @transition1, @transition2, @transition3;
+  transition: @transition1, @transition2, @transition3;
+}
+
+.transform-origin(@string) {
+  -webkit-transform-origin: @string;
+  transform-origin: @string;
+}
+
+.transform(@string){
+  transform: @string;
+  -webkit-transform: @string;
+}
+
+.perspective(@string){
+  perspective: @string;
+  -webkit-perspective: @string;
+}
+
+.transform-style(@string){
+  -webkit-transform-style: @string;
+  transform-style: @string;
+}
+
+.transform_important(@string){
+  transform: @string !important;
+  -webkit-transform: @string !important;
+}
+
+// Opacity
+.opacity(@value) {
+  opacity: @value;
+}
+
+// Drop shadows
+.box-shadow(@shadow) {
+  -webkit-box-shadow: @shadow;
+  box-shadow: @shadow;
+}
+
+// Box sizing
+.box-sizing(@boxmodel) {
+  -webkit-box-sizing: @boxmodel;
+  box-sizing: @boxmodel;
+}
+
+
+.scale (@factor) {
+  -webkit-transform: scale(@factor);
+  transform: scale(@factor);
+}

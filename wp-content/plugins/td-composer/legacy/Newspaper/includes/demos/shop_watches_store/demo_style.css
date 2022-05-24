@@ -1,0 +1,210 @@
+/*  ----------------------------------------------------------------------------
+    responsive settings
+*/
+/* responsive landscape tablet */
+/* responsive portrait tablet */
+/* responsive portrait phone */
+.mx_image_background {
+  background-color: #f2f2f2;
+}
+.td-visibility-hidden {
+  visibility: hidden;
+}
+/*  ----------------------------------------------------------------------------
+    from bootstrap
+*/
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+usage:
+.td-block-row {
+  .mx-row(td-block-span);
+}
+
+@all_span_selector - is the begining of the span selector
+ */
+.td-shop-watches-store {
+  /* -----------
+  /* --- CART PAGE
+   */
+  /* -----------
+  /* --- CHECKOUT PAGE
+   */
+}
+.td-shop-watches-store.woocommerce-page .td-crumb-container {
+  position: relative;
+  margin-bottom: 0;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  min-height: auto;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+  /* responsive portrait phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container {
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container {
+    padding-top: 30px;
+    padding-bottom: 15px;
+  }
+}
+@media (max-width: 767px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+}
+.td-shop-watches-store.woocommerce-page .td-crumb-container:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  width: 100vw;
+  height: 100%;
+  background-color: #f5f6f8;
+  z-index: -1;
+}
+.td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs {
+  font-family: Montserrat;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+  text-align: center;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+  /* responsive portrait phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 11px;
+  }
+}
+@media (max-width: 767px) {
+  .td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs {
+    font-size: 12px;
+  }
+}
+.td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs,
+.td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs a {
+  color: #666;
+}
+.td-shop-watches-store.woocommerce-page .td-crumb-container .entry-crumbs a:hover {
+  color: #c51c1c;
+}
+.td-shop-watches-store.woocommerce-page .td-page-header {
+  position: relative;
+  margin-bottom: 100px;
+  padding-bottom: 60px;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* responsive landscape tablet */
+  /* responsive portrait tablet + mobile phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-watches-store.woocommerce-page .td-page-header {
+    margin-bottom: 80px;
+    padding-bottom: 50px;
+  }
+}
+@media (max-width: 1018px) {
+  .td-shop-watches-store.woocommerce-page .td-page-header {
+    margin-bottom: 60px;
+    padding-bottom: 40px;
+  }
+}
+.td-shop-watches-store.woocommerce-page .td-page-header:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  width: 100vw;
+  height: 100%;
+  background-color: #f5f6f8;
+  z-index: -1;
+}
+.td-shop-watches-store.woocommerce-page .td-page-header .td-page-title {
+  margin-bottom: 0;
+  line-height: 1.5;
+  text-align: center;
+  /* responsive landscape tablet */
+  /* responsive portrait tablet */
+  /* responsive portrait phone */
+}
+@media (min-width: 1019px) and (max-width: 1140px) {
+  .td-shop-watches-store.woocommerce-page .td-page-header .td-page-title {
+    font-size: 30px;
+    line-height: 1.4;
+  }
+}
+@media (min-width: 768px) and (max-width: 1018px) {
+  .td-shop-watches-store.woocommerce-page .td-page-header .td-page-title {
+    font-size: 28px;
+    line-height: 1.4;
+  }
+}
+@media (max-width: 767px) {
+  .td-shop-watches-store.woocommerce-page .td-page-header .td-page-title {
+    font-size: 30px;
+    line-height: 1.4;
+  }
+}
+.td-shop-watches-store.woocommerce-cart .woocommerce-cart-form .woocommerce-cart-form__cart-item .product-name a {
+  font-family: Playfair Display;
+  font-weight: 700;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default table.shop_table td.actions {
+  border-radius: 100px;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default table.shop_table td.actions .coupon .input-text {
+  margin-right: 0;
+  border-radius: 100px 0 0 100px;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default table.shop_table button {
+  text-transform: uppercase;
+  border-radius: 0 100px 100px 0;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default table.shop_table button[name="update_cart"] {
+  border-radius: 100px;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals a {
+  background-color: #c51c1c;
+  text-transform: uppercase;
+  border-radius: 100px;
+}
+.td-shop-watches-store.woocommerce-cart .td-woo-default .cart-collaterals .cart_totals a:hover {
+  background-color: #000;
+}
+.td-shop-watches-store.woocommerce-checkout .td-woo-default .woocommerce-checkout button {
+  background-color: #c51c1c;
+  text-transform: uppercase;
+  border-radius: 100px;
+}
+.td-shop-watches-store.woocommerce-checkout .td-woo-default .woocommerce-checkout button:hover {
+  background-color: #000;
+}

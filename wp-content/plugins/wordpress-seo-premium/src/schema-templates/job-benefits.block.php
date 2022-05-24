@@ -1,0 +1,1 @@
+{{block name="yoast/job-benefits" category="yoast-recommended-job-blocks" description="
